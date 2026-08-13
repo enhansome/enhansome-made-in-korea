@@ -1,0 +1,897 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fzf by junegunn",
+          "description": "fzf is a general-purpose command-line fuzzy finder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T14:44:46Z",
+            "owner": "junegunn",
+            "repo": "fzf",
+            "stars": 82536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-plug by junegunn",
+          "description": "A minimalist Vim plugin manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-05-22T13:40:34Z",
+            "owner": "junegunn",
+            "repo": "vim-plug",
+            "stars": 35750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swc by kdy1",
+          "description": "SWC (stands for ) is a super-fast TypeScript / JavaScript compiler written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T15:07:26Z",
+            "owner": "swc-project",
+            "repo": "swc",
+            "stars": 34180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytorch-tutorial by yunjey",
+          "description": "This repository provides tutorial code for deep learning researchers to learn PyTorch. In the tutorial, most of the models were implemented with less than 30 lines of code. Before starting this tutorial, it is recommended to finish Official Pytorch Tutorial.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-15T10:17:50Z",
+            "owner": "yunjey",
+            "repo": "pytorch-tutorial",
+            "stars": 32450
+          }
+        }
+      ],
+      "title": "> 20K ⭐️"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome-CV by posquit0",
+          "description": "Awesome CV is LaTeX template for a CV(Curriculum Vitae), Résumé or Cover Letter inspired by Fancy CV. It is easy to customize your own template, especially since it is really written by a clean, semantic markup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-08-13T00:32:35Z",
+            "owner": "posquit0",
+            "repo": "Awesome-CV",
+            "stars": 28272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interview_Question_for_Beginner by JaeYeopHan",
+          "description": "👦 👧 Technical-Interview guidelines written for those who started studying programming. I wish you all the best. 👾",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-09T07:53:33Z",
+            "owner": "jbee37142",
+            "repo": "Interview_Question_for_Beginner",
+            "stars": 21645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tui.editor by nhn",
+          "description": "GFM Markdown and WYSIWYG Editor - Productive and Extensible",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-01T15:38:05Z",
+            "owner": "nhn",
+            "repo": "tui.editor",
+            "stars": 18012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qrcodejs by davidshimjs",
+          "description": "Cross-browser QRCode generator for javascript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-01T10:44:40Z",
+            "owner": "davidshimjs",
+            "repo": "qrcodejs",
+            "stars": 14301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pinpoint by naver",
+          "description": "APM, (Application Performance Management) tool for large-scale distributed systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T02:20:57Z",
+            "owner": "pinpoint-apm",
+            "repo": "pinpoint",
+            "stars": 13864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "summernote by hackerwins",
+          "description": "Summernote is a JavaScript library that helps you create WYSIWYG editors online.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-15T11:09:18Z",
+            "owner": "summernote",
+            "repo": "summernote",
+            "stars": 11833
+          }
+        }
+      ],
+      "title": "> 10K ⭐️"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tech-interview-for-developer by gyoogle",
+          "description": "👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-06-04T08:16:06Z",
+            "owner": "gyoogle",
+            "repo": "tech-interview-for-developer",
+            "stars": 17515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tui.calendar by nhn",
+          "description": "🍞📅A JavaScript calendar that has everything you need.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-24T16:42:33Z",
+            "owner": "nhn",
+            "repo": "tui.calendar",
+            "stars": 12694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-deep-vision by kjw0612",
+          "description": "A curated list of deep learning resources for computer vision",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-15T10:52:15Z",
+            "owner": "kjw0612",
+            "repo": "awesome-deep-vision",
+            "stars": 11177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crow by ipkn",
+          "description": "Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-06T14:58:07Z",
+            "owner": "ipkn",
+            "repo": "crow",
+            "stars": 7625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-rnn by kjw0612",
+          "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-02-03T05:56:39Z",
+            "owner": "kjw0612",
+            "repo": "awesome-rnn",
+            "stars": 6210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "billboard.js by naver",
+          "description": "📊 Re-usable, easy interface JavaScript chart library based on D3.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:47:22Z",
+            "owner": "naver",
+            "repo": "billboard.js",
+            "stars": 6005
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lepton(Firefox-UI-Fix) by black7375",
+          "description": "🦊 I respect proton UI and aim to improve it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-07-14T17:22:37Z",
+            "owner": "black7375",
+            "repo": "Firefox-UI-Fix",
+            "stars": 5860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tui.chart by nhn",
+          "description": "🍞📊 Beautiful chart for data visualization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-05T00:37:48Z",
+            "owner": "nhn",
+            "repo": "tui.chart",
+            "stars": 5402
+          }
+        }
+      ],
+      "title": "> 5K ⭐️"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tui.image-editor by nhn",
+          "description": "🍞🎨 Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-20T10:48:41Z",
+            "owner": "nhn",
+            "repo": "tui.image-editor",
+            "stars": 7665
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fe-news by naver",
+          "description": "FE 기술 소식 큐레이션 뉴스레터",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-05T03:07:12Z",
+            "owner": "naver",
+            "repo": "fe-news",
+            "stars": 6283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "open-color by yeun",
+          "description": "Open color is an open-source color scheme optimized for UI like font, background, border, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Handlebars",
+            "last_commit": "2023-12-10T16:29:40Z",
+            "owner": "yeun",
+            "repo": "open-color",
+            "stars": 5553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-iap by hyochan",
+          "description": "react-native native module for In App Purchase.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T14:24:47Z",
+            "owner": "hyochan",
+            "repo": "react-native-iap",
+            "stars": 3227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "egjs-flicking by naver",
+          "description": "🎠 ♻️ Everyday 30 million people experience. It's reliable, flexible and extendable carousel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T05:36:53Z",
+            "owner": "naver",
+            "repo": "egjs-flicking",
+            "stars": 2921
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tui.grid by nhn",
+          "description": "🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-10T23:41:36Z",
+            "owner": "nhn",
+            "repo": "tui.grid",
+            "stars": 2565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "egjs-infinitegrid by naver",
+          "description": "A module used to arrange card elements including content infinitely on a grid layout.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-14T06:15:11Z",
+            "owner": "naver",
+            "repo": "egjs-infinitegrid",
+            "stars": 2360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ngrinder by naver",
+          "description": "enterprise level performance testing solution",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2024-10-10T02:17:58Z",
+            "owner": "naver",
+            "repo": "ngrinder",
+            "stars": 2103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ko.javascript.info by Violet-Bora-Lee",
+          "description": "모던 JavaScript 튜토리얼 (The Modern JavaScript Tutorial in Korean)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T03:41:58Z",
+            "owner": "javascript-tutorial",
+            "repo": "ko.javascript.info",
+            "stars": 1982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hwp.js by hahnlee",
+          "description": "Open source hwp viewer and parser library powered by web technology",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-10T10:35:42Z",
+            "owner": "hahnlee",
+            "repo": "hwp.js",
+            "stars": 1305
+          }
+        }
+      ],
+      "title": "> 1K ⭐️"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SunEditor by JiHong88",
+          "description": "Pure javascript based WYSIWYG html editor, with no dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T15:08:42Z",
+            "owner": "JiHong88",
+            "repo": "suneditor",
+            "stars": 2003
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-design-editor by salgum1114",
+          "description": "React Design Editor has started to developed direct manipulation of editable design tools like Powerpoint, We've developed it with reactjs, ant.design, fabricjs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T01:50:06Z",
+            "owner": "salgum1114",
+            "repo": "react-design-editor",
+            "stars": 1705
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuerd by dineug",
+          "description": "Entity-Relationship Diagram Editor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T05:36:19Z",
+            "owner": "dineug",
+            "repo": "erd-editor",
+            "stars": 1702
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-swift-korean-lecture by ClintJang",
+          "description": "훌륭한 Swift 세션 동영상(강좌), 한글 자막있는 혹은 한국어 강의 정보 링크 모음 (Awesome Swift Korean lecture information)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-12-22T00:02:14Z",
+            "owner": "ClintJang",
+            "repo": "awesome-swift-korean-lecture",
+            "stars": 1339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "egjs by naver",
+          "description": "Javascript components group that brings easiest and fastest way to build a web application in your way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-08T05:09:10Z",
+            "owner": "naver",
+            "repo": "egjs",
+            "stars": 943
+          }
+        }
+      ],
+      "title": "> 500 ⭐️"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "celery.node by actumn",
+          "description": "Celery task queue client/worker for nodejs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-30T09:44:39Z",
+            "owner": "actumn",
+            "repo": "celery.node",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-web-editor by CHEWCHEWW",
+          "description": "The react-web-editor is a WYSIWYG editor library. you can resize and drag your component. It also has simple rich text editor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-06T08:24:28Z",
+            "owner": "CHEWCHEWW",
+            "repo": "react-web-editor",
+            "stars": 265
+          }
+        }
+      ],
+      "title": "> 100 ⭐️"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "adorable-css by developer-1px",
+          "description": "Rapid On-Demand Atomic CSS Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-30T12:30:28Z",
+            "owner": "developer-1px",
+            "repo": "adorable-css",
+            "stars": 304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zsh-hangul by gomjellie",
+          "description": "한영 전환의 지옥에서 벗어나서 광명찾자!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-07-31T06:06:36Z",
+            "owner": "gomjellie",
+            "repo": "zsh-hangul",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyPinkSign by bandoche",
+          "description": "A friendly Python library for NPKI (공동인증서) certificates 🔑",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T16:44:02Z",
+            "owner": "bandoche",
+            "repo": "PyPinkSign",
+            "stars": 111
+          }
+        }
+      ],
+      "title": "> 0 ⭐️"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🇳🇬 made-in-nigeria",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T03:50:35Z",
+            "owner": "acekyd",
+            "repo": "made-in-nigeria",
+            "stars": 1134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇮🇷 made-in-iran",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-21T19:51:29Z",
+            "owner": "mohebifar",
+            "repo": "made-in-iran",
+            "stars": 969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇺🇦 made-in-ukraine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-17T18:22:23Z",
+            "owner": "chernivtsijs",
+            "repo": "made-in-ukraine",
+            "stars": 602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇯🇵 made-in-japan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-09T02:11:11Z",
+            "owner": "suguru03",
+            "repo": "made-in-japan",
+            "stars": 298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇹🇼 made-in-taiwan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-20T08:27:36Z",
+            "owner": "hueitan",
+            "repo": "made-in-taiwan",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇧🇩 made-in-bangladesh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-04-15T14:12:15Z",
+            "owner": "made-in-bangladesh",
+            "repo": "made-in-bangladesh",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇧🇷 made-in-brazil",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:36:07Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-brazil",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇷🇴 made-in-romania",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:45:11Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-romania",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇮🇳 made-in-india",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:40:54Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-india",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇹🇷 made-in-turkey",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-06T13:16:22Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-turkey",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇬🇭 made-in-ghana",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-05-25T11:07:14Z",
+            "owner": "devcongress",
+            "repo": "made-in-ghana",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇿🇲 made-in-zambia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-27T08:58:18Z",
+            "owner": "ZambianTech",
+            "repo": "made-in-zambia",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇵🇱 made-in-poland",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:44:18Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-poland",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇧🇦 made-in-bosnia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:35:31Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-bosnia",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇧🇯 made-in-benin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-22T12:38:24Z",
+            "owner": "olivsinz",
+            "repo": "made-in-benin",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇦🇹 made-in-austria",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:33:58Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-austria",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇨🇴 made-in-colombia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:37:16Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-colombia",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇱🇻 made-in-latvia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-06-08T15:04:37Z",
+            "owner": "ummahusla",
+            "repo": "Made-in-Latvia",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇲🇺 made-in-mauritius",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-26T23:16:00Z",
+            "owner": "Humeira",
+            "repo": "made-in-Mauritius",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇧🇾 made-in-belarus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:34:21Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-belarus",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇸🇳 made-in-senegal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-08-05T11:43:31Z",
+            "owner": "JoloffCode",
+            "repo": "made-in-senegal",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇨🇦 made-in-canada",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Related projects"
+    },
+    {
+      "description": "CC-BY-NC © Junwoo Ji\n",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:21:34.856Z",
+    "original_repository": "738/made-in-korea",
+    "original_repository_sha": "7addf897a7ad9ed13433887d5dd629b9c60b6cee",
+    "enhanced_repository": "enhansome/enhansome-made-in-korea",
+    "enhanced_repository_description": null,
+    "title": "Awesome 🇰🇷 Made in Korea with stars"
+  }
+}
