@@ -14,7 +14,7 @@
             "last_commit": "2026-08-11T14:44:46Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82536
+            "stars": 82547
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-05-22T13:40:34Z",
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35750
+            "stars": 35752
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2023-08-15T10:17:50Z",
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32450
+            "stars": 32449
           }
         }
       ],
@@ -76,7 +76,7 @@
             "last_commit": "2026-08-13T00:32:35Z",
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28272
+            "stars": 28274
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-08-09T07:53:33Z",
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21645
+            "stars": 21646
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2024-08-01T15:38:05Z",
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 18012
+            "stars": 18011
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2024-05-01T10:44:40Z",
             "owner": "davidshimjs",
             "repo": "qrcodejs",
-            "stars": 14301
+            "stars": 14299
           }
         },
         {
@@ -129,10 +129,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T02:20:57Z",
+            "last_commit": "2026-08-13T07:49:23Z",
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
-            "stars": 13864
+            "stars": 13863
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2026-04-15T11:09:18Z",
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11833
+            "stars": 11832
           }
         }
       ],
@@ -166,7 +166,7 @@
             "last_commit": "2025-06-04T08:16:06Z",
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17515
+            "stars": 17516
           }
         },
         {
@@ -194,7 +194,7 @@
             "last_commit": "2023-08-15T10:52:15Z",
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11177
+            "stars": 11178
           }
         },
         {
@@ -236,7 +236,7 @@
             "last_commit": "2026-08-13T00:47:22Z",
             "owner": "naver",
             "repo": "billboard.js",
-            "stars": 6005
+            "stars": 6004
           }
         },
         {
@@ -887,7 +887,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:21:34.856Z",
+    "last_updated": "2026-08-13T12:35:46.603Z",
     "original_repository": "738/made-in-korea",
     "original_repository_sha": "7addf897a7ad9ed13433887d5dd629b9c60b6cee",
     "enhanced_repository": "enhansome/enhansome-made-in-korea",
