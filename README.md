@@ -17,30 +17,30 @@
 
 ## > 20K ⭐️
 
-* **[fzf](https://github.com/junegunn/fzf) ⭐ 82,546 | 🐛 326 | 🌐 Go | 📅 2026-08-14** by [junegunn](https://github.com/junegunn)<br>
+* **[fzf](https://github.com/junegunn/fzf) ⭐ 82,552 | 🐛 327 | 🌐 Go | 📅 2026-08-17** by [junegunn](https://github.com/junegunn)<br>
   fzf is a general-purpose command-line fuzzy finder.
 
-* **[vim-plug](https://github.com/junegunn/vim-plug) ⭐ 35,747 | 🐛 87 | 🌐 Vim Script | 📅 2026-05-22** by [junegunn](https://github.com/junegunn)<br>
+* **[vim-plug](https://github.com/junegunn/vim-plug) ⭐ 35,746 | 🐛 86 | 🌐 Vim Script | 📅 2026-05-22** by [junegunn](https://github.com/junegunn)<br>
   A minimalist Vim plugin manager.
 
-* **[swc](https://github.com/swc-project/swc) ⭐ 34,178 | 🐛 409 | 🌐 Rust | 📅 2026-08-15** by [kdy1](https://github.com/kdy1)<br>
+* **[swc](https://github.com/swc-project/swc) ⭐ 34,177 | 🐛 410 | 🌐 Rust | 📅 2026-08-17** by [kdy1](https://github.com/kdy1)<br>
   SWC (stands for `Speedy Web Compiler`) is a super-fast TypeScript / JavaScript compiler written in Rust.
 
-* **[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,452 | 🐛 90 | 🌐 Python | 📅 2023-08-15** by [yunjey](https://github.com/yunjey)<br>
+* **[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,461 | 🐛 90 | 🌐 Python | 📅 2023-08-15** by [yunjey](https://github.com/yunjey)<br>
   This repository provides tutorial code for deep learning researchers to learn PyTorch. In the tutorial, most of the models were implemented with less than 30 lines of code. Before starting this tutorial, it is recommended to finish Official Pytorch Tutorial.
 
 ## > 10K ⭐️
 
-* **[Awesome-CV](https://github.com/posquit0/Awesome-CV) ⭐ 28,298 | 🐛 144 | 🌐 TeX | 📅 2026-08-13** by [posquit0](https://github.com/posquit0)<br>
+* **[Awesome-CV](https://github.com/posquit0/Awesome-CV) ⭐ 28,299 | 🐛 144 | 🌐 TeX | 📅 2026-08-13** by [posquit0](https://github.com/posquit0)<br>
   Awesome CV is LaTeX template for a CV(Curriculum Vitae), Résumé or Cover Letter inspired by Fancy CV. It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
 
-* **[Interview\_Question\_for\_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) ⭐ 21,651 | 🐛 3 | 📅 2024-08-09** by [JaeYeopHan](https://github.com/JaeYeopHan)<br>
+* **[Interview\_Question\_for\_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) ⭐ 21,652 | 🐛 3 | 📅 2024-08-09** by [JaeYeopHan](https://github.com/JaeYeopHan)<br>
   👦 👧 Technical-Interview guidelines written for those who started studying programming. I wish you all the best. 👾
 
-* **[tui.editor](https://github.com/nhn/tui.editor) ⭐ 18,012 | 🐛 643 | 🌐 TypeScript | 📅 2024-08-01** by [nhn](https://github.com/nhn)<br>
+* **[tui.editor](https://github.com/nhn/tui.editor) ⭐ 18,010 | 🐛 643 | 🌐 TypeScript | 📅 2024-08-01** by [nhn](https://github.com/nhn)<br>
   GFM Markdown and WYSIWYG Editor - Productive and Extensible
 
-* **[qrcodejs](https://github.com/davidshimjs/qrcodejs) ⭐ 14,299 | 🐛 238 | 🌐 JavaScript | 📅 2024-05-01** by [davidshimjs](https://github.com/davidshimjs)<br>
+* **[qrcodejs](https://github.com/davidshimjs/qrcodejs) ⭐ 14,295 | 🐛 238 | 🌐 JavaScript | 📅 2024-05-01** by [davidshimjs](https://github.com/davidshimjs)<br>
   Cross-browser QRCode generator for javascript
 
 * **[pinpoint](https://github.com/pinpoint-apm/pinpoint) ⭐ 13,862 | 🐛 537 | 🌐 Java | 📅 2026-08-14** by [naver](https://github.com/naver)<br>
@@ -51,10 +51,10 @@
 
 ## > 5K ⭐️
 
-* **[tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) ⭐ 17,518 | 🐛 20 | 🌐 Java | 📅 2025-06-04** by [gyoogle](https://github.com/gyoogle)<br>
+* **[tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) ⭐ 17,522 | 🐛 20 | 🌐 Java | 📅 2025-06-04** by [gyoogle](https://github.com/gyoogle)<br>
   👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 
-* **[tui.calendar](https://github.com/nhn/tui.calendar) ⭐ 12,697 | 🐛 208 | 🌐 TypeScript | 📅 2024-06-24** by [nhn](https://github.com/nhn)<br>
+* **[tui.calendar](https://github.com/nhn/tui.calendar) ⭐ 12,695 | 🐛 208 | 🌐 TypeScript | 📅 2024-06-24** by [nhn](https://github.com/nhn)<br>
   🍞📅A JavaScript calendar that has everything you need.
 
 * **[awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,182 | 🐛 47 | 📅 2023-08-15** by [kjw0612](https://github.com/kjw0612)<br>
@@ -95,13 +95,13 @@
 * **[tui.grid](https://github.com/nhn/tui.grid) ⭐ 2,565 | 🐛 404 | 🌐 TypeScript | 📅 2024-01-10** by [nhn](https://github.com/nhn)<br>
   🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!
 
-* **[egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) ⭐ 2,360 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-14** by [naver](https://github.com/naver)<br>
+* **[egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) ⭐ 2,361 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-14** by [naver](https://github.com/naver)<br>
   A module used to arrange card elements including content infinitely on a grid layout.
 
 * **[ngrinder](https://github.com/naver/ngrinder) ⚠️ Archived** by [naver](https://github.com/naver)<br>
   enterprise level performance testing solution
 
-* **[ko.javascript.info](https://github.com/javascript-tutorial/ko.javascript.info) ⭐ 1,980 | 🐛 271 | 🌐 HTML | 📅 2026-08-13** by [Violet-Bora-Lee](https://github.com/Violet-Bora-Lee)<br>
+* **[ko.javascript.info](https://github.com/javascript-tutorial/ko.javascript.info) ⭐ 1,980 | 🐛 271 | 🌐 HTML | 📅 2026-08-17** by [Violet-Bora-Lee](https://github.com/Violet-Bora-Lee)<br>
   모던 JavaScript 튜토리얼 (The Modern JavaScript Tutorial in Korean)
 
 * **[hwp.js](https://github.com/hahnlee/hwp.js) ⭐ 1,305 | 🐛 34 | 🌐 TypeScript | 📅 2025-01-10** by [hahnlee](https://github.com/hahnlee)<br />
@@ -109,7 +109,7 @@
 
 ## > 500 ⭐️
 
-* **[SunEditor](https://github.com/JiHong88/SunEditor) ⭐ 2,004 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-12** by [JiHong88](https://github.com/JiHong88)<br>
+* **[SunEditor](https://github.com/JiHong88/SunEditor) ⭐ 2,004 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-17** by [JiHong88](https://github.com/JiHong88)<br>
   Pure javascript based WYSIWYG html editor, with no dependencies.
 
 * **[react-design-editor](https://github.com/salgum1114/react-design-editor) ⭐ 1,706 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-10** by [salgum1114](https://github.com/salgum1114)<br>
@@ -139,13 +139,13 @@
 * **[zsh-hangul](https://github.com/gomjellie/zsh-hangul) ⭐ 273 | 🐛 3 | 🌐 Shell | 📅 2025-07-31** by [gomjellie](https://github.com/gomjellie)<br>
   한영 전환의 지옥에서 벗어나서 광명찾자!
 
-* **[PyPinkSign](https://github.com/bandoche/PyPinkSign) ⭐ 111 | 🐛 1 | 🌐 Python | 📅 2026-07-24** by [bandoche](https://github.com/bandoche)<br>
+* **[PyPinkSign](https://github.com/bandoche/PyPinkSign) ⭐ 112 | 🐛 1 | 🌐 Python | 📅 2026-07-24** by [bandoche](https://github.com/bandoche)<br>
   A friendly Python library for NPKI (공동인증서) certificates 🔑
 
 ## Related projects
 
-* 🇳🇬 [made-in-nigeria](https://github.com/acekyd/made-in-nigeria) ⭐ 1,134 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-16
-* 🇮🇷 [made-in-iran](https://github.com/mohebifar/made-in-iran) ⭐ 968 | 🐛 72 | 🌐 TypeScript | 📅 2024-03-21
+* 🇳🇬 [made-in-nigeria](https://github.com/acekyd/made-in-nigeria) ⭐ 1,135 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-17
+* 🇮🇷 [made-in-iran](https://github.com/mohebifar/made-in-iran) ⭐ 969 | 🐛 72 | 🌐 TypeScript | 📅 2024-03-21
 * 🇺🇦 [made-in-ukraine](https://github.com/chernivtsijs/made-in-ukraine) ⭐ 602 | 🐛 0 | 📅 2025-11-17
 * 🇯🇵 [made-in-japan](https://github.com/suguru03/made-in-japan) ⭐ 298 | 🐛 8 | 🌐 JavaScript | 📅 2022-12-09
 * 🇹🇼 [made-in-taiwan](https://github.com/hueitan/made-in-taiwan) ⭐ 293 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-20
@@ -175,4 +175,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
