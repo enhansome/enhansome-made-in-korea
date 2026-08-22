@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T04:28:14Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82600
+            "stars": 82605
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-05-22T13:40:34Z",
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35750
+            "stars": 35752
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 115110181,
             "language": "Rust",
-            "last_commit": "2026-08-21T08:18:11Z",
+            "last_commit": "2026-08-22T03:23:19Z",
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34180
+            "stars": 34181
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2023-08-15T10:17:50Z",
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32460
+            "stars": 32463
           }
         }
       ],
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-13T00:32:35Z",
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28337
+            "stars": 28342
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-08-09T07:53:33Z",
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21661
+            "stars": 21662
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2024-08-01T15:38:05Z",
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 18007
+            "stars": 18006
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-21T05:06:13Z",
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
-            "stars": 13863
+            "stars": 13862
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-04-15T11:09:18Z",
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11832
+            "stars": 11833
           }
         }
       ],
@@ -177,7 +177,7 @@
             "last_commit": "2025-06-04T08:16:06Z",
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17525
+            "stars": 17526
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2024-06-24T16:42:33Z",
             "owner": "nhn",
             "repo": "tui.calendar",
-            "stars": 12698
+            "stars": 12699
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-07-14T17:22:37Z",
             "owner": "black7375",
             "repo": "Firefox-UI-Fix",
-            "stars": 5864
+            "stars": 5865
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2023-11-20T10:48:41Z",
             "owner": "nhn",
             "repo": "tui.image-editor",
-            "stars": 7667
+            "stars": 7668
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2026-08-17T10:30:02Z",
             "owner": "JiHong88",
             "repo": "suneditor",
-            "stars": 2005
+            "stars": 2004
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2026-08-17T18:07:04Z",
             "owner": "dineug",
             "repo": "erd-editor",
-            "stars": 1701
+            "stars": 1704
           }
         },
         {
@@ -642,7 +642,7 @@
             "last_commit": "2024-03-21T19:51:29Z",
             "owner": "mohebifar",
             "repo": "made-in-iran",
-            "stars": 969
+            "stars": 968
           }
         },
         {
@@ -747,7 +747,7 @@
             "last_commit": "2025-02-13T20:40:54Z",
             "owner": "IonicaBizau",
             "repo": "made-in-india",
-            "stars": 89
+            "stars": 90
           }
         },
         {
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T12:15:39.648Z",
+    "last_updated": "2026-08-22T12:01:32.393Z",
     "original_repository": "738/made-in-korea",
     "original_repository_id": 467360062,
     "original_repository_sha": "7addf897a7ad9ed13433887d5dd629b9c60b6cee",
