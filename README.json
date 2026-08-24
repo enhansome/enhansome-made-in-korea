@@ -5,8 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "fzf by junegunn",
-          "description": "fzf is a general-purpose command-line fuzzy finder.",
+          "title": "fzf",
+          "description": "by junegunn fzf is a general-purpose command-line fuzzy finder.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,13 +15,13 @@
             "last_commit": "2026-08-24T01:02:41Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82630
+            "stars": 82634
           }
         },
         {
           "node_type": "item",
-          "title": "vim-plug by junegunn",
-          "description": "A minimalist Vim plugin manager.",
+          "title": "vim-plug",
+          "description": "by junegunn A minimalist Vim plugin manager.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -30,13 +30,13 @@
             "last_commit": "2026-05-22T13:40:34Z",
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35750
+            "stars": 35749
           }
         },
         {
           "node_type": "item",
-          "title": "swc by kdy1",
-          "description": "SWC (stands for ) is a super-fast TypeScript / JavaScript compiler written in Rust.",
+          "title": "swc",
+          "description": "by kdy1 SWC (stands for ) is a super-fast TypeScript / JavaScript compiler written in Rust.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -50,8 +50,8 @@
         },
         {
           "node_type": "item",
-          "title": "pytorch-tutorial by yunjey",
-          "description": "This repository provides tutorial code for deep learning researchers to learn PyTorch. In the tutorial, most of the models were implemented with less than 30 lines of code. Before starting this tutorial, it is recommended to finish Official Pytorch Tutorial.",
+          "title": "pytorch-tutorial",
+          "description": "by yunjey This repository provides tutorial code for deep learning researchers to learn PyTorch. In the tutorial, most of the models were implemented with less than 30 lines of code. Before starting this tutorial, it is recommended to finish Official Pytorch Tutorial.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -60,7 +60,7 @@
             "last_commit": "2023-08-15T10:17:50Z",
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32459
+            "stars": 32458
           }
         }
       ],
@@ -71,8 +71,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Awesome-CV by posquit0",
-          "description": "Awesome CV is LaTeX template for a CV(Curriculum Vitae), Résumé or Cover Letter inspired by Fancy CV. It is easy to customize your own template, especially since it is really written by a clean, semantic markup.",
+          "title": "Awesome-CV",
+          "description": "by posquit0 Awesome CV is LaTeX template for a CV(Curriculum Vitae), Résumé or Cover Letter inspired by Fancy CV. It is easy to customize your own template, especially since it is really written by a clean, semantic markup.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -81,13 +81,13 @@
             "last_commit": "2026-08-13T00:32:35Z",
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28353
+            "stars": 28354
           }
         },
         {
           "node_type": "item",
-          "title": "Interview_Question_for_Beginner by JaeYeopHan",
-          "description": "👦 👧 Technical-Interview guidelines written for those who started studying programming. I wish you all the best. 👾",
+          "title": "Interview_Question_for_Beginner",
+          "description": "by JaeYeopHan 👦 👧 Technical-Interview guidelines written for those who started studying programming. I wish you all the best. 👾",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -96,13 +96,13 @@
             "last_commit": "2024-08-09T07:53:33Z",
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21670
+            "stars": 21669
           }
         },
         {
           "node_type": "item",
-          "title": "tui.editor by nhn",
-          "description": "GFM Markdown and WYSIWYG Editor - Productive and Extensible",
+          "title": "tui.editor",
+          "description": "by nhn GFM Markdown and WYSIWYG Editor - Productive and Extensible",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -111,13 +111,13 @@
             "last_commit": "2024-08-01T15:38:05Z",
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 18011
+            "stars": 18012
           }
         },
         {
           "node_type": "item",
-          "title": "qrcodejs by davidshimjs",
-          "description": "Cross-browser QRCode generator for javascript",
+          "title": "qrcodejs",
+          "description": "by davidshimjs Cross-browser QRCode generator for javascript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -131,8 +131,8 @@
         },
         {
           "node_type": "item",
-          "title": "pinpoint by naver",
-          "description": "APM, (Application Performance Management) tool for large-scale distributed systems.",
+          "title": "pinpoint",
+          "description": "by naver APM, (Application Performance Management) tool for large-scale distributed systems.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -146,8 +146,8 @@
         },
         {
           "node_type": "item",
-          "title": "summernote by hackerwins",
-          "description": "Summernote is a JavaScript library that helps you create WYSIWYG editors online.",
+          "title": "summernote",
+          "description": "by hackerwins Summernote is a JavaScript library that helps you create WYSIWYG editors online.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -156,7 +156,7 @@
             "last_commit": "2026-04-15T11:09:18Z",
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11835
+            "stars": 11836
           }
         }
       ],
@@ -167,8 +167,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "tech-interview-for-developer by gyoogle",
-          "description": "👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖",
+          "title": "tech-interview-for-developer",
+          "description": "by gyoogle 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -177,13 +177,13 @@
             "last_commit": "2025-06-04T08:16:06Z",
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17526
+            "stars": 17525
           }
         },
         {
           "node_type": "item",
-          "title": "tui.calendar by nhn",
-          "description": "🍞📅A JavaScript calendar that has everything you need.",
+          "title": "tui.calendar",
+          "description": "by nhn 🍞📅A JavaScript calendar that has everything you need.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -197,8 +197,8 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-deep-vision by kjw0612",
-          "description": "A curated list of deep learning resources for computer vision",
+          "title": "awesome-deep-vision",
+          "description": "by kjw0612 A curated list of deep learning resources for computer vision",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -212,8 +212,8 @@
         },
         {
           "node_type": "item",
-          "title": "crow by ipkn",
-          "description": "Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)",
+          "title": "crow",
+          "description": "by ipkn Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -227,8 +227,8 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-rnn by kjw0612",
-          "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
+          "title": "awesome-rnn",
+          "description": "by kjw0612 Recurrent Neural Network - A curated list of resources dedicated to RNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -242,8 +242,8 @@
         },
         {
           "node_type": "item",
-          "title": "billboard.js by naver",
-          "description": "📊 Re-usable, easy interface JavaScript chart library based on D3.js",
+          "title": "billboard.js",
+          "description": "by naver 📊 Re-usable, easy interface JavaScript chart library based on D3.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -257,8 +257,8 @@
         },
         {
           "node_type": "item",
-          "title": "Lepton(Firefox-UI-Fix) by black7375",
-          "description": "🦊 I respect proton UI and aim to improve it.",
+          "title": "Lepton(Firefox-UI-Fix)",
+          "description": "by black7375 🦊 I respect proton UI and aim to improve it.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -267,13 +267,13 @@
             "last_commit": "2026-07-14T17:22:37Z",
             "owner": "black7375",
             "repo": "Firefox-UI-Fix",
-            "stars": 5866
+            "stars": 5867
           }
         },
         {
           "node_type": "item",
-          "title": "tui.chart by nhn",
-          "description": "🍞📊 Beautiful chart for data visualization.",
+          "title": "tui.chart",
+          "description": "by nhn 🍞📊 Beautiful chart for data visualization.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -293,8 +293,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "tui.image-editor by nhn",
-          "description": "🍞🎨 Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.",
+          "title": "tui.image-editor",
+          "description": "by nhn 🍞🎨 Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -308,8 +308,8 @@
         },
         {
           "node_type": "item",
-          "title": "fe-news by naver",
-          "description": "FE 기술 소식 큐레이션 뉴스레터",
+          "title": "fe-news",
+          "description": "by naver FE 기술 소식 큐레이션 뉴스레터",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -323,8 +323,8 @@
         },
         {
           "node_type": "item",
-          "title": "open-color by yeun",
-          "description": "Open color is an open-source color scheme optimized for UI like font, background, border, etc.",
+          "title": "open-color",
+          "description": "by yeun Open color is an open-source color scheme optimized for UI like font, background, border, etc.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -338,8 +338,8 @@
         },
         {
           "node_type": "item",
-          "title": "react-native-iap by hyochan",
-          "description": "react-native native module for In App Purchase.",
+          "title": "react-native-iap",
+          "description": "by hyochan react-native native module for In App Purchase.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -353,8 +353,8 @@
         },
         {
           "node_type": "item",
-          "title": "egjs-flicking by naver",
-          "description": "🎠 ♻️ Everyday 30 million people experience. It's reliable, flexible and extendable carousel.",
+          "title": "egjs-flicking",
+          "description": "by naver 🎠 ♻️ Everyday 30 million people experience. It's reliable, flexible and extendable carousel.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -368,8 +368,8 @@
         },
         {
           "node_type": "item",
-          "title": "tui.grid by nhn",
-          "description": "🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!",
+          "title": "tui.grid",
+          "description": "by nhn 🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -383,8 +383,8 @@
         },
         {
           "node_type": "item",
-          "title": "egjs-infinitegrid by naver",
-          "description": "A module used to arrange card elements including content infinitely on a grid layout.",
+          "title": "egjs-infinitegrid",
+          "description": "by naver A module used to arrange card elements including content infinitely on a grid layout.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -398,8 +398,8 @@
         },
         {
           "node_type": "item",
-          "title": "ngrinder by naver",
-          "description": "enterprise level performance testing solution",
+          "title": "ngrinder",
+          "description": "by naver enterprise level performance testing solution",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -413,8 +413,8 @@
         },
         {
           "node_type": "item",
-          "title": "ko.javascript.info by Violet-Bora-Lee",
-          "description": "모던 JavaScript 튜토리얼 (The Modern JavaScript Tutorial in Korean)",
+          "title": "ko.javascript.info",
+          "description": "by Violet-Bora-Lee 모던 JavaScript 튜토리얼 (The Modern JavaScript Tutorial in Korean)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -423,13 +423,13 @@
             "last_commit": "2026-08-24T05:04:20Z",
             "owner": "javascript-tutorial",
             "repo": "ko.javascript.info",
-            "stars": 1980
+            "stars": 1979
           }
         },
         {
           "node_type": "item",
-          "title": "hwp.js by hahnlee",
-          "description": "Open source hwp viewer and parser library powered by web technology",
+          "title": "hwp.js",
+          "description": "by hahnlee Open source hwp viewer and parser library powered by web technology",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -449,8 +449,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "SunEditor by JiHong88",
-          "description": "Pure javascript based WYSIWYG html editor, with no dependencies.",
+          "title": "SunEditor",
+          "description": "by JiHong88 Pure javascript based WYSIWYG html editor, with no dependencies.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -464,8 +464,8 @@
         },
         {
           "node_type": "item",
-          "title": "react-design-editor by salgum1114",
-          "description": "React Design Editor has started to developed direct manipulation of editable design tools like Powerpoint, We've developed it with reactjs, ant.design, fabricjs",
+          "title": "react-design-editor",
+          "description": "by salgum1114 React Design Editor has started to developed direct manipulation of editable design tools like Powerpoint, We've developed it with reactjs, ant.design, fabricjs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -479,8 +479,8 @@
         },
         {
           "node_type": "item",
-          "title": "vuerd by dineug",
-          "description": "Entity-Relationship Diagram Editor",
+          "title": "vuerd",
+          "description": "by dineug Entity-Relationship Diagram Editor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -494,8 +494,8 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-swift-korean-lecture by ClintJang",
-          "description": "훌륭한 Swift 세션 동영상(강좌), 한글 자막있는 혹은 한국어 강의 정보 링크 모음 (Awesome Swift Korean lecture information)",
+          "title": "awesome-swift-korean-lecture",
+          "description": "by ClintJang 훌륭한 Swift 세션 동영상(강좌), 한글 자막있는 혹은 한국어 강의 정보 링크 모음 (Awesome Swift Korean lecture information)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -509,8 +509,8 @@
         },
         {
           "node_type": "item",
-          "title": "egjs by naver",
-          "description": "Javascript components group that brings easiest and fastest way to build a web application in your way.",
+          "title": "egjs",
+          "description": "by naver Javascript components group that brings easiest and fastest way to build a web application in your way.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -530,8 +530,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "celery.node by actumn",
-          "description": "Celery task queue client/worker for nodejs",
+          "title": "celery.node",
+          "description": "by actumn Celery task queue client/worker for nodejs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -545,8 +545,8 @@
         },
         {
           "node_type": "item",
-          "title": "react-web-editor by CHEWCHEWW",
-          "description": "The react-web-editor is a WYSIWYG editor library. you can resize and drag your component. It also has simple rich text editor",
+          "title": "react-web-editor",
+          "description": "by CHEWCHEWW The react-web-editor is a WYSIWYG editor library. you can resize and drag your component. It also has simple rich text editor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -566,8 +566,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "adorable-css by developer-1px",
-          "description": "Rapid On-Demand Atomic CSS Framework",
+          "title": "adorable-css",
+          "description": "by developer-1px Rapid On-Demand Atomic CSS Framework",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -581,8 +581,8 @@
         },
         {
           "node_type": "item",
-          "title": "zsh-hangul by gomjellie",
-          "description": "한영 전환의 지옥에서 벗어나서 광명찾자!",
+          "title": "zsh-hangul",
+          "description": "by gomjellie 한영 전환의 지옥에서 벗어나서 광명찾자!",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -596,8 +596,8 @@
         },
         {
           "node_type": "item",
-          "title": "PyPinkSign by bandoche",
-          "description": "A friendly Python library for NPKI (공동인증서) certificates 🔑",
+          "title": "PyPinkSign",
+          "description": "by bandoche A friendly Python library for NPKI (공동인증서) certificates 🔑",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T12:17:16.409Z",
+    "last_updated": "2026-08-24T14:45:36.917Z",
     "original_repository": "738/made-in-korea",
     "original_repository_id": 467360062,
     "original_repository_sha": "7addf897a7ad9ed13433887d5dd629b9c60b6cee",
