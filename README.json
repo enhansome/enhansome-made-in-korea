@@ -12,10 +12,10 @@
             "archived": false,
             "id": 13807606,
             "language": "Go",
-            "last_commit": "2026-08-21T04:28:14Z",
+            "last_commit": "2026-08-24T01:02:41Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82615
+            "stars": 82630
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 115110181,
             "language": "Rust",
-            "last_commit": "2026-08-22T03:23:19Z",
+            "last_commit": "2026-08-24T11:50:59Z",
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34183
+            "stars": 34184
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2023-08-15T10:17:50Z",
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32462
+            "stars": 32459
           }
         }
       ],
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-13T00:32:35Z",
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28350
+            "stars": 28353
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-08-09T07:53:33Z",
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21666
+            "stars": 21670
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2024-08-01T15:38:05Z",
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 18009
+            "stars": 18011
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 25459400,
             "language": "Java",
-            "last_commit": "2026-08-21T05:06:13Z",
+            "last_commit": "2026-08-24T08:47:26Z",
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
             "stars": 13861
@@ -156,7 +156,7 @@
             "last_commit": "2026-04-15T11:09:18Z",
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11833
+            "stars": 11835
           }
         }
       ],
@@ -207,7 +207,7 @@
             "last_commit": "2023-08-15T10:52:15Z",
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11185
+            "stars": 11186
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2022-02-03T05:56:39Z",
             "owner": "kjw0612",
             "repo": "awesome-rnn",
-            "stars": 6208
+            "stars": 6209
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2023-12-10T16:29:40Z",
             "owner": "yeun",
             "repo": "open-color",
-            "stars": 5558
+            "stars": 5557
           }
         },
         {
@@ -420,7 +420,7 @@
             "archived": false,
             "id": 159097215,
             "language": "HTML",
-            "last_commit": "2026-08-17T05:04:03Z",
+            "last_commit": "2026-08-24T05:04:20Z",
             "owner": "javascript-tutorial",
             "repo": "ko.javascript.info",
             "stars": 1980
@@ -459,7 +459,7 @@
             "last_commit": "2026-08-17T10:30:02Z",
             "owner": "JiHong88",
             "repo": "suneditor",
-            "stars": 2004
+            "stars": 2005
           }
         },
         {
@@ -486,10 +486,10 @@
             "archived": false,
             "id": 205679046,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T14:33:45Z",
+            "last_commit": "2026-08-24T10:46:56Z",
             "owner": "dineug",
             "repo": "erd-editor",
-            "stars": 1705
+            "stars": 1704
           }
         },
         {
@@ -624,7 +624,7 @@
             "archived": false,
             "id": 85386965,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T02:56:11Z",
+            "last_commit": "2026-08-24T02:59:22Z",
             "owner": "acekyd",
             "repo": "made-in-nigeria",
             "stars": 1138
@@ -897,7 +897,7 @@
             "last_commit": "2023-10-26T23:16:00Z",
             "owner": "Humeira",
             "repo": "made-in-Mauritius",
-            "stars": 12
+            "stars": 13
           }
         },
         {
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T12:02:02.274Z",
+    "last_updated": "2026-08-24T12:17:16.409Z",
     "original_repository": "738/made-in-korea",
     "original_repository_id": 467360062,
     "original_repository_sha": "7addf897a7ad9ed13433887d5dd629b9c60b6cee",
