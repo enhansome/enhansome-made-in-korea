@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T01:02:41Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82634
+            "stars": 82640
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 115110181,
             "language": "Rust",
-            "last_commit": "2026-08-24T11:50:59Z",
+            "last_commit": "2026-08-25T05:01:11Z",
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34184
+            "stars": 34189
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2023-08-15T10:17:50Z",
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32458
+            "stars": 32461
           }
         }
       ],
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-13T00:32:35Z",
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28354
+            "stars": 28358
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-08-09T07:53:33Z",
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21669
+            "stars": 21671
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2024-05-01T10:44:40Z",
             "owner": "davidshimjs",
             "repo": "qrcodejs",
-            "stars": 14299
+            "stars": 14300
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 25459400,
             "language": "Java",
-            "last_commit": "2026-08-24T08:47:26Z",
+            "last_commit": "2026-08-25T06:25:41Z",
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
             "stars": 13861
@@ -177,7 +177,7 @@
             "last_commit": "2025-06-04T08:16:06Z",
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17525
+            "stars": 17524
           }
         },
         {
@@ -249,7 +249,7 @@
             "archived": false,
             "id": 93701214,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T00:55:27Z",
+            "last_commit": "2026-08-24T19:25:30Z",
             "owner": "naver",
             "repo": "billboard.js",
             "stars": 6007
@@ -333,7 +333,7 @@
             "last_commit": "2023-12-10T16:29:40Z",
             "owner": "yeun",
             "repo": "open-color",
-            "stars": 5557
+            "stars": 5558
           }
         },
         {
@@ -471,7 +471,7 @@
             "archived": false,
             "id": 138666440,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T01:50:06Z",
+            "last_commit": "2026-08-25T03:51:50Z",
             "owner": "salgum1114",
             "repo": "react-design-editor",
             "stars": 1707
@@ -486,7 +486,7 @@
             "archived": false,
             "id": 205679046,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T10:46:56Z",
+            "last_commit": "2026-08-24T23:49:00Z",
             "owner": "dineug",
             "repo": "erd-editor",
             "stars": 1704
@@ -627,7 +627,7 @@
             "last_commit": "2026-08-24T02:59:22Z",
             "owner": "acekyd",
             "repo": "made-in-nigeria",
-            "stars": 1138
+            "stars": 1139
           }
         },
         {
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:45:36.917Z",
+    "last_updated": "2026-08-25T06:37:59.229Z",
     "original_repository": "738/made-in-korea",
     "original_repository_id": 467360062,
     "original_repository_sha": "7addf897a7ad9ed13433887d5dd629b9c60b6cee",
