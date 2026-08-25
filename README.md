@@ -17,13 +17,13 @@
 
 ## > 20K ⭐️
 
-* **[fzf](https://github.com/junegunn/fzf) ⭐ 82,640 | 🐛 327 | 🌐 Go | 📅 2026-08-24** by [junegunn](https://github.com/junegunn)<br>
+* **[fzf](https://github.com/junegunn/fzf) ⭐ 82,646 | 🐛 327 | 🌐 Go | 📅 2026-08-24** by [junegunn](https://github.com/junegunn)<br>
   fzf is a general-purpose command-line fuzzy finder.
 
-* **[vim-plug](https://github.com/junegunn/vim-plug) ⭐ 35,749 | 🐛 86 | 🌐 Vim Script | 📅 2026-05-22** by [junegunn](https://github.com/junegunn)<br>
+* **[vim-plug](https://github.com/junegunn/vim-plug) ⭐ 35,748 | 🐛 86 | 🌐 Vim Script | 📅 2026-05-22** by [junegunn](https://github.com/junegunn)<br>
   A minimalist Vim plugin manager.
 
-* **[swc](https://github.com/swc-project/swc) ⭐ 34,189 | 🐛 417 | 🌐 Rust | 📅 2026-08-25** by [kdy1](https://github.com/kdy1)<br>
+* **[swc](https://github.com/swc-project/swc) ⭐ 34,190 | 🐛 416 | 🌐 Rust | 📅 2026-08-25** by [kdy1](https://github.com/kdy1)<br>
   SWC (stands for `Speedy Web Compiler`) is a super-fast TypeScript / JavaScript compiler written in Rust.
 
 * **[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,461 | 🐛 89 | 🌐 Python | 📅 2023-08-15** by [yunjey](https://github.com/yunjey)<br>
@@ -40,10 +40,10 @@
 * **[tui.editor](https://github.com/nhn/tui.editor) ⭐ 18,012 | 🐛 643 | 🌐 TypeScript | 📅 2024-08-01** by [nhn](https://github.com/nhn)<br>
   GFM Markdown and WYSIWYG Editor - Productive and Extensible
 
-* **[qrcodejs](https://github.com/davidshimjs/qrcodejs) ⭐ 14,300 | 🐛 238 | 🌐 JavaScript | 📅 2024-05-01** by [davidshimjs](https://github.com/davidshimjs)<br>
+* **[qrcodejs](https://github.com/davidshimjs/qrcodejs) ⭐ 14,301 | 🐛 238 | 🌐 JavaScript | 📅 2024-05-01** by [davidshimjs](https://github.com/davidshimjs)<br>
   Cross-browser QRCode generator for javascript
 
-* **[pinpoint](https://github.com/pinpoint-apm/pinpoint) ⭐ 13,861 | 🐛 532 | 🌐 Java | 📅 2026-08-25** by [naver](https://github.com/naver)<br>
+* **[pinpoint](https://github.com/pinpoint-apm/pinpoint) ⭐ 13,861 | 🐛 535 | 🌐 Java | 📅 2026-08-25** by [naver](https://github.com/naver)<br>
   APM, (Application Performance Management) tool for large-scale distributed systems.
 
 * **[summernote](https://github.com/summernote/summernote) ⭐ 11,836 | 🐛 118 | 🌐 JavaScript | 📅 2026-04-15** by [hackerwins](https://github.com/hackerwins)<br>
@@ -51,7 +51,7 @@
 
 ## > 5K ⭐️
 
-* **[tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) ⭐ 17,524 | 🐛 20 | 🌐 Java | 📅 2025-06-04** by [gyoogle](https://github.com/gyoogle)<br>
+* **[tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) ⭐ 17,526 | 🐛 20 | 🌐 Java | 📅 2025-06-04** by [gyoogle](https://github.com/gyoogle)<br>
   👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 
 * **[tui.calendar](https://github.com/nhn/tui.calendar) ⭐ 12,701 | 🐛 208 | 🌐 TypeScript | 📅 2024-06-24** by [nhn](https://github.com/nhn)<br>
@@ -66,13 +66,13 @@
 * **[awesome-rnn](https://github.com/kjw0612/awesome-rnn) ⭐ 6,209 | 🐛 4 | 📅 2022-02-03** by [kjw0612](https://github.com/kjw0612)<br>
   Recurrent Neural Network - A curated list of resources dedicated to RNN
 
-* **[billboard.js](https://github.com/naver/billboard.js) ⭐ 6,007 | 🐛 153 | 🌐 TypeScript | 📅 2026-08-24** by [naver](https://github.com/naver)<br>
+* **[billboard.js](https://github.com/naver/billboard.js) ⭐ 6,007 | 🐛 148 | 🌐 TypeScript | 📅 2026-08-25** by [naver](https://github.com/naver)<br>
   📊 Re-usable, easy interface JavaScript chart library based on D3.js
 
-* **[Lepton(Firefox-UI-Fix)](https://github.com/black7375/Firefox-UI-Fix) ⭐ 5,867 | 🐛 204 | 🌐 SCSS | 📅 2026-07-14** by [black7375](https://github.com/black7375)<br>
+* **[Lepton(Firefox-UI-Fix)](https://github.com/black7375/Firefox-UI-Fix) ⭐ 5,866 | 🐛 204 | 🌐 SCSS | 📅 2026-07-14** by [black7375](https://github.com/black7375)<br>
   🦊 I respect proton UI and aim to improve it.
 
-* **[tui.chart](https://github.com/nhn/tui.chart) ⭐ 5,402 | 🐛 24 | 🌐 TypeScript | 📅 2023-10-05** by [nhn](https://github.com/nhn)<br>
+* **[tui.chart](https://github.com/nhn/tui.chart) ⭐ 5,401 | 🐛 24 | 🌐 TypeScript | 📅 2023-10-05** by [nhn](https://github.com/nhn)<br>
   🍞📊 Beautiful chart for data visualization.
 
 ## > 1K ⭐️
@@ -83,7 +83,7 @@
 * **[fe-news](https://github.com/naver/fe-news) ⭐ 6,284 | 🐛 0 | 📅 2026-08-05** by [naver](https://github.com/naver)<br>
   FE 기술 소식 큐레이션 뉴스레터
 
-* **[open-color](https://github.com/yeun/open-color) ⭐ 5,558 | 🐛 26 | 🌐 Handlebars | 📅 2023-12-10** by [yeun](https://github.com/yeun)<br>
+* **[open-color](https://github.com/yeun/open-color) ⭐ 5,559 | 🐛 26 | 🌐 Handlebars | 📅 2023-12-10** by [yeun](https://github.com/yeun)<br>
   Open color is an open-source color scheme optimized for UI like font, background, border, etc.
 
 * **[react-native-iap](https://github.com/dooboolab/react-native-iap) ⚠️ Archived** by [hyochan](https://github.com/hyochan)<br>
@@ -118,7 +118,7 @@
 * **[vuerd](https://github.com/vuerd/vuerd) ⭐ 1,704 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-24** by [dineug](https://github.com/dineug)<br>
   Entity-Relationship Diagram Editor
 
-* **[awesome-swift-korean-lecture](https://github.com/ClintJang/awesome-swift-korean-lecture) ⭐ 1,339 | 🐛 0 | 🌐 Swift | 📅 2023-12-22** by [ClintJang](https://github.com/ClintJang)<br>
+* **[awesome-swift-korean-lecture](https://github.com/ClintJang/awesome-swift-korean-lecture) ⭐ 1,338 | 🐛 0 | 🌐 Swift | 📅 2023-12-22** by [ClintJang](https://github.com/ClintJang)<br>
   훌륭한 Swift 세션 동영상(강좌), 한글 자막있는 혹은 한국어 강의 정보 링크 모음 (Awesome Swift Korean lecture information)
 
 * **[egjs](https://github.com/naver/egjs) ⭐ 943 | 🐛 1 | 🌐 JavaScript | 📅 2025-01-08** by [naver](https://github.com/naver)<br>

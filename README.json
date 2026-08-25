@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T01:02:41Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82640
+            "stars": 82646
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-05-22T13:40:34Z",
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35749
+            "stars": 35748
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 115110181,
             "language": "Rust",
-            "last_commit": "2026-08-25T05:01:11Z",
+            "last_commit": "2026-08-25T11:08:19Z",
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34189
+            "stars": 34190
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2024-05-01T10:44:40Z",
             "owner": "davidshimjs",
             "repo": "qrcodejs",
-            "stars": 14300
+            "stars": 14301
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 25459400,
             "language": "Java",
-            "last_commit": "2026-08-25T06:25:41Z",
+            "last_commit": "2026-08-25T07:51:12Z",
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
             "stars": 13861
@@ -177,7 +177,7 @@
             "last_commit": "2025-06-04T08:16:06Z",
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17524
+            "stars": 17526
           }
         },
         {
@@ -249,7 +249,7 @@
             "archived": false,
             "id": 93701214,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T19:25:30Z",
+            "last_commit": "2026-08-25T11:25:29Z",
             "owner": "naver",
             "repo": "billboard.js",
             "stars": 6007
@@ -267,7 +267,7 @@
             "last_commit": "2026-07-14T17:22:37Z",
             "owner": "black7375",
             "repo": "Firefox-UI-Fix",
-            "stars": 5867
+            "stars": 5866
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2023-10-05T00:37:48Z",
             "owner": "nhn",
             "repo": "tui.chart",
-            "stars": 5402
+            "stars": 5401
           }
         }
       ],
@@ -333,7 +333,7 @@
             "last_commit": "2023-12-10T16:29:40Z",
             "owner": "yeun",
             "repo": "open-color",
-            "stars": 5558
+            "stars": 5559
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2023-12-22T00:02:14Z",
             "owner": "ClintJang",
             "repo": "awesome-swift-korean-lecture",
-            "stars": 1339
+            "stars": 1338
           }
         },
         {
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:37:59.229Z",
+    "last_updated": "2026-08-25T12:17:43.902Z",
     "original_repository": "738/made-in-korea",
     "original_repository_id": 467360062,
     "original_repository_sha": "7addf897a7ad9ed13433887d5dd629b9c60b6cee",
