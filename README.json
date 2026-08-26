@@ -12,10 +12,10 @@
             "archived": false,
             "id": 13807606,
             "language": "Go",
-            "last_commit": "2026-08-24T01:02:41Z",
+            "last_commit": "2026-08-26T00:07:09Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82646
+            "stars": 82654
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-05-22T13:40:34Z",
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35748
+            "stars": 35749
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 115110181,
             "language": "Rust",
-            "last_commit": "2026-08-25T11:08:19Z",
+            "last_commit": "2026-08-26T06:06:26Z",
             "owner": "swc-project",
             "repo": "swc",
             "stars": 34190
@@ -60,7 +60,7 @@
             "last_commit": "2023-08-15T10:17:50Z",
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32461
+            "stars": 32462
           }
         }
       ],
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-13T00:32:35Z",
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28358
+            "stars": 28367
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-08-09T07:53:33Z",
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21671
+            "stars": 21673
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2024-08-01T15:38:05Z",
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 18012
+            "stars": 18014
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2024-05-01T10:44:40Z",
             "owner": "davidshimjs",
             "repo": "qrcodejs",
-            "stars": 14301
+            "stars": 14299
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 25459400,
             "language": "Java",
-            "last_commit": "2026-08-25T07:51:12Z",
+            "last_commit": "2026-08-26T09:31:11Z",
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
             "stars": 13861
@@ -177,7 +177,7 @@
             "last_commit": "2025-06-04T08:16:06Z",
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17526
+            "stars": 17531
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2024-06-24T16:42:33Z",
             "owner": "nhn",
             "repo": "tui.calendar",
-            "stars": 12701
+            "stars": 12702
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2023-08-15T10:52:15Z",
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11186
+            "stars": 11185
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-05T03:07:12Z",
             "owner": "naver",
             "repo": "fe-news",
-            "stars": 6284
+            "stars": 6285
           }
         },
         {
@@ -360,7 +360,7 @@
             "archived": false,
             "id": 89659676,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T05:36:53Z",
+            "last_commit": "2026-08-26T05:45:31Z",
             "owner": "naver",
             "repo": "egjs-flicking",
             "stars": 2920
@@ -456,7 +456,7 @@
             "archived": false,
             "id": 88146394,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T10:30:02Z",
+            "last_commit": "2026-08-25T17:22:17Z",
             "owner": "JiHong88",
             "repo": "suneditor",
             "stars": 2005
@@ -486,7 +486,7 @@
             "archived": false,
             "id": 205679046,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T23:49:00Z",
+            "last_commit": "2026-08-25T23:26:59Z",
             "owner": "dineug",
             "repo": "erd-editor",
             "stars": 1704
@@ -627,7 +627,7 @@
             "last_commit": "2026-08-24T02:59:22Z",
             "owner": "acekyd",
             "repo": "made-in-nigeria",
-            "stars": 1139
+            "stars": 1140
           }
         },
         {
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T12:17:43.902Z",
+    "last_updated": "2026-08-26T12:19:32.388Z",
     "original_repository": "738/made-in-korea",
     "original_repository_id": 467360062,
     "original_repository_sha": "7addf897a7ad9ed13433887d5dd629b9c60b6cee",
