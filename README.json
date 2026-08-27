@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T00:07:09Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82654
+            "stars": 82675
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-05-22T13:40:34Z",
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35749
+            "stars": 35751
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 115110181,
             "language": "Rust",
-            "last_commit": "2026-08-26T06:06:26Z",
+            "last_commit": "2026-08-27T11:43:02Z",
             "owner": "swc-project",
             "repo": "swc",
             "stars": 34190
@@ -60,7 +60,7 @@
             "last_commit": "2023-08-15T10:17:50Z",
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32462
+            "stars": 32464
           }
         }
       ],
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-13T00:32:35Z",
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28367
+            "stars": 28375
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 25459400,
             "language": "Java",
-            "last_commit": "2026-08-26T09:31:11Z",
+            "last_commit": "2026-08-27T10:21:59Z",
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
             "stars": 13861
@@ -207,7 +207,7 @@
             "last_commit": "2023-08-15T10:52:15Z",
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11185
+            "stars": 11186
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2022-02-03T05:56:39Z",
             "owner": "kjw0612",
             "repo": "awesome-rnn",
-            "stars": 6209
+            "stars": 6210
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-07-14T17:22:37Z",
             "owner": "black7375",
             "repo": "Firefox-UI-Fix",
-            "stars": 5866
+            "stars": 5868
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-05T03:07:12Z",
             "owner": "naver",
             "repo": "fe-news",
-            "stars": 6285
+            "stars": 6284
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2023-12-10T16:29:40Z",
             "owner": "yeun",
             "repo": "open-color",
-            "stars": 5559
+            "stars": 5560
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2026-08-26T05:45:31Z",
             "owner": "naver",
             "repo": "egjs-flicking",
-            "stars": 2920
+            "stars": 2921
           }
         },
         {
@@ -456,10 +456,10 @@
             "archived": false,
             "id": 88146394,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T17:22:17Z",
+            "last_commit": "2026-08-26T18:49:14Z",
             "owner": "JiHong88",
             "repo": "suneditor",
-            "stars": 2005
+            "stars": 2007
           }
         },
         {
@@ -471,7 +471,7 @@
             "archived": false,
             "id": 138666440,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T03:51:50Z",
+            "last_commit": "2026-08-27T02:04:14Z",
             "owner": "salgum1114",
             "repo": "react-design-editor",
             "stars": 1707
@@ -486,7 +486,7 @@
             "archived": false,
             "id": 205679046,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T23:26:59Z",
+            "last_commit": "2026-08-27T10:33:00Z",
             "owner": "dineug",
             "repo": "erd-editor",
             "stars": 1704
@@ -642,7 +642,7 @@
             "last_commit": "2024-03-21T19:51:29Z",
             "owner": "mohebifar",
             "repo": "made-in-iran",
-            "stars": 968
+            "stars": 969
           }
         },
         {
@@ -657,7 +657,7 @@
             "last_commit": "2025-11-17T18:22:23Z",
             "owner": "chernivtsijs",
             "repo": "made-in-ukraine",
-            "stars": 602
+            "stars": 603
           }
         },
         {
@@ -935,9 +935,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T12:19:32.388Z",
-    "original_repository": "738/made-in-korea",
-    "original_repository_id": 467360062,
+    "last_updated": "2026-08-27T11:49:08.363Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 467360062,
+      "language": null,
+      "last_commit": "2024-05-23T07:38:46Z",
+      "owner": "738",
+      "repo": "made-in-korea",
+      "stars": 72
+    },
     "original_repository_sha": "7addf897a7ad9ed13433887d5dd629b9c60b6cee",
     "enhanced_repository": "enhansome/enhansome-made-in-korea",
     "enhanced_repository_description": null,
