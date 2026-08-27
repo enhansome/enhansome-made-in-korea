@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T00:07:09Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82675
+            "stars": 82682
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 115110181,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:43:02Z",
+            "last_commit": "2026-08-27T19:59:51Z",
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34190
+            "stars": 34189
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2023-08-15T10:17:50Z",
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32464
+            "stars": 32463
           }
         }
       ],
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-13T00:32:35Z",
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28375
+            "stars": 28380
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2024-08-01T15:38:05Z",
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 18014
+            "stars": 18015
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2025-06-04T08:16:06Z",
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17531
+            "stars": 17533
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2024-06-24T16:42:33Z",
             "owner": "nhn",
             "repo": "tui.calendar",
-            "stars": 12702
+            "stars": 12704
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2024-06-06T14:58:07Z",
             "owner": "ipkn",
             "repo": "crow",
-            "stars": 7627
+            "stars": 7628
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2022-02-03T05:56:39Z",
             "owner": "kjw0612",
             "repo": "awesome-rnn",
-            "stars": 6210
+            "stars": 6211
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2023-11-20T10:48:41Z",
             "owner": "nhn",
             "repo": "tui.image-editor",
-            "stars": 7669
+            "stars": 7670
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-05T03:07:12Z",
             "owner": "naver",
             "repo": "fe-news",
-            "stars": 6284
+            "stars": 6283
           }
         },
         {
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:49:08.363Z",
+    "last_updated": "2026-08-27T21:19:33.171Z",
     "original_repository_info": {
       "archived": false,
       "id": 467360062,
