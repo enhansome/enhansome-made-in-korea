@@ -15,8 +15,9 @@
             "last_commit": "2026-08-26T00:07:09Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82682
-          }
+            "stars": 82700
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-05-22T13:40:34Z",
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35751
-          }
+            "stars": 35752
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 115110181,
             "language": "Rust",
-            "last_commit": "2026-08-27T19:59:51Z",
+            "last_commit": "2026-08-28T06:49:28Z",
             "owner": "swc-project",
             "repo": "swc",
             "stars": 34189
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2023-08-15T10:17:50Z",
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32463
-          }
+            "stars": 32465
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         }
       ],
       "title": "> 20K ⭐️"
@@ -81,8 +85,9 @@
             "last_commit": "2026-08-13T00:32:35Z",
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28380
-          }
+            "stars": 28386
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -96,8 +101,9 @@
             "last_commit": "2024-08-09T07:53:33Z",
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21673
-          }
+            "stars": 21674
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -111,8 +117,9 @@
             "last_commit": "2024-08-01T15:38:05Z",
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 18015
-          }
+            "stars": 18017
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -126,8 +133,9 @@
             "last_commit": "2024-05-01T10:44:40Z",
             "owner": "davidshimjs",
             "repo": "qrcodejs",
-            "stars": 14299
-          }
+            "stars": 14300
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -138,11 +146,12 @@
             "archived": false,
             "id": 25459400,
             "language": "Java",
-            "last_commit": "2026-08-27T10:21:59Z",
+            "last_commit": "2026-08-28T02:21:54Z",
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
             "stars": 13861
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "summernote",
             "repo": "summernote",
             "stars": 11836
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         }
       ],
       "title": "> 10K ⭐️"
@@ -178,7 +188,8 @@
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
             "stars": 17533
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -192,8 +203,9 @@
             "last_commit": "2024-06-24T16:42:33Z",
             "owner": "nhn",
             "repo": "tui.calendar",
-            "stars": 12704
-          }
+            "stars": 12705
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
             "stars": 11186
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "ipkn",
             "repo": "crow",
             "stars": 7628
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "kjw0612",
             "repo": "awesome-rnn",
             "stars": 6211
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "naver",
             "repo": "billboard.js",
             "stars": 6007
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "black7375",
             "repo": "Firefox-UI-Fix",
             "stars": 5868
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "nhn",
             "repo": "tui.chart",
             "stars": 5401
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         }
       ],
       "title": "> 5K ⭐️"
@@ -303,8 +321,9 @@
             "last_commit": "2023-11-20T10:48:41Z",
             "owner": "nhn",
             "repo": "tui.image-editor",
-            "stars": 7670
-          }
+            "stars": 7672
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "naver",
             "repo": "fe-news",
             "stars": 6283
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -333,8 +353,9 @@
             "last_commit": "2023-12-10T16:29:40Z",
             "owner": "yeun",
             "repo": "open-color",
-            "stars": 5560
-          }
+            "stars": 5559
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "hyochan",
             "repo": "react-native-iap",
             "stars": 3226
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "naver",
             "repo": "egjs-flicking",
             "stars": 2921
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "nhn",
             "repo": "tui.grid",
             "stars": 2563
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "naver",
             "repo": "egjs-infinitegrid",
             "stars": 2362
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "naver",
             "repo": "ngrinder",
             "stars": 2103
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "javascript-tutorial",
             "repo": "ko.javascript.info",
             "stars": 1979
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "hahnlee",
             "repo": "hwp.js",
             "stars": 1305
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         }
       ],
       "title": "> 1K ⭐️"
@@ -460,7 +488,8 @@
             "owner": "JiHong88",
             "repo": "suneditor",
             "stars": 2007
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -475,7 +504,8 @@
             "owner": "salgum1114",
             "repo": "react-design-editor",
             "stars": 1707
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -486,11 +516,12 @@
             "archived": false,
             "id": 205679046,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:33:00Z",
+            "last_commit": "2026-08-28T17:53:06Z",
             "owner": "dineug",
             "repo": "erd-editor",
-            "stars": 1704
-          }
+            "stars": 1705
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -505,7 +536,8 @@
             "owner": "ClintJang",
             "repo": "awesome-swift-korean-lecture",
             "stars": 1338
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -519,8 +551,9 @@
             "last_commit": "2025-01-08T05:09:10Z",
             "owner": "naver",
             "repo": "egjs",
-            "stars": 943
-          }
+            "stars": 942
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         }
       ],
       "title": "> 500 ⭐️"
@@ -541,7 +574,8 @@
             "owner": "actumn",
             "repo": "celery.node",
             "stars": 305
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -556,7 +590,8 @@
             "owner": "CHEWCHEWW",
             "repo": "react-web-editor",
             "stars": 265
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         }
       ],
       "title": "> 100 ⭐️"
@@ -577,7 +612,8 @@
             "owner": "developer-1px",
             "repo": "adorable-css",
             "stars": 304
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -592,7 +628,8 @@
             "owner": "gomjellie",
             "repo": "zsh-hangul",
             "stars": 273
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -607,7 +644,8 @@
             "owner": "bandoche",
             "repo": "PyPinkSign",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         }
       ],
       "title": "> 0 ⭐️"
@@ -628,7 +666,8 @@
             "owner": "acekyd",
             "repo": "made-in-nigeria",
             "stars": 1140
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -643,7 +682,8 @@
             "owner": "mohebifar",
             "repo": "made-in-iran",
             "stars": 969
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -658,7 +698,8 @@
             "owner": "chernivtsijs",
             "repo": "made-in-ukraine",
             "stars": 603
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -673,7 +714,8 @@
             "owner": "suguru03",
             "repo": "made-in-japan",
             "stars": 298
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -688,7 +730,8 @@
             "owner": "hueitan",
             "repo": "made-in-taiwan",
             "stars": 293
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -703,7 +746,8 @@
             "owner": "made-in-bangladesh",
             "repo": "made-in-bangladesh",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -718,7 +762,8 @@
             "owner": "IonicaBizau",
             "repo": "made-in-brazil",
             "stars": 172
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -733,7 +778,8 @@
             "owner": "IonicaBizau",
             "repo": "made-in-romania",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -748,7 +794,8 @@
             "owner": "IonicaBizau",
             "repo": "made-in-india",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -763,7 +810,8 @@
             "owner": "IonicaBizau",
             "repo": "made-in-turkey",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -778,7 +826,8 @@
             "owner": "devcongress",
             "repo": "made-in-ghana",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -793,7 +842,8 @@
             "owner": "ZambianTech",
             "repo": "made-in-zambia",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -808,7 +858,8 @@
             "owner": "IonicaBizau",
             "repo": "made-in-poland",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -823,7 +874,8 @@
             "owner": "IonicaBizau",
             "repo": "made-in-bosnia",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -838,7 +890,8 @@
             "owner": "olivsinz",
             "repo": "made-in-benin",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -853,7 +906,8 @@
             "owner": "IonicaBizau",
             "repo": "made-in-austria",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -868,7 +922,8 @@
             "owner": "IonicaBizau",
             "repo": "made-in-colombia",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -883,7 +938,8 @@
             "owner": "ummahusla",
             "repo": "Made-in-Latvia",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -898,7 +954,8 @@
             "owner": "Humeira",
             "repo": "made-in-Mauritius",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -913,7 +970,8 @@
             "owner": "IonicaBizau",
             "repo": "made-in-belarus",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         },
         {
           "node_type": "item",
@@ -928,14 +986,15 @@
             "owner": "JoloffCode",
             "repo": "made-in-senegal",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
         }
       ],
       "title": "Related projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:19:33.171Z",
+    "last_updated": "2026-08-28T21:32:08.990Z",
     "original_repository_info": {
       "archived": false,
       "id": 467360062,
