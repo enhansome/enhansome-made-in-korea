@@ -17,16 +17,16 @@
 
 ## > 20K ⭐️
 
-* **[fzf](https://github.com/junegunn/fzf) ⭐ 82,700 | 🐛 327 | 🌐 Go | 📅 2026-08-26** by [junegunn](https://github.com/junegunn)<br>
+* **[fzf](https://github.com/junegunn/fzf) ⭐ 82,702 | 🐛 327 | 🌐 Go | 📅 2026-08-26** by [junegunn](https://github.com/junegunn)<br>
   fzf is a general-purpose command-line fuzzy finder.
 
-* **[vim-plug](https://github.com/junegunn/vim-plug) ⭐ 35,752 | 🐛 86 | 🌐 Vim Script | 📅 2026-05-22** by [junegunn](https://github.com/junegunn)<br>
+* **[vim-plug](https://github.com/junegunn/vim-plug) ⭐ 35,753 | 🐛 86 | 🌐 Vim Script | 📅 2026-05-22** by [junegunn](https://github.com/junegunn)<br>
   A minimalist Vim plugin manager.
 
-* **[swc](https://github.com/swc-project/swc) ⭐ 34,189 | 🐛 411 | 🌐 Rust | 📅 2026-08-28** by [kdy1](https://github.com/kdy1)<br>
+* **[swc](https://github.com/swc-project/swc) ⭐ 34,189 | 🐛 412 | 🌐 Rust | 📅 2026-08-28** by [kdy1](https://github.com/kdy1)<br>
   SWC (stands for `Speedy Web Compiler`) is a super-fast TypeScript / JavaScript compiler written in Rust.
 
-* **[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,465 | 🐛 89 | 🌐 Python | 📅 2023-08-15** by [yunjey](https://github.com/yunjey)<br>
+* **[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,466 | 🐛 89 | 🌐 Python | 📅 2023-08-15** by [yunjey](https://github.com/yunjey)<br>
   This repository provides tutorial code for deep learning researchers to learn PyTorch. In the tutorial, most of the models were implemented with less than 30 lines of code. Before starting this tutorial, it is recommended to finish Official Pytorch Tutorial.
 
 ## > 10K ⭐️
@@ -54,13 +54,13 @@
 * **[tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) ⭐ 17,533 | 🐛 20 | 🌐 Java | 📅 2025-06-04** by [gyoogle](https://github.com/gyoogle)<br>
   👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 
-* **[tui.calendar](https://github.com/nhn/tui.calendar) ⭐ 12,705 | 🐛 208 | 🌐 TypeScript | 📅 2024-06-24** by [nhn](https://github.com/nhn)<br>
+* **[tui.calendar](https://github.com/nhn/tui.calendar) ⭐ 12,706 | 🐛 208 | 🌐 TypeScript | 📅 2024-06-24** by [nhn](https://github.com/nhn)<br>
   🍞📅A JavaScript calendar that has everything you need.
 
 * **[awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15** by [kjw0612](https://github.com/kjw0612)<br>
   A curated list of deep learning resources for computer vision
 
-* **[crow](https://github.com/ipkn/crow) ⭐ 7,628 | 🐛 212 | 🌐 C++ | 📅 2024-06-06** by [ipkn](https://github.com/ipkn)<br>
+* **[crow](https://github.com/ipkn/crow) ⭐ 7,629 | 🐛 212 | 🌐 C++ | 📅 2024-06-06** by [ipkn](https://github.com/ipkn)<br>
   Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
 
 * **[awesome-rnn](https://github.com/kjw0612/awesome-rnn) ⭐ 6,211 | 🐛 4 | 📅 2022-02-03** by [kjw0612](https://github.com/kjw0612)<br>
@@ -69,7 +69,7 @@
 * **[billboard.js](https://github.com/naver/billboard.js) ⭐ 6,007 | 🐛 148 | 🌐 TypeScript | 📅 2026-08-25** by [naver](https://github.com/naver)<br>
   📊 Re-usable, easy interface JavaScript chart library based on D3.js
 
-* **[Lepton(Firefox-UI-Fix)](https://github.com/black7375/Firefox-UI-Fix) ⭐ 5,868 | 🐛 204 | 🌐 SCSS | 📅 2026-07-14** by [black7375](https://github.com/black7375)<br>
+* **[Lepton(Firefox-UI-Fix)](https://github.com/black7375/Firefox-UI-Fix) ⭐ 5,869 | 🐛 204 | 🌐 SCSS | 📅 2026-07-14** by [black7375](https://github.com/black7375)<br>
   🦊 I respect proton UI and aim to improve it.
 
 * **[tui.chart](https://github.com/nhn/tui.chart) ⭐ 5,401 | 🐛 24 | 🌐 TypeScript | 📅 2023-10-05** by [nhn](https://github.com/nhn)<br>
@@ -115,7 +115,7 @@
 * **[react-design-editor](https://github.com/salgum1114/react-design-editor) ⭐ 1,707 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-27** by [salgum1114](https://github.com/salgum1114)<br>
   React Design Editor has started to developed direct manipulation of editable design tools like Powerpoint, We've developed it with reactjs, ant.design, fabricjs
 
-* **[vuerd](https://github.com/vuerd/vuerd) ⭐ 1,705 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-28** by [dineug](https://github.com/dineug)<br>
+* **[vuerd](https://github.com/vuerd/vuerd) ⭐ 1,705 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-29** by [dineug](https://github.com/dineug)<br>
   Entity-Relationship Diagram Editor
 
 * **[awesome-swift-korean-lecture](https://github.com/ClintJang/awesome-swift-korean-lecture) ⭐ 1,338 | 🐛 0 | 🌐 Swift | 📅 2023-12-22** by [ClintJang](https://github.com/ClintJang)<br>
@@ -175,4 +175,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

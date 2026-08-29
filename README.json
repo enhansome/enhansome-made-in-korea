@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":cherry_blossom: A command-line fuzzy finder",
+            "homepage": "https://junegunn.github.io/fzf/",
             "id": 13807606,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T00:07:09Z",
+            "open_issues": 327,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82700
+            "stars": 82702,
+            "topics": [
+              "bash",
+              "cli",
+              "fish",
+              "fzf",
+              "go",
+              "neovim",
+              "tmux",
+              "unix",
+              "vim",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -26,12 +42,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":hibiscus: Minimalist Vim Plugin Manager",
+            "homepage": "https://junegunn.github.io/vim-plug/",
             "id": 12732573,
             "language": "Vim Script",
+            "license": "MIT",
             "last_commit": "2026-05-22T13:40:34Z",
+            "open_issues": 86,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35752
+            "stars": 35753,
+            "topics": [
+              "vim"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -42,12 +65,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust-based platform for the Web",
+            "homepage": "https://swc.rs",
             "id": 115110181,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T06:49:28Z",
+            "open_issues": 412,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34189
+            "stars": 34189,
+            "topics": [
+              "babel",
+              "compiler",
+              "ecmascript",
+              "ecmascript-parser",
+              "javascript",
+              "parser",
+              "rust",
+              "swc",
+              "typescript",
+              "typescript-compiler",
+              "typescript-parser"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -58,12 +98,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch Tutorial for Deep Learning Researchers",
+            "homepage": null,
             "id": 84533158,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-15T10:17:50Z",
+            "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32465
+            "stars": 32466,
+            "topics": [
+              "deep-learning",
+              "neural-networks",
+              "pytorch",
+              "pytorch-tutorial"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         }
@@ -80,12 +130,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":page_facing_up: Awesome CV is LaTeX template for your outstanding job application",
+            "homepage": null,
             "id": 29420377,
             "language": "TeX",
+            "license": "LPPL-1.3c",
             "last_commit": "2026-08-13T00:32:35Z",
+            "open_issues": 144,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28386
+            "stars": 28386,
+            "topics": [
+              "awesome",
+              "coverletter",
+              "cv",
+              "latex",
+              "latex-template",
+              "overleaf",
+              "pdf",
+              "resume",
+              "sharelatex",
+              "tex"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -96,12 +162,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader:",
+            "homepage": null,
             "id": 93291681,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-08-09T07:53:33Z",
+            "open_issues": 3,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21674
+            "stars": 21674,
+            "topics": [
+              "awesome",
+              "beginner",
+              "development",
+              "tech-interviews"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -112,12 +188,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.",
+            "homepage": "http://ui.toast.com/tui-editor",
             "id": 39759882,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-08-01T15:38:05Z",
+            "open_issues": 643,
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 18017
+            "stars": 18017,
+            "topics": [
+              "chart",
+              "commonmark",
+              "documentation",
+              "editor",
+              "frontend",
+              "gfm",
+              "html",
+              "jquery",
+              "jquery-plugin",
+              "markdown",
+              "uml",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -128,12 +222,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-browser QRCode generator for javascript",
+            "homepage": null,
             "id": 7323572,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-05-01T10:44:40Z",
+            "open_issues": 238,
             "owner": "davidshimjs",
             "repo": "qrcodejs",
-            "stars": 14300
+            "stars": 14300,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -144,12 +243,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "APM, (Application Performance Management) tool for large-scale distributed systems. ",
+            "homepage": "https://pinpoint-apm.gitbook.io/",
             "id": 25459400,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T02:21:54Z",
+            "open_issues": 538,
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
-            "stars": 13861
+            "stars": 13861,
+            "topics": [
+              "agent",
+              "apm",
+              "distributed-tracing",
+              "monitoring",
+              "performance",
+              "tracing"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -160,12 +271,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Super Simple WYSIWYG Editor",
+            "homepage": "https://summernote.org",
             "id": 9709563,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-15T11:09:18Z",
+            "open_issues": 118,
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11836
+            "stars": 11836,
+            "topics": [
+              "javascript",
+              "summernote",
+              "wysiwyg",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         }
@@ -182,12 +303,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖",
+            "homepage": "https://gyoogle.dev/",
             "id": 190964861,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-06-04T08:16:06Z",
+            "open_issues": 20,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17533
+            "stars": 17533,
+            "topics": [
+              "algorithm",
+              "computer-science",
+              "cs",
+              "data-structures",
+              "database",
+              "developer",
+              "interview",
+              "it",
+              "java",
+              "javascript",
+              "language",
+              "seminar",
+              "sql",
+              "tech",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -198,12 +340,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍞📅A JavaScript calendar that has everything you need.",
+            "homepage": "http://ui.toast.com/tui-calendar",
             "id": 103071620,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-06-24T16:42:33Z",
+            "open_issues": 208,
             "owner": "nhn",
             "repo": "tui.calendar",
-            "stars": 12705
+            "stars": 12706,
+            "topics": [
+              "calendar",
+              "daily",
+              "frontend",
+              "fullcalendar",
+              "javascript",
+              "milestone",
+              "monthly",
+              "schedule",
+              "task",
+              "weekly"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -214,12 +372,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of deep learning resources for computer vision ",
+            "homepage": null,
             "id": 35812923,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-15T10:52:15Z",
+            "open_issues": 47,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11186
+            "stars": 11186,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -230,12 +393,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)",
+            "homepage": null,
             "id": 18250334,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-06-06T14:58:07Z",
+            "open_issues": 212,
             "owner": "ipkn",
             "repo": "crow",
-            "stars": 7628
+            "stars": 7629,
+            "topics": [
+              "c-plus-plus",
+              "crow",
+              "header-only",
+              "webserver"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -246,12 +419,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
+            "homepage": null,
             "id": 37458410,
             "language": null,
+            "license": null,
             "last_commit": "2022-02-03T05:56:39Z",
+            "open_issues": 4,
             "owner": "kjw0612",
             "repo": "awesome-rnn",
-            "stars": 6211
+            "stars": 6211,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -262,12 +440,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " 📊 Re-usable, easy interface JavaScript chart library based on D3.js, with SVG and Canvas rendering support",
+            "homepage": "https://naver.github.io/billboard.js/",
             "id": 93701214,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T11:25:29Z",
+            "open_issues": 148,
             "owner": "naver",
             "repo": "billboard.js",
-            "stars": 6007
+            "stars": 6007,
+            "topics": [
+              "canvas",
+              "charting-library",
+              "d3",
+              "data-visualizations",
+              "graph",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -278,12 +468,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦊 I respect proton UI and aim to improve it.",
+            "homepage": null,
             "id": 361647128,
             "language": "SCSS",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-14T17:22:37Z",
+            "open_issues": 204,
             "owner": "black7375",
             "repo": "Firefox-UI-Fix",
-            "stars": 5868
+            "stars": 5869,
+            "topics": [
+              "firefox",
+              "firefox-css",
+              "firefox-customization",
+              "firefox-theme",
+              "firefox-tweaks",
+              "hacktoberfest",
+              "theme",
+              "unixporn",
+              "user-interface",
+              "userchrome",
+              "userchrome-styles",
+              "userchromecss",
+              "userstyles"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -294,12 +503,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍞📊  Beautiful chart for data visualization.",
+            "homepage": "http://ui.toast.com/tui-chart/",
             "id": 39979936,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-10-05T00:37:48Z",
+            "open_issues": 24,
             "owner": "nhn",
             "repo": "tui.chart",
-            "stars": 5401
+            "stars": 5401,
+            "topics": [
+              "canvas",
+              "chart",
+              "data-visualization",
+              "easy",
+              "simple",
+              "toast-ui",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         }
@@ -316,12 +538,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍞🎨 Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.",
+            "homepage": "http://ui.toast.com/tui-image-editor",
             "id": 57261731,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-20T10:48:41Z",
+            "open_issues": 289,
             "owner": "nhn",
             "repo": "tui.image-editor",
-            "stars": 7672
+            "stars": 7672,
+            "topics": [
+              "canvas",
+              "drawing",
+              "filter",
+              "image",
+              "image-editor",
+              "paint",
+              "photo",
+              "photoshop"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -332,12 +568,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FE 기술 소식 큐레이션 뉴스레터",
+            "homepage": "https://fenews.substack.com",
             "id": 238851101,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-05T03:07:12Z",
+            "open_issues": 0,
             "owner": "naver",
             "repo": "fe-news",
-            "stars": 6283
+            "stars": 6283,
+            "topics": [
+              "angular",
+              "css",
+              "deno",
+              "es6",
+              "fe-news",
+              "front-end",
+              "html",
+              "javascript",
+              "monthly",
+              "nodejs",
+              "react",
+              "svelte",
+              "typescript",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -348,12 +604,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Color scheme for UI design.",
+            "homepage": "https://yeun.github.io/open-color/",
             "id": 65090756,
             "language": "Handlebars",
+            "license": "MIT",
             "last_commit": "2023-12-10T16:29:40Z",
+            "open_issues": 26,
             "owner": "yeun",
             "repo": "open-color",
-            "stars": 5559
+            "stars": 5559,
+            "topics": [
+              "adobe-library",
+              "color",
+              "color-scheme",
+              "scss",
+              "stylus",
+              "swatches"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -364,12 +632,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "In App Purchase module for React Native that confirms OpenIAP",
+            "homepage": "https://hyochan.github.io/react-native-iap",
             "id": 107826162,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-04T14:24:47Z",
+            "open_issues": 5,
             "owner": "hyochan",
             "repo": "react-native-iap",
-            "stars": 3226
+            "stars": 3226,
+            "topics": [
+              "amazon",
+              "android",
+              "appstore",
+              "billing",
+              "iap",
+              "in-app-purchase",
+              "ios",
+              "openiap",
+              "playstore",
+              "react-native",
+              "react-native-iap"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -380,12 +665,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎠 ♻️ Everyday 30 million people experience. It's reliable, flexible and extendable carousel.",
+            "homepage": "https://naver.github.io/egjs-flicking/",
             "id": 89659676,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T05:45:31Z",
+            "open_issues": 5,
             "owner": "naver",
             "repo": "egjs-flicking",
-            "stars": 2921
+            "stars": 2921,
+            "topics": [
+              "angular",
+              "carousel",
+              "desktop",
+              "egjs",
+              "iscroll",
+              "javascript",
+              "mobile",
+              "react",
+              "reactjs",
+              "slider",
+              "tablet",
+              "typescript",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -396,12 +700,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!",
+            "homepage": "http://ui.toast.com/tui-grid/",
             "id": 36346787,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-01-10T23:41:36Z",
+            "open_issues": 404,
             "owner": "nhn",
             "repo": "tui.grid",
-            "stars": 2563
+            "stars": 2563,
+            "topics": [
+              "datagrid",
+              "datatable",
+              "excel",
+              "grid",
+              "javascript",
+              "preact",
+              "reactivity",
+              "spreadsheet",
+              "tabular-data",
+              "toast-ui",
+              "treegrid",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -412,12 +734,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A module used to arrange card elements including content infinitely on a grid layout.",
+            "homepage": "https://naver.github.io/egjs-infinitegrid/",
             "id": 89225374,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-14T06:15:11Z",
+            "open_issues": 3,
             "owner": "naver",
             "repo": "egjs-infinitegrid",
-            "stars": 2362
+            "stars": 2362,
+            "topics": [
+              "angluar",
+              "dom-recycle",
+              "egjs",
+              "grid",
+              "infinite",
+              "infinitegrid",
+              "javascript",
+              "layout",
+              "masonry",
+              "react",
+              "svelte",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -428,12 +768,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "enterprise level performance testing solution",
+            "homepage": "naver.github.io/ngrinder",
             "id": 4709330,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-10T02:17:58Z",
+            "open_issues": 123,
             "owner": "naver",
             "repo": "ngrinder",
-            "stars": 2103
+            "stars": 2103,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -444,12 +789,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "모던 JavaScript 튜토리얼(The Modern JavaScript Tutorial in Korean )",
+            "homepage": "https://ko.javascript.info/",
             "id": 159097215,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T05:04:20Z",
+            "open_issues": 271,
             "owner": "javascript-tutorial",
             "repo": "ko.javascript.info",
-            "stars": 1979
+            "stars": 1979,
+            "topics": [
+              "javascript",
+              "korean",
+              "learning",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -460,12 +815,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source hwp viewer and parser library powered by web technology",
+            "homepage": "https://hanlee.io/hwp.js",
             "id": 289469857,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-10T10:35:42Z",
+            "open_issues": 34,
             "owner": "hahnlee",
             "repo": "hwp.js",
-            "stars": 1305
+            "stars": 1305,
+            "topics": [
+              "hacktoberfest",
+              "hwp",
+              "hwp5"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         }
@@ -482,12 +846,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight and powerful WYSIWYG editor in vanilla JavaScript. No dependencies.",
+            "homepage": "https://suneditor.com",
             "id": 88146394,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:49:14Z",
+            "open_issues": 3,
             "owner": "JiHong88",
             "repo": "suneditor",
-            "stars": 2007
+            "stars": 2007,
+            "topics": [
+              "contenteditable",
+              "editor",
+              "html-editor",
+              "no-dependencies",
+              "rich-text-editor",
+              "suneditor",
+              "vanilla-javascript",
+              "web-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -498,12 +876,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Design Editor has started to developed direct manipulation of editable design tools like Powerpoint, We've developed it with reactjs, ant.design, fabricjs ",
+            "homepage": "https://salgum1114.github.io/react-design-editor/",
             "id": 138666440,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T02:04:14Z",
+            "open_issues": 53,
             "owner": "salgum1114",
             "repo": "react-design-editor",
-            "stars": 1707
+            "stars": 1707,
+            "topics": [
+              "animejs",
+              "ant-design",
+              "antd",
+              "canvas",
+              "editor",
+              "es6",
+              "fabricjs",
+              "fontawesome5",
+              "imagemap",
+              "javascript",
+              "mediaelementjs",
+              "react-ace",
+              "reactjs",
+              "webpack4",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -514,12 +913,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Entity-Relationship Diagram Editor",
+            "homepage": "https://erd-editor.io",
             "id": 205679046,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T17:53:06Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:44:38Z",
+            "open_issues": 20,
             "owner": "dineug",
             "repo": "erd-editor",
-            "stars": 1705
+            "stars": 1705,
+            "topics": [
+              "database",
+              "db",
+              "diagram",
+              "draw",
+              "editor",
+              "entity",
+              "erd",
+              "relationship",
+              "sql",
+              "vscode",
+              "vuerd"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -530,12 +946,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "훌륭한 Swift 세션 동영상(강좌), 한글 자막있는 혹은 한국어 강의 정보 링크 모음 (Awesome Swift Korean lecture information)",
+            "homepage": null,
             "id": 120856872,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-12-22T00:02:14Z",
+            "open_issues": 0,
             "owner": "ClintJang",
             "repo": "awesome-swift-korean-lecture",
-            "stars": 1338
+            "stars": 1338,
+            "topics": [
+              "apple",
+              "apple-swift",
+              "ios",
+              "ios-swift",
+              "korean",
+              "lecture-notes",
+              "lldb",
+              "realm",
+              "rxswift",
+              "swift",
+              "swift-ios",
+              "swift-learning",
+              "swift-programming",
+              "tdd",
+              "video-lecture",
+              "video-lectures-page",
+              "wwdc",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -546,12 +986,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Javascript components group that brings easiest and fastest way to build a web application in your way.",
+            "homepage": "https://naver.github.io/egjs",
             "id": 46768645,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-01-08T05:09:10Z",
+            "open_issues": 1,
             "owner": "naver",
             "repo": "egjs",
-            "stars": 942
+            "stars": 942,
+            "topics": [
+              "agent",
+              "animation",
+              "axes",
+              "component",
+              "egjs",
+              "egjs-components",
+              "flicking",
+              "front-end",
+              "infinitegrid",
+              "javascript",
+              "jquery-plugin",
+              "library",
+              "naver",
+              "persist",
+              "rotate",
+              "visible"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         }
@@ -568,12 +1030,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Celery task queue client/worker for nodejs",
+            "homepage": "https://celery-node.js.org",
             "id": 209248117,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-05-30T09:44:39Z",
+            "open_issues": 47,
             "owner": "actumn",
             "repo": "celery.node",
-            "stars": 305
+            "stars": 305,
+            "topics": [
+              "amqp",
+              "background",
+              "background-jobs",
+              "celery",
+              "celery-client",
+              "celery-protocol",
+              "celery-workers",
+              "job-queue",
+              "queue",
+              "queue-workers",
+              "queued-jobs",
+              "task-manager",
+              "task-queue",
+              "task-runner",
+              "worker",
+              "worker-queue",
+              "workers"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -584,12 +1069,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The react-web-editor is a WYSIWYG editor library. you can resize and drag your component. It also has simple rich text editor",
+            "homepage": "https://reactwebeditor.com",
             "id": 390757222,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-04-06T08:24:28Z",
+            "open_issues": 3,
             "owner": "CHEWCHEWW",
             "repo": "react-web-editor",
-            "stars": 265
+            "stars": 265,
+            "topics": [
+              "drag-and-drop",
+              "draggable",
+              "editor",
+              "hooks",
+              "react",
+              "react-web-editor",
+              "resizable",
+              "wysiwyg",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         }
@@ -606,12 +1106,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rapid On-Demand Atomic CSS Framework",
+            "homepage": "https://developer-1px.github.io/adorable-css/",
             "id": 340660638,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-06-30T12:30:28Z",
+            "open_issues": 16,
             "owner": "developer-1px",
             "repo": "adorable-css",
-            "stars": 304
+            "stars": 304,
+            "topics": [
+              "atomic-css",
+              "css",
+              "functional-css",
+              "on-demand",
+              "utility-classes",
+              "vite-plugin"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -622,12 +1134,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇰🇷 터미널 한영전환 실수 방지 플러그인",
+            "homepage": null,
             "id": 230392774,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-07-31T06:06:36Z",
+            "open_issues": 3,
             "owner": "gomjellie",
             "repo": "zsh-hangul",
-            "stars": 273
+            "stars": 273,
+            "topics": [
+              "korean",
+              "zsh-plugin"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -638,12 +1158,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PinkSign – a friendly Python library for NPKI (공동인증서, 구 공인인증서) certificates 🔑",
+            "homepage": null,
             "id": 36239252,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-24T16:44:02Z",
+            "open_issues": 1,
             "owner": "bandoche",
             "repo": "PyPinkSign",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "cryptography",
+              "kpki-certificates",
+              "npki",
+              "pfx",
+              "pkcs",
+              "pkcs1",
+              "pyasn1",
+              "python",
+              "sign"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         }
@@ -660,12 +1195,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Here is a curation of awesome tools built by Nigerians that can be used by anybody and from anywhere in the world.",
+            "homepage": "https://madeinnigeria.dev",
             "id": 85386965,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-24T02:59:22Z",
+            "open_issues": 9,
             "owner": "acekyd",
             "repo": "made-in-nigeria",
-            "stars": 1140
+            "stars": 1140,
+            "topics": [
+              "africa",
+              "made-in-naija",
+              "made-in-nigeria",
+              "nigeria"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -676,12 +1221,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of cool projects made in Iran",
+            "homepage": null,
             "id": 62889674,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-03-21T19:51:29Z",
+            "open_issues": 72,
             "owner": "mohebifar",
             "repo": "made-in-iran",
-            "stars": 969
+            "stars": 969,
+            "topics": [
+              "curated-list",
+              "iran",
+              "persian"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -692,12 +1246,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇺🇦 Curating the best projects that were made and mainly contributed by Ukrainian developers",
+            "homepage": null,
             "id": 284992280,
             "language": null,
+            "license": null,
             "last_commit": "2025-11-17T18:22:23Z",
+            "open_issues": 0,
             "owner": "chernivtsijs",
             "repo": "made-in-ukraine",
-            "stars": 603
+            "stars": 603,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "made-by-ukrainians",
+              "ukraine"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -708,12 +1272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇯🇵 A list of great developers and cool projects made in Japan 🍙",
+            "homepage": null,
             "id": 62780155,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-09T02:11:11Z",
+            "open_issues": 8,
             "owner": "suguru03",
             "repo": "made-in-japan",
-            "stars": 298
+            "stars": 298,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -724,12 +1293,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NEED SUPPORT] 🇹🇼 (Taiwan #1) A list of neat projects made in Taiwan (MIT)",
+            "homepage": null,
             "id": 63853410,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-20T08:27:36Z",
+            "open_issues": 4,
             "owner": "hueitan",
             "repo": "made-in-taiwan",
-            "stars": 293
+            "stars": 293,
+            "topics": [
+              "country",
+              "developers",
+              "project",
+              "taiwan",
+              "taiwanese"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -740,12 +1320,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome frameworks, libraries and softwares made in Bangladesh.",
+            "homepage": null,
             "id": 138688131,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-04-15T14:12:15Z",
+            "open_issues": 5,
             "owner": "made-in-bangladesh",
             "repo": "made-in-bangladesh",
-            "stars": 178
+            "stars": 178,
+            "topics": [
+              "bangladesh",
+              "frameworks",
+              "library",
+              "made-in-bangladesh",
+              "programming-languages",
+              "software-engineering"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -756,12 +1348,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇧🇷 A list of neat projects made in Brazil.",
+            "homepage": null,
             "id": 62808747,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:36:07Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-brazil",
-            "stars": 172
+            "stars": 172,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -772,12 +1371,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇷🇴 A list of cool projects made in Romania.",
+            "homepage": null,
             "id": 62721395,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:45:11Z",
+            "open_issues": 4,
             "owner": "IonicaBizau",
             "repo": "made-in-romania",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -788,12 +1394,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇮🇳 A list of neat projects made in India.",
+            "homepage": null,
             "id": 62771220,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:40:54Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-india",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -804,12 +1417,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇹🇷 A list of neat projects made in Turkey",
+            "homepage": null,
             "id": 64032893,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-08-06T13:16:22Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-turkey",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -820,12 +1440,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source projects from Ghana.",
+            "homepage": null,
             "id": 86869955,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-25T11:07:14Z",
+            "open_issues": 1,
             "owner": "devcongress",
             "repo": "made-in-ghana",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "devcongress",
+              "development",
+              "ghana",
+              "tech"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -836,12 +1466,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛠️ 🇿🇲 Open Source Software made in Zambia or by Zambians. This is a collaborative effort to collate projects made in Zambia while highlighting the work of Zambian developers. Are you a Zambian dev? Add your repositories by making a pull request .",
+            "homepage": null,
             "id": 96708461,
             "language": null,
+            "license": null,
             "last_commit": "2023-04-27T08:58:18Z",
+            "open_issues": 1,
             "owner": "ZambianTech",
             "repo": "made-in-zambia",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "africa",
+              "curated-list",
+              "made-in-zambia",
+              "made-in-zed",
+              "zambia"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -852,12 +1493,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇵🇱 A list of neat projects made in Poland",
+            "homepage": null,
             "id": 64033446,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:44:18Z",
+            "open_issues": 1,
             "owner": "IonicaBizau",
             "repo": "made-in-poland",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -868,12 +1516,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇧🇦 A list of cool projects made in Bosnia.",
+            "homepage": null,
             "id": 104641553,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:35:31Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-bosnia",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -884,12 +1539,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Here is a curation of awesome tools built by 🇧🇯 beninese developers. This selection is not necessarily complete.",
+            "homepage": null,
             "id": 266393715,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-22T12:38:24Z",
+            "open_issues": 0,
             "owner": "olivsinz",
             "repo": "made-in-benin",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "benin",
+              "benin-devs",
+              "benin-republic"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -900,12 +1564,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇦🇹 A list of neat projects made in Austria",
+            "homepage": null,
             "id": 64033063,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:33:58Z",
+            "open_issues": 3,
             "owner": "IonicaBizau",
             "repo": "made-in-austria",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -916,12 +1587,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇨🇴 A list of cool projects made in Colombia",
+            "homepage": null,
             "id": 153791862,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:37:16Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-colombia",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -932,12 +1610,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇱🇻  A list of awesome projects Made in Latvia",
+            "homepage": null,
             "id": 63169347,
             "language": null,
+            "license": "MIT",
             "last_commit": "2018-06-08T15:04:37Z",
+            "open_issues": 0,
             "owner": "ummahusla",
             "repo": "Made-in-Latvia",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "latvia",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -948,12 +1634,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇲🇺  A list of cool open-source projects made in Mauritius",
+            "homepage": "https://humeira.github.io/made-in-Mauritius/",
             "id": 74606669,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-10-26T23:16:00Z",
+            "open_issues": 5,
             "owner": "Humeira",
             "repo": "made-in-Mauritius",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "curated-list",
+              "open-source",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -964,12 +1659,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇧🇾 A list of neat projects made in Belarus",
+            "homepage": null,
             "id": 64033115,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:34:21Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-belarus",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         },
@@ -980,12 +1682,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 138779725,
             "language": null,
+            "license": null,
             "last_commit": "2018-08-05T11:43:31Z",
+            "open_issues": 0,
             "owner": "JoloffCode",
             "repo": "made-in-senegal",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
         }
@@ -994,15 +1701,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:32:08.990Z",
+    "last_updated": "2026-08-29T05:01:08.534Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
+      "homepage": null,
       "id": 467360062,
       "language": null,
+      "license": null,
       "last_commit": "2024-05-23T07:38:46Z",
+      "open_issues": 1,
       "owner": "738",
       "repo": "made-in-korea",
-      "stars": 72
+      "stars": 72,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "korea",
+        "korean",
+        "made-by-korean",
+        "made-in-korea"
+      ]
     },
     "original_repository_sha": "7addf897a7ad9ed13433887d5dd629b9c60b6cee",
     "enhanced_repository": "enhansome/enhansome-made-in-korea",
