@@ -19,7 +19,7 @@
             "open_issues": 327,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82702,
+            "stars": 82712,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 86,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35753,
+            "stars": 35752,
             "topics": [
               "vim"
             ]
@@ -107,7 +107,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32466,
+            "stars": 32469,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -139,7 +139,7 @@
             "open_issues": 144,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28386,
+            "stars": 28387,
             "topics": [
               "awesome",
               "coverletter",
@@ -312,7 +312,7 @@
             "open_issues": 20,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17533,
+            "stars": 17534,
             "topics": [
               "algorithm",
               "computer-science",
@@ -473,8 +473,8 @@
             "id": 361647128,
             "language": "SCSS",
             "license": "MPL-2.0",
-            "last_commit": "2026-07-14T17:22:37Z",
-            "open_issues": 204,
+            "last_commit": "2026-08-29T07:28:17Z",
+            "open_issues": 202,
             "owner": "black7375",
             "repo": "Firefox-UI-Fix",
             "stars": 5869,
@@ -547,7 +547,7 @@
             "open_issues": 289,
             "owner": "nhn",
             "repo": "tui.image-editor",
-            "stars": 7672,
+            "stars": 7673,
             "topics": [
               "canvas",
               "drawing",
@@ -918,7 +918,7 @@
             "id": 205679046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T04:44:38Z",
+            "last_commit": "2026-08-29T07:03:19Z",
             "open_issues": 20,
             "owner": "dineug",
             "repo": "erd-editor",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:01:08.534Z",
+    "last_updated": "2026-08-29T15:45:31.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
