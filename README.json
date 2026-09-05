@@ -15,11 +15,11 @@
             "id": 13807606,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-04T02:06:23Z",
-            "open_issues": 329,
+            "last_commit": "2026-09-05T01:07:45Z",
+            "open_issues": 330,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82817,
+            "stars": 82825,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 86,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35759,
+            "stars": 35761,
             "topics": [
               "vim"
             ]
@@ -70,8 +70,8 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T14:49:54Z",
-            "open_issues": 417,
+            "last_commit": "2026-09-05T13:57:31Z",
+            "open_issues": 473,
             "owner": "swc-project",
             "repo": "swc",
             "stars": 34196,
@@ -107,7 +107,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32480,
+            "stars": 32481,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -139,7 +139,7 @@
             "open_issues": 144,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28426,
+            "stars": 28428,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 3,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21680,
+            "stars": 21679,
             "topics": [
               "awesome",
               "beginner",
@@ -228,7 +228,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-05-01T10:44:40Z",
-            "open_issues": 237,
+            "open_issues": 238,
             "owner": "davidshimjs",
             "repo": "qrcodejs",
             "stars": 14304,
@@ -252,7 +252,7 @@
             "open_issues": 538,
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
-            "stars": 13864,
+            "stars": 13865,
             "topics": [
               "agent",
               "apm",
@@ -280,7 +280,7 @@
             "open_issues": 120,
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11840,
+            "stars": 11839,
             "topics": [
               "javascript",
               "summernote",
@@ -312,7 +312,7 @@
             "open_issues": 20,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17545,
+            "stars": 17547,
             "topics": [
               "algorithm",
               "computer-science",
@@ -349,7 +349,7 @@
             "open_issues": 208,
             "owner": "nhn",
             "repo": "tui.calendar",
-            "stars": 12705,
+            "stars": 12702,
             "topics": [
               "calendar",
               "daily",
@@ -381,7 +381,7 @@
             "open_issues": 47,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11188,
+            "stars": 11186,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -474,10 +474,10 @@
             "language": "SCSS",
             "license": "MPL-2.0",
             "last_commit": "2026-08-29T07:28:17Z",
-            "open_issues": 202,
+            "open_issues": 204,
             "owner": "black7375",
             "repo": "Firefox-UI-Fix",
-            "stars": 5870,
+            "stars": 5869,
             "topics": [
               "firefox",
               "firefox-css",
@@ -547,7 +547,7 @@
             "open_issues": 289,
             "owner": "nhn",
             "repo": "tui.image-editor",
-            "stars": 7674,
+            "stars": 7675,
             "topics": [
               "canvas",
               "drawing",
@@ -613,7 +613,7 @@
             "open_issues": 26,
             "owner": "yeun",
             "repo": "open-color",
-            "stars": 5561,
+            "stars": 5560,
             "topics": [
               "adobe-library",
               "color",
@@ -641,7 +641,7 @@
             "open_issues": 5,
             "owner": "hyochan",
             "repo": "react-native-iap",
-            "stars": 3225,
+            "stars": 3224,
             "topics": [
               "amazon",
               "android",
@@ -855,7 +855,7 @@
             "open_issues": 4,
             "owner": "JiHong88",
             "repo": "suneditor",
-            "stars": 2009,
+            "stars": 2010,
             "topics": [
               "contenteditable",
               "editor",
@@ -865,6 +865,39 @@
               "suneditor",
               "vanilla-javascript",
               "web-editor"
+            ]
+          },
+          "first_seen": "2026-08-28T21:32:08.990Z"
+        },
+        {
+          "node_type": "item",
+          "title": "vuerd",
+          "description": "by dineug Entity-Relationship Diagram Editor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Entity-Relationship Diagram Editor",
+            "homepage": "https://erd-editor.io",
+            "id": 205679046,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-04T16:17:37Z",
+            "open_issues": 18,
+            "owner": "dineug",
+            "repo": "erd-editor",
+            "stars": 1709,
+            "topics": [
+              "database",
+              "db",
+              "diagram",
+              "draw",
+              "editor",
+              "entity",
+              "erd",
+              "relationship",
+              "sql",
+              "vscode",
+              "vuerd"
             ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -902,39 +935,6 @@
               "reactjs",
               "webpack4",
               "workflow"
-            ]
-          },
-          "first_seen": "2026-08-28T21:32:08.990Z"
-        },
-        {
-          "node_type": "item",
-          "title": "vuerd",
-          "description": "by dineug Entity-Relationship Diagram Editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Entity-Relationship Diagram Editor",
-            "homepage": "https://erd-editor.io",
-            "id": 205679046,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-04T14:46:38Z",
-            "open_issues": 19,
-            "owner": "dineug",
-            "repo": "erd-editor",
-            "stars": 1708,
-            "topics": [
-              "database",
-              "db",
-              "diagram",
-              "draw",
-              "editor",
-              "entity",
-              "erd",
-              "relationship",
-              "sql",
-              "vscode",
-              "vuerd"
             ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -1281,7 +1281,7 @@
             "open_issues": 8,
             "owner": "suguru03",
             "repo": "made-in-japan",
-            "stars": 298,
+            "stars": 299,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T15:09:38.302Z",
+    "last_updated": "2026-09-05T14:00:55.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
