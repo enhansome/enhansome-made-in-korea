@@ -15,11 +15,11 @@
             "id": 13807606,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-08T15:14:49Z",
-            "open_issues": 328,
+            "last_commit": "2026-09-09T00:20:03Z",
+            "open_issues": 330,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82869,
+            "stars": 82879,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 86,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35761,
+            "stars": 35765,
             "topics": [
               "vim"
             ]
@@ -70,11 +70,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T12:27:59Z",
-            "open_issues": 439,
+            "last_commit": "2026-09-09T15:07:58Z",
+            "open_issues": 455,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34195,
+            "stars": 34189,
             "topics": [
               "babel",
               "compiler",
@@ -107,7 +107,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32480,
+            "stars": 32486,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -139,7 +139,7 @@
             "open_issues": 144,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28453,
+            "stars": 28463,
             "topics": [
               "awesome",
               "coverletter",
@@ -248,8 +248,8 @@
             "id": 25459400,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T08:22:47Z",
-            "open_issues": 539,
+            "last_commit": "2026-09-09T11:16:28Z",
+            "open_issues": 540,
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
             "stars": 13866,
@@ -280,7 +280,7 @@
             "open_issues": 120,
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11838,
+            "stars": 11839,
             "topics": [
               "javascript",
               "summernote",
@@ -312,7 +312,7 @@
             "open_issues": 20,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17558,
+            "stars": 17563,
             "topics": [
               "algorithm",
               "computer-science",
@@ -445,11 +445,11 @@
             "id": 93701214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T09:11:20Z",
+            "last_commit": "2026-09-09T01:05:11Z",
             "open_issues": 148,
             "owner": "naver",
             "repo": "billboard.js",
-            "stars": 6008,
+            "stars": 6007,
             "topics": [
               "canvas",
               "charting-library",
@@ -577,7 +577,7 @@
             "open_issues": 0,
             "owner": "naver",
             "repo": "fe-news",
-            "stars": 6283,
+            "stars": 6285,
             "topics": [
               "angular",
               "css",
@@ -613,7 +613,7 @@
             "open_issues": 26,
             "owner": "yeun",
             "repo": "open-color",
-            "stars": 5561,
+            "stars": 5562,
             "topics": [
               "adobe-library",
               "color",
@@ -851,8 +851,8 @@
             "id": 88146394,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T15:19:15Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-09T07:10:25Z",
+            "open_issues": 2,
             "owner": "JiHong88",
             "repo": "suneditor",
             "stars": 2009,
@@ -1200,8 +1200,8 @@
             "id": 85386965,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-07T06:57:50Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-09T00:49:48Z",
+            "open_issues": 11,
             "owner": "acekyd",
             "repo": "made-in-nigeria",
             "stars": 1143,
@@ -1230,7 +1230,7 @@
             "open_issues": 72,
             "owner": "mohebifar",
             "repo": "made-in-iran",
-            "stars": 968,
+            "stars": 969,
             "topics": [
               "curated-list",
               "iran",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T15:23:02.969Z",
+    "last_updated": "2026-09-09T15:20:53.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
