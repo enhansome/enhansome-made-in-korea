@@ -15,11 +15,11 @@
             "id": 13807606,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-12T00:35:44Z",
-            "open_issues": 329,
+            "last_commit": "2026-09-13T10:31:45Z",
+            "open_issues": 328,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82934,
+            "stars": 82961,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 86,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35766,
+            "stars": 35769,
             "topics": [
               "vim"
             ]
@@ -70,11 +70,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T14:21:17Z",
-            "open_issues": 438,
+            "last_commit": "2026-09-13T14:16:35Z",
+            "open_issues": 447,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34192,
+            "stars": 34191,
             "topics": [
               "babel",
               "compiler",
@@ -107,7 +107,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32491,
+            "stars": 32492,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -139,7 +139,7 @@
             "open_issues": 144,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28486,
+            "stars": 28488,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 3,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21693,
+            "stars": 21691,
             "topics": [
               "awesome",
               "beginner",
@@ -252,7 +252,7 @@
             "open_issues": 543,
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
-            "stars": 13866,
+            "stars": 13869,
             "topics": [
               "agent",
               "apm",
@@ -277,7 +277,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-04-15T11:09:18Z",
-            "open_issues": 123,
+            "open_issues": 126,
             "owner": "summernote",
             "repo": "summernote",
             "stars": 11839,
@@ -312,7 +312,7 @@
             "open_issues": 20,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17568,
+            "stars": 17567,
             "topics": [
               "algorithm",
               "computer-science",
@@ -547,7 +547,7 @@
             "open_issues": 289,
             "owner": "nhn",
             "repo": "tui.image-editor",
-            "stars": 7675,
+            "stars": 7676,
             "topics": [
               "canvas",
               "drawing",
@@ -577,7 +577,7 @@
             "open_issues": 0,
             "owner": "naver",
             "repo": "fe-news",
-            "stars": 6286,
+            "stars": 6285,
             "topics": [
               "angular",
               "css",
@@ -613,7 +613,7 @@
             "open_issues": 26,
             "owner": "yeun",
             "repo": "open-color",
-            "stars": 5563,
+            "stars": 5564,
             "topics": [
               "adobe-library",
               "color",
@@ -855,7 +855,7 @@
             "open_issues": 1,
             "owner": "JiHong88",
             "repo": "suneditor",
-            "stars": 2010,
+            "stars": 2011,
             "topics": [
               "contenteditable",
               "editor",
@@ -1643,7 +1643,7 @@
             "open_issues": 5,
             "owner": "Humeira",
             "repo": "made-in-Mauritius",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "curated-list",
               "open-source",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T14:24:33.502Z",
+    "last_updated": "2026-09-13T15:05:49.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
