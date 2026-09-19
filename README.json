@@ -19,7 +19,7 @@
             "open_issues": 329,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 83104,
+            "stars": 83131,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 86,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35770,
+            "stars": 35771,
             "topics": [
               "vim"
             ]
@@ -74,7 +74,7 @@
             "open_issues": 438,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34197,
+            "stars": 34200,
             "topics": [
               "babel",
               "compiler",
@@ -107,7 +107,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32495,
+            "stars": 32496,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -139,7 +139,7 @@
             "open_issues": 143,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28527,
+            "stars": 28534,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 3,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21701,
+            "stars": 21703,
             "topics": [
               "awesome",
               "beginner",
@@ -248,7 +248,7 @@
             "id": 25459400,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T08:42:40Z",
+            "last_commit": "2026-09-19T12:51:39Z",
             "open_issues": 541,
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
@@ -312,7 +312,7 @@
             "open_issues": 21,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17575,
+            "stars": 17576,
             "topics": [
               "algorithm",
               "computer-science",
@@ -378,10 +378,10 @@
             "language": null,
             "license": null,
             "last_commit": "2023-08-15T10:52:15Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11186,
+            "stars": 11187,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -449,7 +449,7 @@
             "open_issues": 149,
             "owner": "naver",
             "repo": "billboard.js",
-            "stars": 6009,
+            "stars": 6011,
             "topics": [
               "canvas",
               "charting-library",
@@ -851,7 +851,7 @@
             "id": 88146394,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T11:05:00Z",
+            "last_commit": "2026-09-19T02:43:42Z",
             "open_issues": 0,
             "owner": "JiHong88",
             "repo": "suneditor",
@@ -881,11 +881,11 @@
             "id": 205679046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T13:54:17Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-19T08:37:51Z",
+            "open_issues": 12,
             "owner": "dineug",
             "repo": "erd-editor",
-            "stars": 1713,
+            "stars": 1714,
             "topics": [
               "database",
               "db",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T15:12:26.821Z",
+    "last_updated": "2026-09-19T14:50:23.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
