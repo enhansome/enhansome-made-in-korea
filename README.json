@@ -15,11 +15,11 @@
             "id": 13807606,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-14T03:16:23Z",
+            "last_commit": "2026-09-21T14:49:46Z",
             "open_issues": 330,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 83150,
+            "stars": 83171,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 86,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35772,
+            "stars": 35773,
             "topics": [
               "vim"
             ]
@@ -70,11 +70,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T05:58:17Z",
-            "open_issues": 439,
+            "last_commit": "2026-09-21T01:33:23Z",
+            "open_issues": 440,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34200,
+            "stars": 34206,
             "topics": [
               "babel",
               "compiler",
@@ -136,10 +136,10 @@
             "language": "TeX",
             "license": "LPPL-1.3c",
             "last_commit": "2026-09-14T07:34:00Z",
-            "open_issues": 143,
+            "open_issues": 144,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28542,
+            "stars": 28556,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 3,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21706,
+            "stars": 21707,
             "topics": [
               "awesome",
               "beginner",
@@ -197,7 +197,7 @@
             "open_issues": 643,
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 18018,
+            "stars": 18017,
             "topics": [
               "chart",
               "commonmark",
@@ -231,7 +231,7 @@
             "open_issues": 237,
             "owner": "davidshimjs",
             "repo": "qrcodejs",
-            "stars": 14304,
+            "stars": 14309,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -248,11 +248,11 @@
             "id": 25459400,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T12:51:39Z",
-            "open_issues": 541,
+            "last_commit": "2026-09-21T09:17:08Z",
+            "open_issues": 542,
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
-            "stars": 13872,
+            "stars": 13873,
             "topics": [
               "agent",
               "apm",
@@ -312,7 +312,7 @@
             "open_issues": 21,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17581,
+            "stars": 17585,
             "topics": [
               "algorithm",
               "computer-science",
@@ -381,7 +381,7 @@
             "open_issues": 48,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11188,
+            "stars": 11187,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -477,7 +477,7 @@
             "open_issues": 206,
             "owner": "black7375",
             "repo": "Firefox-UI-Fix",
-            "stars": 5871,
+            "stars": 5872,
             "topics": [
               "firefox",
               "firefox-css",
@@ -547,7 +547,7 @@
             "open_issues": 289,
             "owner": "nhn",
             "repo": "tui.image-editor",
-            "stars": 7678,
+            "stars": 7677,
             "topics": [
               "canvas",
               "drawing",
@@ -577,7 +577,7 @@
             "open_issues": 0,
             "owner": "naver",
             "repo": "fe-news",
-            "stars": 6286,
+            "stars": 6285,
             "topics": [
               "angular",
               "css",
@@ -613,7 +613,7 @@
             "open_issues": 26,
             "owner": "yeun",
             "repo": "open-color",
-            "stars": 5565,
+            "stars": 5566,
             "topics": [
               "adobe-library",
               "color",
@@ -794,11 +794,11 @@
             "id": 159097215,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T05:04:22Z",
+            "last_commit": "2026-09-21T05:04:18Z",
             "open_issues": 271,
             "owner": "javascript-tutorial",
             "repo": "ko.javascript.info",
-            "stars": 1981,
+            "stars": 1980,
             "topics": [
               "javascript",
               "korean",
@@ -851,7 +851,7 @@
             "id": 88146394,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T13:15:19Z",
+            "last_commit": "2026-09-21T15:48:39Z",
             "open_issues": 0,
             "owner": "JiHong88",
             "repo": "suneditor",
@@ -881,11 +881,11 @@
             "id": 205679046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T16:19:51Z",
+            "last_commit": "2026-09-21T17:12:54Z",
             "open_issues": 12,
             "owner": "dineug",
             "repo": "erd-editor",
-            "stars": 1713,
+            "stars": 1714,
             "topics": [
               "database",
               "db",
@@ -1200,7 +1200,7 @@
             "id": 85386965,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-14T07:31:41Z",
+            "last_commit": "2026-09-21T07:35:20Z",
             "open_issues": 12,
             "owner": "acekyd",
             "repo": "made-in-nigeria",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T14:55:04.969Z",
+    "last_updated": "2026-09-21T17:12:56.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
