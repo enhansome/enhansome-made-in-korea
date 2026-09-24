@@ -17,21 +17,21 @@
 
 ## > 20K ⭐️
 
-* **[fzf](https://github.com/junegunn/fzf) ⭐ 83,215 | 🐛 330 | 🌐 Go | 📅 2026-09-21** by [junegunn](https://github.com/junegunn)<br>
+* **[fzf](https://github.com/junegunn/fzf) ⭐ 83,235 | 🐛 331 | 🌐 Go | 📅 2026-09-21** by [junegunn](https://github.com/junegunn)<br>
   fzf is a general-purpose command-line fuzzy finder.
 
-* **[vim-plug](https://github.com/junegunn/vim-plug) ⭐ 35,774 | 🐛 86 | 🌐 Vim Script | 📅 2026-05-22** by [junegunn](https://github.com/junegunn)<br>
+* **[vim-plug](https://github.com/junegunn/vim-plug) ⭐ 35,775 | 🐛 86 | 🌐 Vim Script | 📅 2026-05-22** by [junegunn](https://github.com/junegunn)<br>
   A minimalist Vim plugin manager.
 
-* **[swc](https://github.com/swc-project/swc) ⭐ 34,204 | 🐛 423 | 🌐 Rust | 📅 2026-09-23** by [kdy1](https://github.com/kdy1)<br>
+* **[swc](https://github.com/swc-project/swc) ⭐ 34,204 | 🐛 424 | 🌐 Rust | 📅 2026-09-24** by [kdy1](https://github.com/kdy1)<br>
   SWC (stands for `Speedy Web Compiler`) is a super-fast TypeScript / JavaScript compiler written in Rust.
 
-* **[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,500 | 🐛 89 | 🌐 Python | 📅 2023-08-15** by [yunjey](https://github.com/yunjey)<br>
+* **[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,499 | 🐛 89 | 🌐 Python | 📅 2023-08-15** by [yunjey](https://github.com/yunjey)<br>
   This repository provides tutorial code for deep learning researchers to learn PyTorch. In the tutorial, most of the models were implemented with less than 30 lines of code. Before starting this tutorial, it is recommended to finish Official Pytorch Tutorial.
 
 ## > 10K ⭐️
 
-* **[Awesome-CV](https://github.com/posquit0/Awesome-CV) ⭐ 28,569 | 🐛 144 | 🌐 TeX | 📅 2026-09-14** by [posquit0](https://github.com/posquit0)<br>
+* **[Awesome-CV](https://github.com/posquit0/Awesome-CV) ⭐ 28,575 | 🐛 144 | 🌐 TeX | 📅 2026-09-14** by [posquit0](https://github.com/posquit0)<br>
   Awesome CV is LaTeX template for a CV(Curriculum Vitae), Résumé or Cover Letter inspired by Fancy CV. It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
 
 * **[Interview\_Question\_for\_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) ⭐ 21,708 | 🐛 3 | 📅 2024-08-09** by [JaeYeopHan](https://github.com/JaeYeopHan)<br>
@@ -40,27 +40,27 @@
 * **[tui.editor](https://github.com/nhn/tui.editor) ⚠️ Archived** by [nhn](https://github.com/nhn)<br>
   GFM Markdown and WYSIWYG Editor - Productive and Extensible
 
-* **[qrcodejs](https://github.com/davidshimjs/qrcodejs) ⭐ 14,312 | 🐛 237 | 🌐 JavaScript | 📅 2024-05-01** by [davidshimjs](https://github.com/davidshimjs)<br>
+* **[qrcodejs](https://github.com/davidshimjs/qrcodejs) ⭐ 14,313 | 🐛 237 | 🌐 JavaScript | 📅 2024-05-01** by [davidshimjs](https://github.com/davidshimjs)<br>
   Cross-browser QRCode generator for javascript
 
-* **[pinpoint](https://github.com/pinpoint-apm/pinpoint) ⭐ 13,872 | 🐛 545 | 🌐 Java | 📅 2026-09-23** by [naver](https://github.com/naver)<br>
+* **[pinpoint](https://github.com/pinpoint-apm/pinpoint) ⭐ 13,872 | 🐛 544 | 🌐 Java | 📅 2026-09-24** by [naver](https://github.com/naver)<br>
   APM, (Application Performance Management) tool for large-scale distributed systems.
 
-* **[summernote](https://github.com/summernote/summernote) ⭐ 11,841 | 🐛 126 | 🌐 JavaScript | 📅 2026-04-15** by [hackerwins](https://github.com/hackerwins)<br>
+* **[summernote](https://github.com/summernote/summernote) ⭐ 11,842 | 🐛 126 | 🌐 JavaScript | 📅 2026-04-15** by [hackerwins](https://github.com/hackerwins)<br>
   Summernote is a JavaScript library that helps you create WYSIWYG editors online.
 
 ## > 5K ⭐️
 
-* **[tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) ⭐ 17,588 | 🐛 21 | 🌐 Java | 📅 2025-06-04** by [gyoogle](https://github.com/gyoogle)<br>
+* **[tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) ⭐ 17,590 | 🐛 21 | 🌐 Java | 📅 2025-06-04** by [gyoogle](https://github.com/gyoogle)<br>
   👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 
 * **[tui.calendar](https://github.com/nhn/tui.calendar) ⚠️ Archived** by [nhn](https://github.com/nhn)<br>
   🍞📅A JavaScript calendar that has everything you need.
 
-* **[awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,187 | 🐛 48 | 📅 2023-08-15** by [kjw0612](https://github.com/kjw0612)<br>
+* **[awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,187 | 🐛 49 | 📅 2023-08-15** by [kjw0612](https://github.com/kjw0612)<br>
   A curated list of deep learning resources for computer vision
 
-* **[crow](https://github.com/ipkn/crow) ⭐ 7,628 | 🐛 212 | 🌐 C++ | 📅 2024-06-06** by [ipkn](https://github.com/ipkn)<br>
+* **[crow](https://github.com/ipkn/crow) ⭐ 7,629 | 🐛 212 | 🌐 C++ | 📅 2024-06-06** by [ipkn](https://github.com/ipkn)<br>
   Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
 
 * **[awesome-rnn](https://github.com/kjw0612/awesome-rnn) ⭐ 6,211 | 🐛 4 | 📅 2022-02-03** by [kjw0612](https://github.com/kjw0612)<br>
@@ -69,7 +69,7 @@
 * **[billboard.js](https://github.com/naver/billboard.js) ⭐ 6,011 | 🐛 150 | 🌐 TypeScript | 📅 2026-09-23** by [naver](https://github.com/naver)<br>
   📊 Re-usable, easy interface JavaScript chart library based on D3.js
 
-* **[Lepton(Firefox-UI-Fix)](https://github.com/black7375/Firefox-UI-Fix) ⭐ 5,876 | 🐛 206 | 🌐 SCSS | 📅 2026-09-06** by [black7375](https://github.com/black7375)<br>
+* **[Lepton(Firefox-UI-Fix)](https://github.com/black7375/Firefox-UI-Fix) ⭐ 5,876 | 🐛 207 | 🌐 SCSS | 📅 2026-09-06** by [black7375](https://github.com/black7375)<br>
   🦊 I respect proton UI and aim to improve it.
 
 * **[tui.chart](https://github.com/nhn/tui.chart) ⚠️ Archived** by [nhn](https://github.com/nhn)<br>
@@ -89,7 +89,7 @@
 * **[react-native-iap](https://github.com/dooboolab/react-native-iap) ⚠️ Archived** by [hyochan](https://github.com/hyochan)<br>
   react-native native module for In App Purchase.
 
-* **[egjs-flicking](https://github.com/naver/egjs-flicking) ⭐ 2,923 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-16** by [naver](https://github.com/naver)<br>
+* **[egjs-flicking](https://github.com/naver/egjs-flicking) ⭐ 2,924 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-16** by [naver](https://github.com/naver)<br>
   🎠 ♻️ Everyday 30 million people experience. It's reliable, flexible and extendable carousel.
 
 * **[tui.grid](https://github.com/nhn/tui.grid) ⚠️ Archived** by [nhn](https://github.com/nhn)<br>
@@ -109,13 +109,13 @@
 
 ## > 500 ⭐️
 
-* **[SunEditor](https://github.com/JiHong88/SunEditor) ⭐ 2,015 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-22** by [JiHong88](https://github.com/JiHong88)<br>
+* **[SunEditor](https://github.com/JiHong88/SunEditor) ⭐ 2,016 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-22** by [JiHong88](https://github.com/JiHong88)<br>
   Pure javascript based WYSIWYG html editor, with no dependencies.
 
-* **[vuerd](https://github.com/vuerd/vuerd) ⭐ 1,715 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-21** by [dineug](https://github.com/dineug)<br>
+* **[vuerd](https://github.com/vuerd/vuerd) ⭐ 1,715 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-24** by [dineug](https://github.com/dineug)<br>
   Entity-Relationship Diagram Editor
 
-* **[react-design-editor](https://github.com/salgum1114/react-design-editor) ⭐ 1,708 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-27** by [salgum1114](https://github.com/salgum1114)<br>
+* **[react-design-editor](https://github.com/salgum1114/react-design-editor) ⭐ 1,709 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-27** by [salgum1114](https://github.com/salgum1114)<br>
   React Design Editor has started to developed direct manipulation of editable design tools like Powerpoint, We've developed it with reactjs, ant.design, fabricjs
 
 * **[awesome-swift-korean-lecture](https://github.com/ClintJang/awesome-swift-korean-lecture) ⭐ 1,336 | 🐛 0 | 🌐 Swift | 📅 2023-12-22** by [ClintJang](https://github.com/ClintJang)<br>
@@ -175,4 +175,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
