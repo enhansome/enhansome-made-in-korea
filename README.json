@@ -19,7 +19,7 @@
             "open_issues": 331,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 83235,
+            "stars": 83243,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 86,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35775,
+            "stars": 35778,
             "topics": [
               "vim"
             ]
@@ -70,11 +70,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T13:41:38Z",
-            "open_issues": 424,
+            "last_commit": "2026-09-25T11:30:41Z",
+            "open_issues": 429,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34204,
+            "stars": 34203,
             "topics": [
               "babel",
               "compiler",
@@ -107,7 +107,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32499,
+            "stars": 32498,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -139,7 +139,7 @@
             "open_issues": 144,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28575,
+            "stars": 28587,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 3,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21708,
+            "stars": 21711,
             "topics": [
               "awesome",
               "beginner",
@@ -231,7 +231,7 @@
             "open_issues": 237,
             "owner": "davidshimjs",
             "repo": "qrcodejs",
-            "stars": 14313,
+            "stars": 14317,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -252,7 +252,7 @@
             "open_issues": 544,
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
-            "stars": 13872,
+            "stars": 13871,
             "topics": [
               "agent",
               "apm",
@@ -312,7 +312,7 @@
             "open_issues": 21,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17590,
+            "stars": 17591,
             "topics": [
               "algorithm",
               "computer-science",
@@ -381,7 +381,7 @@
             "open_issues": 49,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11187,
+            "stars": 11186,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -402,7 +402,7 @@
             "open_issues": 212,
             "owner": "ipkn",
             "repo": "crow",
-            "stars": 7629,
+            "stars": 7628,
             "topics": [
               "c-plus-plus",
               "crow",
@@ -577,7 +577,7 @@
             "open_issues": 0,
             "owner": "naver",
             "repo": "fe-news",
-            "stars": 6288,
+            "stars": 6287,
             "topics": [
               "angular",
               "css",
@@ -613,7 +613,7 @@
             "open_issues": 26,
             "owner": "yeun",
             "repo": "open-color",
-            "stars": 5568,
+            "stars": 5570,
             "topics": [
               "adobe-library",
               "color",
@@ -881,7 +881,7 @@
             "id": 205679046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T10:18:52Z",
+            "last_commit": "2026-09-25T15:36:54Z",
             "open_issues": 12,
             "owner": "dineug",
             "repo": "erd-editor",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T15:56:32.580Z",
+    "last_updated": "2026-09-25T15:56:36.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
