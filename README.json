@@ -15,11 +15,11 @@
             "id": 13807606,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-21T14:49:46Z",
+            "last_commit": "2026-09-26T08:39:58Z",
             "open_issues": 331,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 83243,
+            "stars": 83254,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 86,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35778,
+            "stars": 35777,
             "topics": [
               "vim"
             ]
@@ -71,10 +71,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T11:30:41Z",
-            "open_issues": 429,
+            "open_issues": 430,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34203,
+            "stars": 34206,
             "topics": [
               "babel",
               "compiler",
@@ -107,7 +107,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32498,
+            "stars": 32497,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -139,7 +139,7 @@
             "open_issues": 144,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28587,
+            "stars": 28593,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 3,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21711,
+            "stars": 21712,
             "topics": [
               "awesome",
               "beginner",
@@ -197,7 +197,7 @@
             "open_issues": 643,
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 18017,
+            "stars": 18018,
             "topics": [
               "chart",
               "commonmark",
@@ -231,7 +231,7 @@
             "open_issues": 237,
             "owner": "davidshimjs",
             "repo": "qrcodejs",
-            "stars": 14317,
+            "stars": 14316,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -252,7 +252,7 @@
             "open_issues": 544,
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
-            "stars": 13871,
+            "stars": 13870,
             "topics": [
               "agent",
               "apm",
@@ -280,7 +280,7 @@
             "open_issues": 126,
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11842,
+            "stars": 11844,
             "topics": [
               "javascript",
               "summernote",
@@ -312,7 +312,7 @@
             "open_issues": 21,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17591,
+            "stars": 17594,
             "topics": [
               "algorithm",
               "computer-science",
@@ -349,7 +349,7 @@
             "open_issues": 208,
             "owner": "nhn",
             "repo": "tui.calendar",
-            "stars": 12697,
+            "stars": 12696,
             "topics": [
               "calendar",
               "daily",
@@ -402,7 +402,7 @@
             "open_issues": 212,
             "owner": "ipkn",
             "repo": "crow",
-            "stars": 7628,
+            "stars": 7627,
             "topics": [
               "c-plus-plus",
               "crow",
@@ -881,8 +881,8 @@
             "id": 205679046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T15:36:54Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-26T14:47:30Z",
+            "open_issues": 13,
             "owner": "dineug",
             "repo": "erd-editor",
             "stars": 1715,
@@ -1204,7 +1204,7 @@
             "open_issues": 13,
             "owner": "acekyd",
             "repo": "made-in-nigeria",
-            "stars": 1147,
+            "stars": 1149,
             "topics": [
               "africa",
               "made-in-naija",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T15:56:36.402Z",
+    "last_updated": "2026-09-26T15:07:52.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
