@@ -15,11 +15,11 @@
             "id": 13807606,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-26T08:39:58Z",
-            "open_issues": 331,
+            "last_commit": "2026-09-27T15:11:53Z",
+            "open_issues": 332,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 83254,
+            "stars": 83273,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 86,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35777,
+            "stars": 35775,
             "topics": [
               "vim"
             ]
@@ -70,11 +70,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T11:30:41Z",
-            "open_issues": 430,
+            "last_commit": "2026-09-27T09:42:03Z",
+            "open_issues": 425,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34206,
+            "stars": 34207,
             "topics": [
               "babel",
               "compiler",
@@ -139,7 +139,7 @@
             "open_issues": 144,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28593,
+            "stars": 28600,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 3,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21712,
+            "stars": 21714,
             "topics": [
               "awesome",
               "beginner",
@@ -231,7 +231,7 @@
             "open_issues": 237,
             "owner": "davidshimjs",
             "repo": "qrcodejs",
-            "stars": 14316,
+            "stars": 14317,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -249,7 +249,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T02:30:30Z",
-            "open_issues": 544,
+            "open_issues": 545,
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
             "stars": 13870,
@@ -280,7 +280,7 @@
             "open_issues": 126,
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11844,
+            "stars": 11843,
             "topics": [
               "javascript",
               "summernote",
@@ -312,7 +312,7 @@
             "open_issues": 21,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17594,
+            "stars": 17595,
             "topics": [
               "algorithm",
               "computer-science",
@@ -381,7 +381,7 @@
             "open_issues": 49,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11186,
+            "stars": 11187,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -402,7 +402,7 @@
             "open_issues": 212,
             "owner": "ipkn",
             "repo": "crow",
-            "stars": 7627,
+            "stars": 7628,
             "topics": [
               "c-plus-plus",
               "crow",
@@ -446,10 +446,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-23T11:46:01Z",
-            "open_issues": 150,
+            "open_issues": 151,
             "owner": "naver",
             "repo": "billboard.js",
-            "stars": 6011,
+            "stars": 6012,
             "topics": [
               "canvas",
               "charting-library",
@@ -881,7 +881,7 @@
             "id": 205679046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-26T14:47:30Z",
+            "last_commit": "2026-09-27T07:32:50Z",
             "open_issues": 13,
             "owner": "dineug",
             "repo": "erd-editor",
@@ -918,7 +918,7 @@
             "open_issues": 53,
             "owner": "salgum1114",
             "repo": "react-design-editor",
-            "stars": 1709,
+            "stars": 1708,
             "topics": [
               "animejs",
               "ant-design",
@@ -1570,7 +1570,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-02-13T20:33:58Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "IonicaBizau",
             "repo": "made-in-austria",
             "stars": 20,
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T15:07:52.237Z",
+    "last_updated": "2026-09-27T15:49:51.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
