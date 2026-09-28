@@ -15,11 +15,11 @@
             "id": 13807606,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-27T15:11:53Z",
+            "last_commit": "2026-09-28T13:21:31Z",
             "open_issues": 332,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 83273,
+            "stars": 83291,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 86,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35775,
+            "stars": 35778,
             "topics": [
               "vim"
             ]
@@ -70,11 +70,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-27T09:42:03Z",
-            "open_issues": 425,
+            "last_commit": "2026-09-28T11:24:27Z",
+            "open_issues": 430,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34207,
+            "stars": 34209,
             "topics": [
               "babel",
               "compiler",
@@ -139,7 +139,7 @@
             "open_issues": 144,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28600,
+            "stars": 28609,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 3,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21714,
+            "stars": 21715,
             "topics": [
               "awesome",
               "beginner",
@@ -231,7 +231,7 @@
             "open_issues": 237,
             "owner": "davidshimjs",
             "repo": "qrcodejs",
-            "stars": 14317,
+            "stars": 14315,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -280,7 +280,7 @@
             "open_issues": 126,
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11843,
+            "stars": 11842,
             "topics": [
               "javascript",
               "summernote",
@@ -312,7 +312,7 @@
             "open_issues": 21,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17595,
+            "stars": 17597,
             "topics": [
               "algorithm",
               "computer-science",
@@ -349,7 +349,7 @@
             "open_issues": 208,
             "owner": "nhn",
             "repo": "tui.calendar",
-            "stars": 12696,
+            "stars": 12697,
             "topics": [
               "calendar",
               "daily",
@@ -381,7 +381,7 @@
             "open_issues": 49,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11187,
+            "stars": 11185,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -402,7 +402,7 @@
             "open_issues": 212,
             "owner": "ipkn",
             "repo": "crow",
-            "stars": 7628,
+            "stars": 7627,
             "topics": [
               "c-plus-plus",
               "crow",
@@ -473,7 +473,7 @@
             "id": 361647128,
             "language": "SCSS",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-06T14:33:22Z",
+            "last_commit": "2026-09-28T14:35:51Z",
             "open_issues": 207,
             "owner": "black7375",
             "repo": "Firefox-UI-Fix",
@@ -547,7 +547,7 @@
             "open_issues": 289,
             "owner": "nhn",
             "repo": "tui.image-editor",
-            "stars": 7676,
+            "stars": 7677,
             "topics": [
               "canvas",
               "drawing",
@@ -577,7 +577,7 @@
             "open_issues": 0,
             "owner": "naver",
             "repo": "fe-news",
-            "stars": 6287,
+            "stars": 6288,
             "topics": [
               "angular",
               "css",
@@ -613,7 +613,7 @@
             "open_issues": 26,
             "owner": "yeun",
             "repo": "open-color",
-            "stars": 5570,
+            "stars": 5571,
             "topics": [
               "adobe-library",
               "color",
@@ -794,11 +794,11 @@
             "id": 159097215,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T05:04:18Z",
+            "last_commit": "2026-09-28T05:04:19Z",
             "open_issues": 271,
             "owner": "javascript-tutorial",
             "repo": "ko.javascript.info",
-            "stars": 1980,
+            "stars": 1979,
             "topics": [
               "javascript",
               "korean",
@@ -824,7 +824,7 @@
             "open_issues": 34,
             "owner": "hahnlee",
             "repo": "hwp.js",
-            "stars": 1305,
+            "stars": 1306,
             "topics": [
               "hacktoberfest",
               "hwp",
@@ -852,10 +852,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-22T13:15:53Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "JiHong88",
             "repo": "suneditor",
-            "stars": 2016,
+            "stars": 2017,
             "topics": [
               "contenteditable",
               "editor",
@@ -881,8 +881,8 @@
             "id": 205679046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-27T07:32:50Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-28T15:26:35Z",
+            "open_issues": 12,
             "owner": "dineug",
             "repo": "erd-editor",
             "stars": 1715,
@@ -918,7 +918,7 @@
             "open_issues": 53,
             "owner": "salgum1114",
             "repo": "react-design-editor",
-            "stars": 1708,
+            "stars": 1709,
             "topics": [
               "animejs",
               "ant-design",
@@ -1200,11 +1200,11 @@
             "id": 85386965,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-21T07:35:20Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-28T08:10:38Z",
+            "open_issues": 14,
             "owner": "acekyd",
             "repo": "made-in-nigeria",
-            "stars": 1149,
+            "stars": 1150,
             "topics": [
               "africa",
               "made-in-naija",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T15:49:51.661Z",
+    "last_updated": "2026-09-28T18:45:34.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
