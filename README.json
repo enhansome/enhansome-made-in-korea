@@ -19,7 +19,7 @@
             "open_issues": 332,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 83323,
+            "stars": 83342,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 86,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35774,
+            "stars": 35775,
             "topics": [
               "vim"
             ]
@@ -70,11 +70,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T15:33:51Z",
-            "open_issues": 439,
+            "last_commit": "2026-10-01T10:50:10Z",
+            "open_issues": 388,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34209,
+            "stars": 34211,
             "topics": [
               "babel",
               "compiler",
@@ -107,7 +107,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32497,
+            "stars": 32498,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -139,7 +139,7 @@
             "open_issues": 144,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28614,
+            "stars": 28621,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 3,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21715,
+            "stars": 21720,
             "topics": [
               "awesome",
               "beginner",
@@ -197,7 +197,7 @@
             "open_issues": 643,
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 18017,
+            "stars": 18016,
             "topics": [
               "chart",
               "commonmark",
@@ -248,8 +248,8 @@
             "id": 25459400,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T09:53:14Z",
-            "open_issues": 537,
+            "last_commit": "2026-10-01T08:34:50Z",
+            "open_issues": 539,
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
             "stars": 13870,
@@ -280,7 +280,7 @@
             "open_issues": 126,
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11843,
+            "stars": 11842,
             "topics": [
               "javascript",
               "summernote",
@@ -349,7 +349,7 @@
             "open_issues": 208,
             "owner": "nhn",
             "repo": "tui.calendar",
-            "stars": 12696,
+            "stars": 12694,
             "topics": [
               "calendar",
               "daily",
@@ -428,7 +428,7 @@
             "open_issues": 4,
             "owner": "kjw0612",
             "repo": "awesome-rnn",
-            "stars": 6211,
+            "stars": 6210,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -445,8 +445,8 @@
             "id": 93701214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T05:12:59Z",
-            "open_issues": 148,
+            "last_commit": "2026-10-01T01:21:21Z",
+            "open_issues": 149,
             "owner": "naver",
             "repo": "billboard.js",
             "stars": 6013,
@@ -474,10 +474,10 @@
             "language": "SCSS",
             "license": "MPL-2.0",
             "last_commit": "2026-09-30T16:28:17Z",
-            "open_issues": 208,
+            "open_issues": 206,
             "owner": "black7375",
             "repo": "Firefox-UI-Fix",
-            "stars": 5890,
+            "stars": 5902,
             "topics": [
               "firefox",
               "firefox-css",
@@ -824,7 +824,7 @@
             "open_issues": 34,
             "owner": "hahnlee",
             "repo": "hwp.js",
-            "stars": 1306,
+            "stars": 1307,
             "topics": [
               "hacktoberfest",
               "hwp",
@@ -851,11 +851,11 @@
             "id": 88146394,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T16:43:53Z",
+            "last_commit": "2026-09-30T17:23:46Z",
             "open_issues": 1,
             "owner": "JiHong88",
             "repo": "suneditor",
-            "stars": 2017,
+            "stars": 2018,
             "topics": [
               "contenteditable",
               "editor",
@@ -1200,7 +1200,7 @@
             "id": 85386965,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-28T08:10:38Z",
+            "last_commit": "2026-10-01T08:46:52Z",
             "open_issues": 15,
             "owner": "acekyd",
             "repo": "made-in-nigeria",
@@ -1329,7 +1329,7 @@
             "open_issues": 5,
             "owner": "made-in-bangladesh",
             "repo": "made-in-bangladesh",
-            "stars": 178,
+            "stars": 179,
             "topics": [
               "bangladesh",
               "frameworks",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T17:01:00.941Z",
+    "last_updated": "2026-10-01T17:30:28.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
