@@ -19,7 +19,7 @@
             "open_issues": 332,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 83356,
+            "stars": 83355,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 86,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35776,
+            "stars": 35775,
             "topics": [
               "vim"
             ]
@@ -70,11 +70,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:02:53Z",
-            "open_issues": 398,
+            "last_commit": "2026-10-03T02:54:10Z",
+            "open_issues": 393,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34213,
+            "stars": 34211,
             "topics": [
               "babel",
               "compiler",
@@ -139,7 +139,7 @@
             "open_issues": 144,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28630,
+            "stars": 28632,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 3,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21721,
+            "stars": 21720,
             "topics": [
               "awesome",
               "beginner",
@@ -197,7 +197,7 @@
             "open_issues": 643,
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 18015,
+            "stars": 18014,
             "topics": [
               "chart",
               "commonmark",
@@ -280,7 +280,7 @@
             "open_issues": 126,
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11842,
+            "stars": 11843,
             "topics": [
               "javascript",
               "summernote",
@@ -445,7 +445,7 @@
             "id": 93701214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T09:00:24Z",
+            "last_commit": "2026-10-03T01:08:32Z",
             "open_issues": 149,
             "owner": "naver",
             "repo": "billboard.js",
@@ -477,7 +477,7 @@
             "open_issues": 207,
             "owner": "black7375",
             "repo": "Firefox-UI-Fix",
-            "stars": 5906,
+            "stars": 5909,
             "topics": [
               "firefox",
               "firefox-css",
@@ -512,7 +512,7 @@
             "open_issues": 24,
             "owner": "nhn",
             "repo": "tui.chart",
-            "stars": 5401,
+            "stars": 5400,
             "topics": [
               "canvas",
               "chart",
@@ -547,7 +547,7 @@
             "open_issues": 289,
             "owner": "nhn",
             "repo": "tui.image-editor",
-            "stars": 7677,
+            "stars": 7676,
             "topics": [
               "canvas",
               "drawing",
@@ -674,7 +674,7 @@
             "open_issues": 7,
             "owner": "naver",
             "repo": "egjs-flicking",
-            "stars": 2923,
+            "stars": 2922,
             "topics": [
               "angular",
               "carousel",
@@ -743,7 +743,7 @@
             "open_issues": 3,
             "owner": "naver",
             "repo": "egjs-infinitegrid",
-            "stars": 2363,
+            "stars": 2362,
             "topics": [
               "angluar",
               "dom-recycle",
@@ -881,8 +881,8 @@
             "id": 205679046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T16:43:15Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-03T03:44:55Z",
+            "open_issues": 9,
             "owner": "dineug",
             "repo": "erd-editor",
             "stars": 1718,
@@ -1191,7 +1191,7 @@
         {
           "node_type": "item",
           "title": "🇳🇬 made-in-nigeria",
-          "description": null,
+          "description": "acekyd/made-in-nigeria",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1217,7 +1217,7 @@
         {
           "node_type": "item",
           "title": "🇮🇷 made-in-iran",
-          "description": null,
+          "description": "mohebifar/made-in-iran",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1242,7 +1242,7 @@
         {
           "node_type": "item",
           "title": "🇺🇦 made-in-ukraine",
-          "description": null,
+          "description": "chernivtsijs/made-in-ukraine",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1268,7 +1268,7 @@
         {
           "node_type": "item",
           "title": "🇯🇵 made-in-japan",
-          "description": null,
+          "description": "suguru03/made-in-japan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1289,7 +1289,7 @@
         {
           "node_type": "item",
           "title": "🇹🇼 made-in-taiwan",
-          "description": null,
+          "description": "hueitan/made-in-taiwan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1316,7 +1316,7 @@
         {
           "node_type": "item",
           "title": "🇧🇩 made-in-bangladesh",
-          "description": null,
+          "description": "made-in-bangladesh/made-in-bangladesh",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1344,7 +1344,7 @@
         {
           "node_type": "item",
           "title": "🇧🇷 made-in-brazil",
-          "description": null,
+          "description": "IonicaBizau/made-in-brazil",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1367,7 +1367,7 @@
         {
           "node_type": "item",
           "title": "🇷🇴 made-in-romania",
-          "description": null,
+          "description": "IonicaBizau/made-in-romania",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1390,7 +1390,7 @@
         {
           "node_type": "item",
           "title": "🇮🇳 made-in-india",
-          "description": null,
+          "description": "IonicaBizau/made-in-india",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1413,7 +1413,7 @@
         {
           "node_type": "item",
           "title": "🇹🇷 made-in-turkey",
-          "description": null,
+          "description": "IonicaBizau/made-in-turkey",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1436,7 +1436,7 @@
         {
           "node_type": "item",
           "title": "🇬🇭 made-in-ghana",
-          "description": null,
+          "description": "devcongress/made-in-ghana",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1462,7 +1462,7 @@
         {
           "node_type": "item",
           "title": "🇿🇲 made-in-zambia",
-          "description": null,
+          "description": "ZambianTech/made-in-zambia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1489,7 +1489,7 @@
         {
           "node_type": "item",
           "title": "🇵🇱 made-in-poland",
-          "description": null,
+          "description": "IonicaBizau/made-in-poland",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1512,7 +1512,7 @@
         {
           "node_type": "item",
           "title": "🇧🇦 made-in-bosnia",
-          "description": null,
+          "description": "IonicaBizau/made-in-bosnia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1535,7 +1535,7 @@
         {
           "node_type": "item",
           "title": "🇧🇯 made-in-benin",
-          "description": null,
+          "description": "olivsinz/made-in-benin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1560,7 +1560,7 @@
         {
           "node_type": "item",
           "title": "🇦🇹 made-in-austria",
-          "description": null,
+          "description": "IonicaBizau/made-in-austria",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1583,7 +1583,7 @@
         {
           "node_type": "item",
           "title": "🇨🇴 made-in-colombia",
-          "description": null,
+          "description": "IonicaBizau/made-in-colombia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1606,7 +1606,7 @@
         {
           "node_type": "item",
           "title": "🇱🇻 made-in-latvia",
-          "description": null,
+          "description": "ummahusla/Made-in-Latvia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1630,7 +1630,7 @@
         {
           "node_type": "item",
           "title": "🇲🇺 made-in-mauritius",
-          "description": null,
+          "description": "Humeira/made-in-Mauritius",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1655,7 +1655,7 @@
         {
           "node_type": "item",
           "title": "🇧🇾 made-in-belarus",
-          "description": null,
+          "description": "IonicaBizau/made-in-belarus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1678,7 +1678,7 @@
         {
           "node_type": "item",
           "title": "🇸🇳 made-in-senegal",
-          "description": null,
+          "description": "JoloffCode/made-in-senegal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:50:39.336Z",
+    "last_updated": "2026-10-03T04:53:58.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",

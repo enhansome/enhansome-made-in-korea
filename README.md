@@ -17,13 +17,13 @@
 
 ## > 20K ⭐️
 
-* **[fzf](https://github.com/junegunn/fzf) ⭐ 83,356 | 🐛 332 | 🌐 Go | 📅 2026-10-02** by [junegunn](https://github.com/junegunn)<br>
+* **[fzf](https://github.com/junegunn/fzf) ⭐ 83,355 | 🐛 332 | 🌐 Go | 📅 2026-10-02** by [junegunn](https://github.com/junegunn)<br>
   fzf is a general-purpose command-line fuzzy finder.
 
-* **[vim-plug](https://github.com/junegunn/vim-plug) ⭐ 35,776 | 🐛 86 | 🌐 Vim Script | 📅 2026-05-22** by [junegunn](https://github.com/junegunn)<br>
+* **[vim-plug](https://github.com/junegunn/vim-plug) ⭐ 35,775 | 🐛 86 | 🌐 Vim Script | 📅 2026-05-22** by [junegunn](https://github.com/junegunn)<br>
   A minimalist Vim plugin manager.
 
-* **[swc](https://github.com/swc-project/swc) ⭐ 34,213 | 🐛 398 | 🌐 Rust | 📅 2026-10-02** by [kdy1](https://github.com/kdy1)<br>
+* **[swc](https://github.com/swc-project/swc) ⭐ 34,211 | 🐛 393 | 🌐 Rust | 📅 2026-10-03** by [kdy1](https://github.com/kdy1)<br>
   SWC (stands for `Speedy Web Compiler`) is a super-fast TypeScript / JavaScript compiler written in Rust.
 
 * **[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,499 | 🐛 89 | 🌐 Python | 📅 2023-08-15** by [yunjey](https://github.com/yunjey)<br>
@@ -31,10 +31,10 @@
 
 ## > 10K ⭐️
 
-* **[Awesome-CV](https://github.com/posquit0/Awesome-CV) ⭐ 28,630 | 🐛 144 | 🌐 TeX | 📅 2026-09-14** by [posquit0](https://github.com/posquit0)<br>
+* **[Awesome-CV](https://github.com/posquit0/Awesome-CV) ⭐ 28,632 | 🐛 144 | 🌐 TeX | 📅 2026-09-14** by [posquit0](https://github.com/posquit0)<br>
   Awesome CV is LaTeX template for a CV(Curriculum Vitae), Résumé or Cover Letter inspired by Fancy CV. It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
 
-* **[Interview\_Question\_for\_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) ⭐ 21,721 | 🐛 3 | 📅 2024-08-09** by [JaeYeopHan](https://github.com/JaeYeopHan)<br>
+* **[Interview\_Question\_for\_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) ⭐ 21,720 | 🐛 3 | 📅 2024-08-09** by [JaeYeopHan](https://github.com/JaeYeopHan)<br>
   👦 👧 Technical-Interview guidelines written for those who started studying programming. I wish you all the best. 👾
 
 * **[tui.editor](https://github.com/nhn/tui.editor) ⚠️ Archived** by [nhn](https://github.com/nhn)<br>
@@ -46,7 +46,7 @@
 * **[pinpoint](https://github.com/pinpoint-apm/pinpoint) ⭐ 13,868 | 🐛 541 | 🌐 Java | 📅 2026-10-02** by [naver](https://github.com/naver)<br>
   APM, (Application Performance Management) tool for large-scale distributed systems.
 
-* **[summernote](https://github.com/summernote/summernote) ⭐ 11,842 | 🐛 126 | 🌐 JavaScript | 📅 2026-04-15** by [hackerwins](https://github.com/hackerwins)<br>
+* **[summernote](https://github.com/summernote/summernote) ⭐ 11,843 | 🐛 126 | 🌐 JavaScript | 📅 2026-04-15** by [hackerwins](https://github.com/hackerwins)<br>
   Summernote is a JavaScript library that helps you create WYSIWYG editors online.
 
 ## > 5K ⭐️
@@ -66,10 +66,10 @@
 * **[awesome-rnn](https://github.com/kjw0612/awesome-rnn) ⭐ 6,211 | 🐛 4 | 📅 2022-02-03** by [kjw0612](https://github.com/kjw0612)<br>
   Recurrent Neural Network - A curated list of resources dedicated to RNN
 
-* **[billboard.js](https://github.com/naver/billboard.js) ⭐ 6,014 | 🐛 149 | 🌐 TypeScript | 📅 2026-10-02** by [naver](https://github.com/naver)<br>
+* **[billboard.js](https://github.com/naver/billboard.js) ⭐ 6,014 | 🐛 149 | 🌐 TypeScript | 📅 2026-10-03** by [naver](https://github.com/naver)<br>
   📊 Re-usable, easy interface JavaScript chart library based on D3.js
 
-* **[Lepton(Firefox-UI-Fix)](https://github.com/black7375/Firefox-UI-Fix) ⭐ 5,906 | 🐛 207 | 🌐 SCSS | 📅 2026-09-30** by [black7375](https://github.com/black7375)<br>
+* **[Lepton(Firefox-UI-Fix)](https://github.com/black7375/Firefox-UI-Fix) ⭐ 5,909 | 🐛 207 | 🌐 SCSS | 📅 2026-09-30** by [black7375](https://github.com/black7375)<br>
   🦊 I respect proton UI and aim to improve it.
 
 * **[tui.chart](https://github.com/nhn/tui.chart) ⚠️ Archived** by [nhn](https://github.com/nhn)<br>
@@ -89,13 +89,13 @@
 * **[react-native-iap](https://github.com/dooboolab/react-native-iap) ⚠️ Archived** by [hyochan](https://github.com/hyochan)<br>
   react-native native module for In App Purchase.
 
-* **[egjs-flicking](https://github.com/naver/egjs-flicking) ⭐ 2,923 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-30** by [naver](https://github.com/naver)<br>
+* **[egjs-flicking](https://github.com/naver/egjs-flicking) ⭐ 2,922 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-30** by [naver](https://github.com/naver)<br>
   🎠 ♻️ Everyday 30 million people experience. It's reliable, flexible and extendable carousel.
 
 * **[tui.grid](https://github.com/nhn/tui.grid) ⚠️ Archived** by [nhn](https://github.com/nhn)<br>
   🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!
 
-* **[egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) ⭐ 2,363 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-14** by [naver](https://github.com/naver)<br>
+* **[egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) ⭐ 2,362 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-14** by [naver](https://github.com/naver)<br>
   A module used to arrange card elements including content infinitely on a grid layout.
 
 * **[ngrinder](https://github.com/naver/ngrinder) ⚠️ Archived** by [naver](https://github.com/naver)<br>
@@ -112,7 +112,7 @@
 * **[SunEditor](https://github.com/JiHong88/SunEditor) ⭐ 2,018 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-30** by [JiHong88](https://github.com/JiHong88)<br>
   Pure javascript based WYSIWYG html editor, with no dependencies.
 
-* **[vuerd](https://github.com/vuerd/vuerd) ⭐ 1,718 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-02** by [dineug](https://github.com/dineug)<br>
+* **[vuerd](https://github.com/vuerd/vuerd) ⭐ 1,718 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-03** by [dineug](https://github.com/dineug)<br>
   Entity-Relationship Diagram Editor
 
 * **[react-design-editor](https://github.com/salgum1114/react-design-editor) ⭐ 1,709 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-27** by [salgum1114](https://github.com/salgum1114)<br>
@@ -175,4 +175,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
