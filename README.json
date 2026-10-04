@@ -19,7 +19,7 @@
             "open_issues": 333,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 83359,
+            "stars": 83375,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 86,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35775,
+            "stars": 35774,
             "topics": [
               "vim"
             ]
@@ -70,11 +70,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T11:46:29Z",
-            "open_issues": 393,
+            "last_commit": "2026-10-04T12:02:19Z",
+            "open_issues": 394,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34212,
+            "stars": 34214,
             "topics": [
               "babel",
               "compiler",
@@ -107,7 +107,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32499,
+            "stars": 32501,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -139,7 +139,7 @@
             "open_issues": 144,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28639,
+            "stars": 28643,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 3,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21722,
+            "stars": 21723,
             "topics": [
               "awesome",
               "beginner",
@@ -280,7 +280,7 @@
             "open_issues": 126,
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11843,
+            "stars": 11844,
             "topics": [
               "javascript",
               "summernote",
@@ -312,7 +312,7 @@
             "open_issues": 22,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17603,
+            "stars": 17601,
             "topics": [
               "algorithm",
               "computer-science",
@@ -349,7 +349,7 @@
             "open_issues": 208,
             "owner": "nhn",
             "repo": "tui.calendar",
-            "stars": 12694,
+            "stars": 12695,
             "topics": [
               "calendar",
               "daily",
@@ -881,8 +881,8 @@
             "id": 205679046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T15:03:55Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-04T00:43:37Z",
+            "open_issues": 10,
             "owner": "dineug",
             "repo": "erd-editor",
             "stars": 1719,
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T15:15:08.021Z",
+    "last_updated": "2026-10-04T15:59:55.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
