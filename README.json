@@ -15,11 +15,11 @@
             "id": 13807606,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-10T11:59:18Z",
-            "open_issues": 333,
+            "last_commit": "2026-10-11T02:40:01Z",
+            "open_issues": 332,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 83525,
+            "stars": 83550,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 86,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35772,
+            "stars": 35774,
             "topics": [
               "vim"
             ]
@@ -70,8 +70,8 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T03:17:14Z",
-            "open_issues": 397,
+            "last_commit": "2026-10-11T15:32:12Z",
+            "open_issues": 401,
             "owner": "swc-project",
             "repo": "swc",
             "stars": 34204,
@@ -107,7 +107,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32506,
+            "stars": 32507,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -139,7 +139,7 @@
             "open_issues": 144,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28687,
+            "stars": 28689,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 3,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21732,
+            "stars": 21734,
             "topics": [
               "awesome",
               "beginner",
@@ -197,7 +197,7 @@
             "open_issues": 643,
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 18002,
+            "stars": 18000,
             "topics": [
               "chart",
               "commonmark",
@@ -231,7 +231,7 @@
             "open_issues": 238,
             "owner": "davidshimjs",
             "repo": "qrcodejs",
-            "stars": 14310,
+            "stars": 14309,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -312,7 +312,7 @@
             "open_issues": 22,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17615,
+            "stars": 17614,
             "topics": [
               "algorithm",
               "computer-science",
@@ -402,7 +402,7 @@
             "open_issues": 211,
             "owner": "ipkn",
             "repo": "crow",
-            "stars": 7628,
+            "stars": 7627,
             "topics": [
               "c-plus-plus",
               "crow",
@@ -449,7 +449,7 @@
             "open_issues": 76,
             "owner": "naver",
             "repo": "billboard.js",
-            "stars": 6015,
+            "stars": 6016,
             "topics": [
               "canvas",
               "charting-library",
@@ -473,11 +473,11 @@
             "id": 361647128,
             "language": "SCSS",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-10T13:06:35Z",
+            "last_commit": "2026-10-11T16:22:43Z",
             "open_issues": 205,
             "owner": "black7375",
             "repo": "Firefox-UI-Fix",
-            "stars": 5914,
+            "stars": 5915,
             "topics": [
               "firefox",
               "firefox-css",
@@ -641,7 +641,7 @@
             "open_issues": 5,
             "owner": "hyochan",
             "repo": "react-native-iap",
-            "stars": 3224,
+            "stars": 3223,
             "topics": [
               "amazon",
               "android",
@@ -777,7 +777,7 @@
             "open_issues": 123,
             "owner": "naver",
             "repo": "ngrinder",
-            "stars": 2101,
+            "stars": 2100,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -824,7 +824,7 @@
             "open_issues": 34,
             "owner": "hahnlee",
             "repo": "hwp.js",
-            "stars": 1307,
+            "stars": 1306,
             "topics": [
               "hacktoberfest",
               "hwp",
@@ -855,7 +855,7 @@
             "open_issues": 8,
             "owner": "JiHong88",
             "repo": "suneditor",
-            "stars": 2019,
+            "stars": 2020,
             "topics": [
               "contenteditable",
               "editor",
@@ -876,28 +876,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Entity-Relationship Diagram Editor",
+            "description": "ERD Editor: design database schemas visually, import SQL DDL, GraphQL, DBML and AML, export DDL and code for 22 languages. Web app, Google Drive, VS Code, IntelliJ, Obsidian, a custom element, and an MCP server that lets coding agents edit diagrams live.",
             "homepage": "https://erd-editor.io",
             "id": 205679046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T11:11:01Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-11T15:35:58Z",
+            "open_issues": 2,
             "owner": "dineug",
             "repo": "erd-editor",
             "stars": 1723,
             "topics": [
+              "code-generation",
+              "data-modeling",
               "database",
-              "db",
+              "database-design",
+              "database-schema",
+              "dbml",
+              "ddl",
               "diagram",
-              "draw",
-              "editor",
-              "entity",
+              "entity-relationship-diagram",
               "erd",
-              "relationship",
+              "erd-editor",
+              "graphql",
+              "intellij-plugin",
+              "mcp",
+              "mcp-server",
+              "obsidian-plugin",
               "sql",
-              "vscode",
-              "vuerd"
+              "typescript",
+              "vscode-extension",
+              "web-components"
             ]
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -914,7 +923,7 @@
             "id": 138666440,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-27T02:04:14Z",
+            "last_commit": "2026-10-11T08:15:51Z",
             "open_issues": 53,
             "owner": "salgum1114",
             "repo": "react-design-editor",
@@ -1701,7 +1710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T16:23:40.374Z",
+    "last_updated": "2026-10-11T16:48:08.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
