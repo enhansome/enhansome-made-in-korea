@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-11T02:40:01Z",
-            "open_issues": 332,
+            "open_issues": 333,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 83550,
+            "stars": 83578,
             "topics": [
               "bash",
               "cli",
@@ -70,11 +70,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T15:32:12Z",
+            "last_commit": "2026-10-12T18:22:53Z",
             "open_issues": 401,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34204,
+            "stars": 34202,
             "topics": [
               "babel",
               "compiler",
@@ -107,7 +107,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32507,
+            "stars": 32503,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -139,7 +139,7 @@
             "open_issues": 144,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28689,
+            "stars": 28697,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 3,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21734,
+            "stars": 21740,
             "topics": [
               "awesome",
               "beginner",
@@ -197,7 +197,7 @@
             "open_issues": 643,
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 18000,
+            "stars": 17999,
             "topics": [
               "chart",
               "commonmark",
@@ -248,11 +248,11 @@
             "id": 25459400,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T10:41:26Z",
-            "open_issues": 541,
+            "last_commit": "2026-10-12T09:00:09Z",
+            "open_issues": 536,
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
-            "stars": 13868,
+            "stars": 13866,
             "topics": [
               "agent",
               "apm",
@@ -280,7 +280,7 @@
             "open_issues": 126,
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11843,
+            "stars": 11842,
             "topics": [
               "javascript",
               "summernote",
@@ -312,7 +312,7 @@
             "open_issues": 22,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17614,
+            "stars": 17613,
             "topics": [
               "algorithm",
               "computer-science",
@@ -477,7 +477,7 @@
             "open_issues": 205,
             "owner": "black7375",
             "repo": "Firefox-UI-Fix",
-            "stars": 5915,
+            "stars": 5918,
             "topics": [
               "firefox",
               "firefox-css",
@@ -709,7 +709,7 @@
             "open_issues": 404,
             "owner": "nhn",
             "repo": "tui.grid",
-            "stars": 2559,
+            "stars": 2558,
             "topics": [
               "datagrid",
               "datatable",
@@ -794,7 +794,7 @@
             "id": 159097215,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T05:04:19Z",
+            "last_commit": "2026-10-12T05:04:18Z",
             "open_issues": 270,
             "owner": "javascript-tutorial",
             "repo": "ko.javascript.info",
@@ -885,7 +885,7 @@
             "open_issues": 2,
             "owner": "dineug",
             "repo": "erd-editor",
-            "stars": 1723,
+            "stars": 1722,
             "topics": [
               "code-generation",
               "data-modeling",
@@ -964,7 +964,7 @@
             "open_issues": 0,
             "owner": "ClintJang",
             "repo": "awesome-swift-korean-lecture",
-            "stars": 1334,
+            "stars": 1335,
             "topics": [
               "apple",
               "apple-swift",
@@ -1209,8 +1209,8 @@
             "id": 85386965,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-06T17:15:57Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-12T08:32:56Z",
+            "open_issues": 11,
             "owner": "acekyd",
             "repo": "made-in-nigeria",
             "stars": 1152,
@@ -1264,7 +1264,7 @@
             "open_issues": 1,
             "owner": "chernivtsijs",
             "repo": "made-in-ukraine",
-            "stars": 602,
+            "stars": 603,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1290,7 +1290,7 @@
             "open_issues": 8,
             "owner": "suguru03",
             "repo": "made-in-japan",
-            "stars": 301,
+            "stars": 302,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -1435,7 +1435,7 @@
             "open_issues": 1,
             "owner": "IonicaBizau",
             "repo": "made-in-turkey",
-            "stars": 86,
+            "stars": 87,
             "topics": [
               "hacktoberfest"
             ]
@@ -1710,7 +1710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T16:48:08.073Z",
+    "last_updated": "2026-10-12T20:26:15.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
