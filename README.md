@@ -17,53 +17,53 @@
 
 ## > 20K ⭐️
 
-* **[fzf](https://github.com/junegunn/fzf) ⭐ 83,578 | 🐛 333 | 🌐 Go | 📅 2026-10-11** by [junegunn](https://github.com/junegunn)<br>
+* **[fzf](https://github.com/junegunn/fzf) ⭐ 83,582 | 🐛 335 | 🌐 Go | 📅 2026-10-13** by [junegunn](https://github.com/junegunn)<br>
   fzf is a general-purpose command-line fuzzy finder.
 
 * **[vim-plug](https://github.com/junegunn/vim-plug) ⭐ 35,774 | 🐛 86 | 🌐 Vim Script | 📅 2026-10-05** by [junegunn](https://github.com/junegunn)<br>
   A minimalist Vim plugin manager.
 
-* **[swc](https://github.com/swc-project/swc) ⭐ 34,202 | 🐛 401 | 🌐 Rust | 📅 2026-10-12** by [kdy1](https://github.com/kdy1)<br>
+* **[swc](https://github.com/swc-project/swc) ⭐ 34,203 | 🐛 397 | 🌐 Rust | 📅 2026-10-13** by [kdy1](https://github.com/kdy1)<br>
   SWC (stands for `Speedy Web Compiler`) is a super-fast TypeScript / JavaScript compiler written in Rust.
 
-* **[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,503 | 🐛 89 | 🌐 Python | 📅 2023-08-15** by [yunjey](https://github.com/yunjey)<br>
+* **[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,506 | 🐛 89 | 🌐 Python | 📅 2023-08-15** by [yunjey](https://github.com/yunjey)<br>
   This repository provides tutorial code for deep learning researchers to learn PyTorch. In the tutorial, most of the models were implemented with less than 30 lines of code. Before starting this tutorial, it is recommended to finish Official Pytorch Tutorial.
 
 ## > 10K ⭐️
 
-* **[Awesome-CV](https://github.com/posquit0/Awesome-CV) ⭐ 28,697 | 🐛 144 | 🌐 TeX | 📅 2026-09-14** by [posquit0](https://github.com/posquit0)<br>
+* **[Awesome-CV](https://github.com/posquit0/Awesome-CV) ⭐ 28,705 | 🐛 144 | 🌐 TeX | 📅 2026-09-14** by [posquit0](https://github.com/posquit0)<br>
   Awesome CV is LaTeX template for a CV(Curriculum Vitae), Résumé or Cover Letter inspired by Fancy CV. It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
 
-* **[Interview\_Question\_for\_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) ⭐ 21,740 | 🐛 3 | 📅 2024-08-09** by [JaeYeopHan](https://github.com/JaeYeopHan)<br>
+* **[Interview\_Question\_for\_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) ⭐ 21,743 | 🐛 3 | 📅 2024-08-09** by [JaeYeopHan](https://github.com/JaeYeopHan)<br>
   👦 👧 Technical-Interview guidelines written for those who started studying programming. I wish you all the best. 👾
 
 * **[tui.editor](https://github.com/nhn/tui.editor) ⚠️ Archived** by [nhn](https://github.com/nhn)<br>
   GFM Markdown and WYSIWYG Editor - Productive and Extensible
 
-* **[qrcodejs](https://github.com/davidshimjs/qrcodejs) ⭐ 14,309 | 🐛 238 | 🌐 JavaScript | 📅 2024-05-01** by [davidshimjs](https://github.com/davidshimjs)<br>
+* **[qrcodejs](https://github.com/davidshimjs/qrcodejs) ⭐ 14,311 | 🐛 238 | 🌐 JavaScript | 📅 2024-05-01** by [davidshimjs](https://github.com/davidshimjs)<br>
   Cross-browser QRCode generator for javascript
 
-* **[pinpoint](https://github.com/pinpoint-apm/pinpoint) ⭐ 13,866 | 🐛 536 | 🌐 Java | 📅 2026-10-12** by [naver](https://github.com/naver)<br>
+* **[pinpoint](https://github.com/pinpoint-apm/pinpoint) ⭐ 13,866 | 🐛 536 | 🌐 Java | 📅 2026-10-13** by [naver](https://github.com/naver)<br>
   APM, (Application Performance Management) tool for large-scale distributed systems.
 
-* **[summernote](https://github.com/summernote/summernote) ⭐ 11,842 | 🐛 126 | 🌐 JavaScript | 📅 2026-04-15** by [hackerwins](https://github.com/hackerwins)<br>
+* **[summernote](https://github.com/summernote/summernote) ⭐ 11,844 | 🐛 126 | 🌐 JavaScript | 📅 2026-04-15** by [hackerwins](https://github.com/hackerwins)<br>
   Summernote is a JavaScript library that helps you create WYSIWYG editors online.
 
 ## > 5K ⭐️
 
-* **[tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) ⭐ 17,613 | 🐛 22 | 🌐 Java | 📅 2025-06-04** by [gyoogle](https://github.com/gyoogle)<br>
+* **[tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) ⭐ 17,615 | 🐛 22 | 🌐 Java | 📅 2025-06-04** by [gyoogle](https://github.com/gyoogle)<br>
   👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 
 * **[tui.calendar](https://github.com/nhn/tui.calendar) ⚠️ Archived** by [nhn](https://github.com/nhn)<br>
   🍞📅A JavaScript calendar that has everything you need.
 
-* **[awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,188 | 🐛 48 | 📅 2023-08-15** by [kjw0612](https://github.com/kjw0612)<br>
+* **[awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,190 | 🐛 48 | 📅 2023-08-15** by [kjw0612](https://github.com/kjw0612)<br>
   A curated list of deep learning resources for computer vision
 
-* **[crow](https://github.com/ipkn/crow) ⭐ 7,627 | 🐛 211 | 🌐 C++ | 📅 2024-06-06** by [ipkn](https://github.com/ipkn)<br>
+* **[crow](https://github.com/ipkn/crow) ⭐ 7,628 | 🐛 211 | 🌐 C++ | 📅 2024-06-06** by [ipkn](https://github.com/ipkn)<br>
   Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
 
-* **[awesome-rnn](https://github.com/kjw0612/awesome-rnn) ⭐ 6,212 | 🐛 4 | 📅 2022-02-03** by [kjw0612](https://github.com/kjw0612)<br>
+* **[awesome-rnn](https://github.com/kjw0612/awesome-rnn) ⭐ 6,213 | 🐛 4 | 📅 2022-02-03** by [kjw0612](https://github.com/kjw0612)<br>
   Recurrent Neural Network - A curated list of resources dedicated to RNN
 
 * **[billboard.js](https://github.com/naver/billboard.js) ⭐ 6,016 | 🐛 76 | 🌐 TypeScript | 📅 2026-10-06** by [naver](https://github.com/naver)<br>
@@ -112,7 +112,7 @@
 * **[SunEditor](https://github.com/JiHong88/SunEditor) ⭐ 2,020 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-06** by [JiHong88](https://github.com/JiHong88)<br>
   Pure javascript based WYSIWYG html editor, with no dependencies.
 
-* **[vuerd](https://github.com/vuerd/vuerd) ⭐ 1,722 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-11** by [dineug](https://github.com/dineug)<br>
+* **[vuerd](https://github.com/vuerd/vuerd) ⭐ 1,723 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-11** by [dineug](https://github.com/dineug)<br>
   Entity-Relationship Diagram Editor
 
 * **[react-design-editor](https://github.com/salgum1114/react-design-editor) ⭐ 1,709 | 🐛 53 | 🌐 TypeScript | 📅 2026-10-11** by [salgum1114](https://github.com/salgum1114)<br>
@@ -175,4 +175,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._

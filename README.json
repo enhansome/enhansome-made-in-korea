@@ -15,11 +15,11 @@
             "id": 13807606,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-11T02:40:01Z",
-            "open_issues": 333,
+            "last_commit": "2026-10-13T15:41:01Z",
+            "open_issues": 335,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 83578,
+            "stars": 83582,
             "topics": [
               "bash",
               "cli",
@@ -70,11 +70,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T18:22:53Z",
-            "open_issues": 401,
+            "last_commit": "2026-10-13T18:24:15Z",
+            "open_issues": 397,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34202,
+            "stars": 34203,
             "topics": [
               "babel",
               "compiler",
@@ -107,7 +107,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32503,
+            "stars": 32506,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -139,7 +139,7 @@
             "open_issues": 144,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28697,
+            "stars": 28705,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 3,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21740,
+            "stars": 21743,
             "topics": [
               "awesome",
               "beginner",
@@ -197,7 +197,7 @@
             "open_issues": 643,
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 17999,
+            "stars": 17996,
             "topics": [
               "chart",
               "commonmark",
@@ -231,7 +231,7 @@
             "open_issues": 238,
             "owner": "davidshimjs",
             "repo": "qrcodejs",
-            "stars": 14309,
+            "stars": 14311,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -248,7 +248,7 @@
             "id": 25459400,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T09:00:09Z",
+            "last_commit": "2026-10-13T10:16:59Z",
             "open_issues": 536,
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
@@ -280,7 +280,7 @@
             "open_issues": 126,
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11842,
+            "stars": 11844,
             "topics": [
               "javascript",
               "summernote",
@@ -312,7 +312,7 @@
             "open_issues": 22,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17613,
+            "stars": 17615,
             "topics": [
               "algorithm",
               "computer-science",
@@ -349,7 +349,7 @@
             "open_issues": 208,
             "owner": "nhn",
             "repo": "tui.calendar",
-            "stars": 12693,
+            "stars": 12691,
             "topics": [
               "calendar",
               "daily",
@@ -381,7 +381,7 @@
             "open_issues": 48,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11188,
+            "stars": 11190,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -402,7 +402,7 @@
             "open_issues": 211,
             "owner": "ipkn",
             "repo": "crow",
-            "stars": 7627,
+            "stars": 7628,
             "topics": [
               "c-plus-plus",
               "crow",
@@ -428,7 +428,7 @@
             "open_issues": 4,
             "owner": "kjw0612",
             "repo": "awesome-rnn",
-            "stars": 6212,
+            "stars": 6213,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -547,7 +547,7 @@
             "open_issues": 289,
             "owner": "nhn",
             "repo": "tui.image-editor",
-            "stars": 7674,
+            "stars": 7673,
             "topics": [
               "canvas",
               "drawing",
@@ -641,7 +641,7 @@
             "open_issues": 5,
             "owner": "hyochan",
             "repo": "react-native-iap",
-            "stars": 3223,
+            "stars": 3222,
             "topics": [
               "amazon",
               "android",
@@ -885,7 +885,7 @@
             "open_issues": 2,
             "owner": "dineug",
             "repo": "erd-editor",
-            "stars": 1722,
+            "stars": 1723,
             "topics": [
               "code-generation",
               "data-modeling",
@@ -1710,7 +1710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T20:26:15.401Z",
+    "last_updated": "2026-10-13T18:31:48.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
