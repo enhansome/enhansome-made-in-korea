@@ -15,11 +15,11 @@
             "id": 13807606,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-15T01:35:24Z",
+            "last_commit": "2026-10-15T16:35:58Z",
             "open_issues": 335,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 83580,
+            "stars": 83596,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 86,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35772,
+            "stars": 35770,
             "topics": [
               "vim"
             ]
@@ -70,11 +70,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T15:17:09Z",
-            "open_issues": 399,
+            "last_commit": "2026-10-16T13:26:53Z",
+            "open_issues": 400,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34204,
+            "stars": 34203,
             "topics": [
               "babel",
               "compiler",
@@ -107,7 +107,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32508,
+            "stars": 32512,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -139,7 +139,7 @@
             "open_issues": 144,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28718,
+            "stars": 28727,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 3,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21746,
+            "stars": 21747,
             "topics": [
               "awesome",
               "beginner",
@@ -248,11 +248,11 @@
             "id": 25459400,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T05:31:43Z",
-            "open_issues": 533,
+            "last_commit": "2026-10-16T07:28:34Z",
+            "open_issues": 534,
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
-            "stars": 13866,
+            "stars": 13867,
             "topics": [
               "agent",
               "apm",
@@ -277,10 +277,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-04-15T11:09:18Z",
-            "open_issues": 127,
+            "open_issues": 126,
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11845,
+            "stars": 11844,
             "topics": [
               "javascript",
               "summernote",
@@ -312,7 +312,7 @@
             "open_issues": 22,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17621,
+            "stars": 17623,
             "topics": [
               "algorithm",
               "computer-science",
@@ -428,7 +428,7 @@
             "open_issues": 4,
             "owner": "kjw0612",
             "repo": "awesome-rnn",
-            "stars": 6212,
+            "stars": 6213,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -445,11 +445,11 @@
             "id": 93701214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T09:54:38Z",
+            "last_commit": "2026-10-16T05:49:33Z",
             "open_issues": 76,
             "owner": "naver",
             "repo": "billboard.js",
-            "stars": 6017,
+            "stars": 6019,
             "topics": [
               "canvas",
               "charting-library",
@@ -512,7 +512,7 @@
             "open_issues": 24,
             "owner": "nhn",
             "repo": "tui.chart",
-            "stars": 5399,
+            "stars": 5398,
             "topics": [
               "canvas",
               "chart",
@@ -547,7 +547,7 @@
             "open_issues": 289,
             "owner": "nhn",
             "repo": "tui.image-editor",
-            "stars": 7673,
+            "stars": 7672,
             "topics": [
               "canvas",
               "drawing",
@@ -709,7 +709,7 @@
             "open_issues": 404,
             "owner": "nhn",
             "repo": "tui.grid",
-            "stars": 2558,
+            "stars": 2557,
             "topics": [
               "datagrid",
               "datatable",
@@ -855,7 +855,7 @@
             "open_issues": 1,
             "owner": "JiHong88",
             "repo": "suneditor",
-            "stars": 2020,
+            "stars": 2021,
             "topics": [
               "contenteditable",
               "editor",
@@ -876,16 +876,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "ERD Editor: design database schemas visually, import SQL DDL, GraphQL, DBML and AML, export DDL and code for 22 languages. Web app, Google Drive, VS Code, IntelliJ, Obsidian, a custom element, and an MCP server that lets coding agents edit diagrams live.",
+            "description": "Design database schemas as ERDs in your browser, VS Code, JetBrains IDEs or Obsidian. Import SQL, DBML and GraphQL, export DDL and code, and let coding agents edit live over MCP.",
             "homepage": "https://erd-editor.io",
             "id": 205679046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T15:35:58Z",
+            "last_commit": "2026-10-16T13:01:19Z",
             "open_issues": 2,
             "owner": "dineug",
             "repo": "erd-editor",
-            "stars": 1725,
+            "stars": 1726,
             "topics": [
               "code-generation",
               "data-modeling",
@@ -896,15 +896,15 @@
               "ddl",
               "diagram",
               "entity-relationship-diagram",
+              "er-diagram",
               "erd",
-              "erd-editor",
+              "erdiagram",
               "graphql",
               "intellij-plugin",
               "mcp",
               "mcp-server",
               "obsidian-plugin",
               "sql",
-              "typescript",
               "vscode-extension",
               "web-components"
             ]
@@ -927,7 +927,7 @@
             "open_issues": 53,
             "owner": "salgum1114",
             "repo": "react-design-editor",
-            "stars": 1709,
+            "stars": 1710,
             "topics": [
               "animejs",
               "ant-design",
@@ -1710,7 +1710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T15:46:58.516Z",
+    "last_updated": "2026-10-16T15:35:58.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
