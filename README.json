@@ -19,7 +19,7 @@
             "open_issues": 333,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 83632,
+            "stars": 83673,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 86,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35770,
+            "stars": 35772,
             "topics": [
               "vim"
             ]
@@ -70,11 +70,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-18T07:03:09Z",
-            "open_issues": 407,
+            "last_commit": "2026-10-19T12:14:40Z",
+            "open_issues": 412,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34203,
+            "stars": 34208,
             "topics": [
               "babel",
               "compiler",
@@ -107,7 +107,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32516,
+            "stars": 32514,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -139,7 +139,7 @@
             "open_issues": 144,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28741,
+            "stars": 28750,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 3,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21751,
+            "stars": 21754,
             "topics": [
               "awesome",
               "beginner",
@@ -197,7 +197,7 @@
             "open_issues": 643,
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 17992,
+            "stars": 17993,
             "topics": [
               "chart",
               "commonmark",
@@ -248,11 +248,11 @@
             "id": 25459400,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T07:28:34Z",
-            "open_issues": 534,
+            "last_commit": "2026-10-19T08:18:38Z",
+            "open_issues": 536,
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
-            "stars": 13867,
+            "stars": 13868,
             "topics": [
               "agent",
               "apm",
@@ -312,7 +312,7 @@
             "open_issues": 22,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17622,
+            "stars": 17624,
             "topics": [
               "algorithm",
               "computer-science",
@@ -349,7 +349,7 @@
             "open_issues": 208,
             "owner": "nhn",
             "repo": "tui.calendar",
-            "stars": 12694,
+            "stars": 12695,
             "topics": [
               "calendar",
               "daily",
@@ -512,7 +512,7 @@
             "open_issues": 24,
             "owner": "nhn",
             "repo": "tui.chart",
-            "stars": 5398,
+            "stars": 5397,
             "topics": [
               "canvas",
               "chart",
@@ -577,7 +577,7 @@
             "open_issues": 0,
             "owner": "naver",
             "repo": "fe-news",
-            "stars": 6288,
+            "stars": 6289,
             "topics": [
               "angular",
               "css",
@@ -613,7 +613,7 @@
             "open_issues": 26,
             "owner": "yeun",
             "repo": "open-color",
-            "stars": 5576,
+            "stars": 5579,
             "topics": [
               "adobe-library",
               "color",
@@ -794,7 +794,7 @@
             "id": 159097215,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T05:04:18Z",
+            "last_commit": "2026-10-19T05:04:22Z",
             "open_issues": 270,
             "owner": "javascript-tutorial",
             "repo": "ko.javascript.info",
@@ -851,8 +851,8 @@
             "id": 88146394,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T14:16:28Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-18T15:10:49Z",
+            "open_issues": 3,
             "owner": "JiHong88",
             "repo": "suneditor",
             "stars": 2021,
@@ -887,7 +887,7 @@
             "id": 205679046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T13:01:19Z",
+            "last_commit": "2026-10-18T23:28:56Z",
             "open_issues": 2,
             "owner": "dineug",
             "repo": "erd-editor",
@@ -933,7 +933,7 @@
             "open_issues": 53,
             "owner": "salgum1114",
             "repo": "react-design-editor",
-            "stars": 1709,
+            "stars": 1710,
             "topics": [
               "animejs",
               "ant-design",
@@ -1215,11 +1215,11 @@
             "id": 85386965,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-12T08:32:56Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-19T07:16:14Z",
+            "open_issues": 11,
             "owner": "acekyd",
             "repo": "made-in-nigeria",
-            "stars": 1153,
+            "stars": 1154,
             "topics": [
               "africa",
               "made-in-naija",
@@ -1296,7 +1296,7 @@
             "open_issues": 8,
             "owner": "suguru03",
             "repo": "made-in-japan",
-            "stars": 302,
+            "stars": 303,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T14:52:45.510Z",
+    "last_updated": "2026-10-19T17:47:29.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
