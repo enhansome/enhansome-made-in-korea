@@ -17,13 +17,13 @@
 
 ## > 20K ⭐️
 
-* **[fzf](https://github.com/junegunn/fzf) ⭐ 83,712 | 🐛 333 | 🌐 Go | 📅 2026-10-21** by [junegunn](https://github.com/junegunn)<br>
+* **[fzf](https://github.com/junegunn/fzf) ⭐ 83,722 | 🐛 333 | 🌐 Go | 📅 2026-10-21** by [junegunn](https://github.com/junegunn)<br>
   fzf is a general-purpose command-line fuzzy finder.
 
-* **[vim-plug](https://github.com/junegunn/vim-plug) ⭐ 35,774 | 🐛 86 | 🌐 Vim Script | 📅 2026-10-15** by [junegunn](https://github.com/junegunn)<br>
+* **[vim-plug](https://github.com/junegunn/vim-plug) ⭐ 35,777 | 🐛 86 | 🌐 Vim Script | 📅 2026-10-15** by [junegunn](https://github.com/junegunn)<br>
   A minimalist Vim plugin manager.
 
-* **[swc](https://github.com/swc-project/swc) ⭐ 34,195 | 🐛 413 | 🌐 Rust | 📅 2026-10-21** by [kdy1](https://github.com/kdy1)<br>
+* **[swc](https://github.com/swc-project/swc) ⭐ 34,197 | 🐛 414 | 🌐 Rust | 📅 2026-10-22** by [kdy1](https://github.com/kdy1)<br>
   SWC (stands for `Speedy Web Compiler`) is a super-fast TypeScript / JavaScript compiler written in Rust.
 
 * **[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,516 | 🐛 89 | 🌐 Python | 📅 2023-08-15** by [yunjey](https://github.com/yunjey)<br>
@@ -31,10 +31,10 @@
 
 ## > 10K ⭐️
 
-* **[Awesome-CV](https://github.com/posquit0/Awesome-CV) ⭐ 28,764 | 🐛 93 | 🌐 TeX | 📅 2026-10-21** by [posquit0](https://github.com/posquit0)<br>
+* **[Awesome-CV](https://github.com/posquit0/Awesome-CV) ⭐ 28,768 | 🐛 93 | 🌐 TeX | 📅 2026-10-21** by [posquit0](https://github.com/posquit0)<br>
   Awesome CV is LaTeX template for a CV(Curriculum Vitae), Résumé or Cover Letter inspired by Fancy CV. It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
 
-* **[Interview\_Question\_for\_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) ⭐ 21,758 | 🐛 3 | 📅 2024-08-09** by [JaeYeopHan](https://github.com/JaeYeopHan)<br>
+* **[Interview\_Question\_for\_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) ⭐ 21,761 | 🐛 3 | 📅 2024-08-09** by [JaeYeopHan](https://github.com/JaeYeopHan)<br>
   👦 👧 Technical-Interview guidelines written for those who started studying programming. I wish you all the best. 👾
 
 * **[tui.editor](https://github.com/nhn/tui.editor) ⚠️ Archived** by [nhn](https://github.com/nhn)<br>
@@ -43,7 +43,7 @@
 * **[qrcodejs](https://github.com/davidshimjs/qrcodejs) ⭐ 14,314 | 🐛 238 | 🌐 JavaScript | 📅 2024-05-01** by [davidshimjs](https://github.com/davidshimjs)<br>
   Cross-browser QRCode generator for javascript
 
-* **[pinpoint](https://github.com/pinpoint-apm/pinpoint) ⭐ 13,869 | 🐛 538 | 🌐 Java | 📅 2026-10-21** by [naver](https://github.com/naver)<br>
+* **[pinpoint](https://github.com/pinpoint-apm/pinpoint) ⭐ 13,870 | 🐛 540 | 🌐 Java | 📅 2026-10-22** by [naver](https://github.com/naver)<br>
   APM, (Application Performance Management) tool for large-scale distributed systems.
 
 * **[summernote](https://github.com/summernote/summernote) ⭐ 11,845 | 🐛 126 | 🌐 JavaScript | 📅 2026-04-15** by [hackerwins](https://github.com/hackerwins)<br>
@@ -51,7 +51,7 @@
 
 ## > 5K ⭐️
 
-* **[tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) ⭐ 17,634 | 🐛 22 | 🌐 Java | 📅 2025-06-04** by [gyoogle](https://github.com/gyoogle)<br>
+* **[tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) ⭐ 17,637 | 🐛 22 | 🌐 Java | 📅 2025-06-04** by [gyoogle](https://github.com/gyoogle)<br>
   👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 
 * **[tui.calendar](https://github.com/nhn/tui.calendar) ⚠️ Archived** by [nhn](https://github.com/nhn)<br>
@@ -63,13 +63,13 @@
 * **[crow](https://github.com/ipkn/crow) ⭐ 7,626 | 🐛 211 | 🌐 C++ | 📅 2024-06-06** by [ipkn](https://github.com/ipkn)<br>
   Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
 
-* **[awesome-rnn](https://github.com/kjw0612/awesome-rnn) ⭐ 6,213 | 🐛 4 | 📅 2022-02-03** by [kjw0612](https://github.com/kjw0612)<br>
+* **[awesome-rnn](https://github.com/kjw0612/awesome-rnn) ⭐ 6,212 | 🐛 4 | 📅 2022-02-03** by [kjw0612](https://github.com/kjw0612)<br>
   Recurrent Neural Network - A curated list of resources dedicated to RNN
 
 * **[billboard.js](https://github.com/naver/billboard.js) ⭐ 6,021 | 🐛 76 | 🌐 TypeScript | 📅 2026-10-20** by [naver](https://github.com/naver)<br>
   📊 Re-usable, easy interface JavaScript chart library based on D3.js
 
-* **[Lepton(Firefox-UI-Fix)](https://github.com/black7375/Firefox-UI-Fix) ⭐ 5,915 | 🐛 207 | 🌐 SCSS | 📅 2026-10-18** by [black7375](https://github.com/black7375)<br>
+* **[Lepton(Firefox-UI-Fix)](https://github.com/black7375/Firefox-UI-Fix) ⭐ 5,917 | 🐛 207 | 🌐 SCSS | 📅 2026-10-18** by [black7375](https://github.com/black7375)<br>
   🦊 I respect proton UI and aim to improve it.
 
 * **[tui.chart](https://github.com/nhn/tui.chart) ⚠️ Archived** by [nhn](https://github.com/nhn)<br>
@@ -101,7 +101,7 @@
 * **[ngrinder](https://github.com/naver/ngrinder) ⚠️ Archived** by [naver](https://github.com/naver)<br>
   enterprise level performance testing solution
 
-* **[ko.javascript.info](https://github.com/javascript-tutorial/ko.javascript.info) ⭐ 1,980 | 🐛 270 | 🌐 HTML | 📅 2026-10-19** by [Violet-Bora-Lee](https://github.com/Violet-Bora-Lee)<br>
+* **[ko.javascript.info](https://github.com/javascript-tutorial/ko.javascript.info) ⭐ 1,981 | 🐛 270 | 🌐 HTML | 📅 2026-10-19** by [Violet-Bora-Lee](https://github.com/Violet-Bora-Lee)<br>
   모던 JavaScript 튜토리얼 (The Modern JavaScript Tutorial in Korean)
 
 * **[hwp.js](https://github.com/hahnlee/hwp.js) ⭐ 1,307 | 🐛 34 | 🌐 TypeScript | 📅 2025-01-10** by [hahnlee](https://github.com/hahnlee)<br />
@@ -109,10 +109,10 @@
 
 ## > 500 ⭐️
 
-* **[SunEditor](https://github.com/JiHong88/SunEditor) ⭐ 2,022 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-20** by [JiHong88](https://github.com/JiHong88)<br>
+* **[SunEditor](https://github.com/JiHong88/SunEditor) ⭐ 2,023 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-22** by [JiHong88](https://github.com/JiHong88)<br>
   Pure javascript based WYSIWYG html editor, with no dependencies.
 
-* **[vuerd](https://github.com/vuerd/vuerd) ⭐ 1,727 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-18** by [dineug](https://github.com/dineug)<br>
+* **[vuerd](https://github.com/vuerd/vuerd) ⭐ 1,728 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-22** by [dineug](https://github.com/dineug)<br>
   Entity-Relationship Diagram Editor
 
 * **[react-design-editor](https://github.com/salgum1114/react-design-editor) ⭐ 1,710 | 🐛 53 | 🌐 TypeScript | 📅 2026-10-11** by [salgum1114](https://github.com/salgum1114)<br>
@@ -175,4 +175,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
