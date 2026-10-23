@@ -19,7 +19,7 @@
             "open_issues": 333,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 83722,
+            "stars": 83739,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 86,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35777,
+            "stars": 35779,
             "topics": [
               "vim"
             ]
@@ -74,7 +74,7 @@
             "open_issues": 414,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34197,
+            "stars": 34199,
             "topics": [
               "babel",
               "compiler",
@@ -139,7 +139,7 @@
             "open_issues": 93,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28768,
+            "stars": 28777,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 3,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21761,
+            "stars": 21765,
             "topics": [
               "awesome",
               "beginner",
@@ -231,7 +231,7 @@
             "open_issues": 238,
             "owner": "davidshimjs",
             "repo": "qrcodejs",
-            "stars": 14314,
+            "stars": 14316,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -248,7 +248,7 @@
             "id": 25459400,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T07:59:28Z",
+            "last_commit": "2026-10-23T10:50:32Z",
             "open_issues": 540,
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
@@ -312,7 +312,7 @@
             "open_issues": 22,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17637,
+            "stars": 17639,
             "topics": [
               "algorithm",
               "computer-science",
@@ -349,7 +349,7 @@
             "open_issues": 208,
             "owner": "nhn",
             "repo": "tui.calendar",
-            "stars": 12694,
+            "stars": 12692,
             "topics": [
               "calendar",
               "daily",
@@ -428,7 +428,7 @@
             "open_issues": 4,
             "owner": "kjw0612",
             "repo": "awesome-rnn",
-            "stars": 6212,
+            "stars": 6211,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -449,7 +449,7 @@
             "open_issues": 76,
             "owner": "naver",
             "repo": "billboard.js",
-            "stars": 6021,
+            "stars": 6022,
             "topics": [
               "canvas",
               "charting-library",
@@ -477,7 +477,7 @@
             "open_issues": 207,
             "owner": "black7375",
             "repo": "Firefox-UI-Fix",
-            "stars": 5917,
+            "stars": 5916,
             "topics": [
               "firefox",
               "firefox-css",
@@ -641,7 +641,7 @@
             "open_issues": 5,
             "owner": "hyochan",
             "repo": "react-native-iap",
-            "stars": 3222,
+            "stars": 3223,
             "topics": [
               "amazon",
               "android",
@@ -852,7 +852,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-22T15:18:11Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "JiHong88",
             "repo": "suneditor",
             "stars": 2023,
@@ -887,7 +887,7 @@
             "id": 205679046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T06:49:45Z",
+            "last_commit": "2026-10-23T14:31:09Z",
             "open_issues": 2,
             "owner": "dineug",
             "repo": "erd-editor",
@@ -1245,7 +1245,7 @@
             "open_issues": 72,
             "owner": "mohebifar",
             "repo": "made-in-iran",
-            "stars": 969,
+            "stars": 968,
             "topics": [
               "curated-list",
               "iran",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T16:05:07.168Z",
+    "last_updated": "2026-10-23T15:56:27.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
