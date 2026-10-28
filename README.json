@@ -19,7 +19,7 @@
             "open_issues": 335,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 83816,
+            "stars": 83846,
             "topics": [
               "bash",
               "cli",
@@ -70,11 +70,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T07:26:25Z",
-            "open_issues": 412,
+            "last_commit": "2026-10-28T08:16:42Z",
+            "open_issues": 413,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34205,
+            "stars": 34203,
             "topics": [
               "babel",
               "compiler",
@@ -139,7 +139,7 @@
             "open_issues": 93,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28809,
+            "stars": 28817,
             "topics": [
               "awesome",
               "coverletter",
@@ -231,7 +231,7 @@
             "open_issues": 238,
             "owner": "davidshimjs",
             "repo": "qrcodejs",
-            "stars": 14319,
+            "stars": 14320,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -248,11 +248,11 @@
             "id": 25459400,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T08:05:14Z",
+            "last_commit": "2026-10-28T10:52:13Z",
             "open_issues": 514,
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
-            "stars": 13872,
+            "stars": 13871,
             "topics": [
               "agent",
               "apm",
@@ -280,7 +280,7 @@
             "open_issues": 129,
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11846,
+            "stars": 11845,
             "topics": [
               "javascript",
               "summernote",
@@ -312,7 +312,7 @@
             "open_issues": 22,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17650,
+            "stars": 17654,
             "topics": [
               "algorithm",
               "computer-science",
@@ -349,7 +349,7 @@
             "open_issues": 208,
             "owner": "nhn",
             "repo": "tui.calendar",
-            "stars": 12692,
+            "stars": 12694,
             "topics": [
               "calendar",
               "daily",
@@ -381,7 +381,7 @@
             "open_issues": 47,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11191,
+            "stars": 11190,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -449,7 +449,7 @@
             "open_issues": 76,
             "owner": "naver",
             "repo": "billboard.js",
-            "stars": 6024,
+            "stars": 6025,
             "topics": [
               "canvas",
               "charting-library",
@@ -477,7 +477,7 @@
             "open_issues": 207,
             "owner": "black7375",
             "repo": "Firefox-UI-Fix",
-            "stars": 5922,
+            "stars": 5923,
             "topics": [
               "firefox",
               "firefox-css",
@@ -577,7 +577,7 @@
             "open_issues": 0,
             "owner": "naver",
             "repo": "fe-news",
-            "stars": 6288,
+            "stars": 6287,
             "topics": [
               "angular",
               "css",
@@ -743,7 +743,7 @@
             "open_issues": 3,
             "owner": "naver",
             "repo": "egjs-infinitegrid",
-            "stars": 2363,
+            "stars": 2364,
             "topics": [
               "angluar",
               "dom-recycle",
@@ -852,10 +852,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-27T14:29:52Z",
-            "open_issues": 2,
+            "open_issues": 4,
             "owner": "JiHong88",
             "repo": "suneditor",
-            "stars": 2027,
+            "stars": 2029,
             "topics": [
               "cms",
               "contenteditable",
@@ -887,11 +887,11 @@
             "id": 205679046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T09:46:30Z",
+            "last_commit": "2026-10-28T11:56:43Z",
             "open_issues": 2,
             "owner": "dineug",
             "repo": "erd-editor",
-            "stars": 1731,
+            "stars": 1734,
             "topics": [
               "code-generation",
               "data-modeling",
@@ -1216,10 +1216,10 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-10-26T07:22:40Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "acekyd",
             "repo": "made-in-nigeria",
-            "stars": 1156,
+            "stars": 1157,
             "topics": [
               "africa",
               "made-in-naija",
@@ -1344,7 +1344,7 @@
             "open_issues": 9,
             "owner": "made-in-bangladesh",
             "repo": "made-in-bangladesh",
-            "stars": 181,
+            "stars": 180,
             "topics": [
               "bangladesh",
               "frameworks",
@@ -1563,7 +1563,7 @@
             "open_issues": 0,
             "owner": "olivsinz",
             "repo": "made-in-benin",
-            "stars": 26,
+            "stars": 25,
             "topics": [
               "benin",
               "benin-devs",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T16:52:42.984Z",
+    "last_updated": "2026-10-28T17:26:34.116Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",

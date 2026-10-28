@@ -17,13 +17,13 @@
 
 ## > 20K ⭐️
 
-* **[fzf](https://github.com/junegunn/fzf) ⭐ 83,816 | 🐛 335 | 🌐 Go | 📅 2026-10-25** by [junegunn](https://github.com/junegunn)<br>
+* **[fzf](https://github.com/junegunn/fzf) ⭐ 83,846 | 🐛 335 | 🌐 Go | 📅 2026-10-25** by [junegunn](https://github.com/junegunn)<br>
   fzf is a general-purpose command-line fuzzy finder.
 
 * **[vim-plug](https://github.com/junegunn/vim-plug) ⭐ 35,782 | 🐛 86 | 🌐 Vim Script | 📅 2026-10-15** by [junegunn](https://github.com/junegunn)<br>
   A minimalist Vim plugin manager.
 
-* **[swc](https://github.com/swc-project/swc) ⭐ 34,205 | 🐛 412 | 🌐 Rust | 📅 2026-10-27** by [kdy1](https://github.com/kdy1)<br>
+* **[swc](https://github.com/swc-project/swc) ⭐ 34,203 | 🐛 413 | 🌐 Rust | 📅 2026-10-28** by [kdy1](https://github.com/kdy1)<br>
   SWC (stands for `Speedy Web Compiler`) is a super-fast TypeScript / JavaScript compiler written in Rust.
 
 * **[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,513 | 🐛 89 | 🌐 Python | 📅 2023-08-15** by [yunjey](https://github.com/yunjey)<br>
@@ -31,7 +31,7 @@
 
 ## > 10K ⭐️
 
-* **[Awesome-CV](https://github.com/posquit0/Awesome-CV) ⭐ 28,809 | 🐛 93 | 🌐 TeX | 📅 2026-10-21** by [posquit0](https://github.com/posquit0)<br>
+* **[Awesome-CV](https://github.com/posquit0/Awesome-CV) ⭐ 28,817 | 🐛 93 | 🌐 TeX | 📅 2026-10-21** by [posquit0](https://github.com/posquit0)<br>
   Awesome CV is LaTeX template for a CV(Curriculum Vitae), Résumé or Cover Letter inspired by Fancy CV. It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
 
 * **[Interview\_Question\_for\_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) ⭐ 21,773 | 🐛 3 | 📅 2024-08-09** by [JaeYeopHan](https://github.com/JaeYeopHan)<br>
@@ -40,24 +40,24 @@
 * **[tui.editor](https://github.com/nhn/tui.editor) ⚠️ Archived** by [nhn](https://github.com/nhn)<br>
   GFM Markdown and WYSIWYG Editor - Productive and Extensible
 
-* **[qrcodejs](https://github.com/davidshimjs/qrcodejs) ⭐ 14,319 | 🐛 238 | 🌐 JavaScript | 📅 2024-05-01** by [davidshimjs](https://github.com/davidshimjs)<br>
+* **[qrcodejs](https://github.com/davidshimjs/qrcodejs) ⭐ 14,320 | 🐛 238 | 🌐 JavaScript | 📅 2024-05-01** by [davidshimjs](https://github.com/davidshimjs)<br>
   Cross-browser QRCode generator for javascript
 
-* **[pinpoint](https://github.com/pinpoint-apm/pinpoint) ⭐ 13,872 | 🐛 514 | 🌐 Java | 📅 2026-10-27** by [naver](https://github.com/naver)<br>
+* **[pinpoint](https://github.com/pinpoint-apm/pinpoint) ⭐ 13,871 | 🐛 514 | 🌐 Java | 📅 2026-10-28** by [naver](https://github.com/naver)<br>
   APM, (Application Performance Management) tool for large-scale distributed systems.
 
-* **[summernote](https://github.com/summernote/summernote) ⭐ 11,846 | 🐛 129 | 🌐 JavaScript | 📅 2026-04-15** by [hackerwins](https://github.com/hackerwins)<br>
+* **[summernote](https://github.com/summernote/summernote) ⭐ 11,845 | 🐛 129 | 🌐 JavaScript | 📅 2026-04-15** by [hackerwins](https://github.com/hackerwins)<br>
   Summernote is a JavaScript library that helps you create WYSIWYG editors online.
 
 ## > 5K ⭐️
 
-* **[tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) ⭐ 17,650 | 🐛 22 | 🌐 Java | 📅 2025-06-04** by [gyoogle](https://github.com/gyoogle)<br>
+* **[tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) ⭐ 17,654 | 🐛 22 | 🌐 Java | 📅 2025-06-04** by [gyoogle](https://github.com/gyoogle)<br>
   👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 
 * **[tui.calendar](https://github.com/nhn/tui.calendar) ⚠️ Archived** by [nhn](https://github.com/nhn)<br>
   🍞📅A JavaScript calendar that has everything you need.
 
-* **[awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,191 | 🐛 47 | 📅 2023-08-15** by [kjw0612](https://github.com/kjw0612)<br>
+* **[awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,190 | 🐛 47 | 📅 2023-08-15** by [kjw0612](https://github.com/kjw0612)<br>
   A curated list of deep learning resources for computer vision
 
 * **[crow](https://github.com/ipkn/crow) ⭐ 7,629 | 🐛 211 | 🌐 C++ | 📅 2024-06-06** by [ipkn](https://github.com/ipkn)<br>
@@ -66,10 +66,10 @@
 * **[awesome-rnn](https://github.com/kjw0612/awesome-rnn) ⭐ 6,211 | 🐛 4 | 📅 2022-02-03** by [kjw0612](https://github.com/kjw0612)<br>
   Recurrent Neural Network - A curated list of resources dedicated to RNN
 
-* **[billboard.js](https://github.com/naver/billboard.js) ⭐ 6,024 | 🐛 76 | 🌐 TypeScript | 📅 2026-10-27** by [naver](https://github.com/naver)<br>
+* **[billboard.js](https://github.com/naver/billboard.js) ⭐ 6,025 | 🐛 76 | 🌐 TypeScript | 📅 2026-10-27** by [naver](https://github.com/naver)<br>
   📊 Re-usable, easy interface JavaScript chart library based on D3.js
 
-* **[Lepton(Firefox-UI-Fix)](https://github.com/black7375/Firefox-UI-Fix) ⭐ 5,922 | 🐛 207 | 🌐 SCSS | 📅 2026-10-18** by [black7375](https://github.com/black7375)<br>
+* **[Lepton(Firefox-UI-Fix)](https://github.com/black7375/Firefox-UI-Fix) ⭐ 5,923 | 🐛 207 | 🌐 SCSS | 📅 2026-10-18** by [black7375](https://github.com/black7375)<br>
   🦊 I respect proton UI and aim to improve it.
 
 * **[tui.chart](https://github.com/nhn/tui.chart) ⚠️ Archived** by [nhn](https://github.com/nhn)<br>
@@ -80,7 +80,7 @@
 * **[tui.image-editor](https://github.com/nhn/tui.image-editor) ⚠️ Archived** by [nhn](https://github.com/nhn)<br>
   🍞🎨 Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.
 
-* **[fe-news](https://github.com/naver/fe-news) ⭐ 6,288 | 🐛 0 | 📅 2026-10-07** by [naver](https://github.com/naver)<br>
+* **[fe-news](https://github.com/naver/fe-news) ⭐ 6,287 | 🐛 0 | 📅 2026-10-07** by [naver](https://github.com/naver)<br>
   FE 기술 소식 큐레이션 뉴스레터
 
 * **[open-color](https://github.com/yeun/open-color) ⭐ 5,580 | 🐛 26 | 🌐 Handlebars | 📅 2023-12-10** by [yeun](https://github.com/yeun)<br>
@@ -95,7 +95,7 @@
 * **[tui.grid](https://github.com/nhn/tui.grid) ⚠️ Archived** by [nhn](https://github.com/nhn)<br>
   🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!
 
-* **[egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) ⭐ 2,363 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-14** by [naver](https://github.com/naver)<br>
+* **[egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) ⭐ 2,364 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-14** by [naver](https://github.com/naver)<br>
   A module used to arrange card elements including content infinitely on a grid layout.
 
 * **[ngrinder](https://github.com/naver/ngrinder) ⚠️ Archived** by [naver](https://github.com/naver)<br>
@@ -109,10 +109,10 @@
 
 ## > 500 ⭐️
 
-* **[SunEditor](https://github.com/JiHong88/SunEditor) ⭐ 2,027 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-27** by [JiHong88](https://github.com/JiHong88)<br>
+* **[SunEditor](https://github.com/JiHong88/SunEditor) ⭐ 2,029 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-27** by [JiHong88](https://github.com/JiHong88)<br>
   Pure javascript based WYSIWYG html editor, with no dependencies.
 
-* **[vuerd](https://github.com/vuerd/vuerd) ⭐ 1,731 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-27** by [dineug](https://github.com/dineug)<br>
+* **[vuerd](https://github.com/vuerd/vuerd) ⭐ 1,734 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28** by [dineug](https://github.com/dineug)<br>
   Entity-Relationship Diagram Editor
 
 * **[react-design-editor](https://github.com/salgum1114/react-design-editor) ⭐ 1,710 | 🐛 53 | 🌐 TypeScript | 📅 2026-10-27** by [salgum1114](https://github.com/salgum1114)<br>
@@ -144,12 +144,12 @@
 
 ## Related projects
 
-* 🇳🇬 [made-in-nigeria](https://github.com/acekyd/made-in-nigeria) ⭐ 1,156 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-26
+* 🇳🇬 [made-in-nigeria](https://github.com/acekyd/made-in-nigeria) ⭐ 1,157 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-26
 * 🇮🇷 [made-in-iran](https://github.com/mohebifar/made-in-iran) ⭐ 969 | 🐛 72 | 🌐 TypeScript | 📅 2024-03-21
 * 🇺🇦 [made-in-ukraine](https://github.com/chernivtsijs/made-in-ukraine) ⭐ 604 | 🐛 1 | 📅 2025-11-17
 * 🇯🇵 [made-in-japan](https://github.com/suguru03/made-in-japan) ⭐ 304 | 🐛 8 | 🌐 JavaScript | 📅 2022-12-09
 * 🇹🇼 [made-in-taiwan](https://github.com/hueitan/made-in-taiwan) ⭐ 293 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-20
-* 🇧🇩 [made-in-bangladesh](https://github.com/made-in-bangladesh/made-in-bangladesh) ⭐ 181 | 🐛 9 | 🌐 Go | 📅 2023-04-15
+* 🇧🇩 [made-in-bangladesh](https://github.com/made-in-bangladesh/made-in-bangladesh) ⭐ 180 | 🐛 9 | 🌐 Go | 📅 2023-04-15
 * 🇧🇷 [made-in-brazil](https://github.com/IonicaBizau/made-in-brazil) ⭐ 172 | 🐛 0 | 📅 2025-02-13
 * 🇷🇴 [made-in-romania](https://github.com/IonicaBizau/made-in-romania) ⭐ 144 | 🐛 4 | 📅 2025-02-13
 * 🇮🇳 [made-in-india](https://github.com/IonicaBizau/made-in-india) ⭐ 89 | 🐛 1 | 📅 2025-02-13
@@ -158,7 +158,7 @@
 * 🇿🇲 [made-in-zambia](https://github.com/ZambianTech/made-in-zambia) ⭐ 39 | 🐛 1 | 📅 2023-04-27
 * 🇵🇱 [made-in-poland](https://github.com/IonicaBizau/made-in-poland) ⭐ 32 | 🐛 1 | 📅 2025-02-13
 * 🇧🇦 [made-in-bosnia](https://github.com/IonicaBizau/made-in-bosnia) ⭐ 27 | 🐛 0 | 📅 2025-02-13
-* 🇧🇯 [made-in-benin](https://github.com/0l1v3r5/made-in-benin) ⭐ 26 | 🐛 0 | 📅 2023-12-22
+* 🇧🇯 [made-in-benin](https://github.com/0l1v3r5/made-in-benin) ⭐ 25 | 🐛 0 | 📅 2023-12-22
 * 🇦🇹 [made-in-austria](https://github.com/IonicaBizau/made-in-austria) ⭐ 20 | 🐛 2 | 📅 2025-02-13
 * 🇨🇴 [made-in-colombia](https://github.com/IonicaBizau/made-in-colombia) ⭐ 18 | 🐛 0 | 📅 2025-02-13
 * 🇱🇻 [made-in-latvia](https://github.com/ummahusla/made-in-latvia) ⭐ 17 | 🐛 0 | 📅 2018-06-08
@@ -175,4 +175,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
