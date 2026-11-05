@@ -15,11 +15,11 @@
             "id": 13807606,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-04T07:06:07Z",
+            "last_commit": "2026-11-05T14:16:55Z",
             "open_issues": 336,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 84011,
+            "stars": 84040,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 88,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35795,
+            "stars": 35793,
             "topics": [
               "vim"
             ]
@@ -70,11 +70,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T14:27:08Z",
-            "open_issues": 418,
+            "last_commit": "2026-11-05T09:50:50Z",
+            "open_issues": 420,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34209,
+            "stars": 34208,
             "topics": [
               "babel",
               "compiler",
@@ -107,7 +107,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32525,
+            "stars": 32526,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -139,7 +139,7 @@
             "open_issues": 94,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28873,
+            "stars": 28877,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 4,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21788,
+            "stars": 21790,
             "topics": [
               "awesome",
               "beginner",
@@ -197,7 +197,7 @@
             "open_issues": 643,
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 17988,
+            "stars": 17989,
             "topics": [
               "chart",
               "commonmark",
@@ -248,11 +248,11 @@
             "id": 25459400,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T07:15:15Z",
-            "open_issues": 513,
+            "last_commit": "2026-11-05T07:32:13Z",
+            "open_issues": 515,
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
-            "stars": 13870,
+            "stars": 13871,
             "topics": [
               "agent",
               "apm",
@@ -277,10 +277,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-04-15T11:09:18Z",
-            "open_issues": 129,
+            "open_issues": 130,
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11845,
+            "stars": 11843,
             "topics": [
               "javascript",
               "summernote",
@@ -312,7 +312,7 @@
             "open_issues": 22,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17664,
+            "stars": 17667,
             "topics": [
               "algorithm",
               "computer-science",
@@ -445,8 +445,8 @@
             "id": 93701214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T19:24:04Z",
-            "open_issues": 79,
+            "last_commit": "2026-11-05T13:14:04Z",
+            "open_issues": 76,
             "owner": "naver",
             "repo": "billboard.js",
             "stars": 6024,
@@ -512,7 +512,7 @@
             "open_issues": 24,
             "owner": "nhn",
             "repo": "tui.chart",
-            "stars": 5395,
+            "stars": 5394,
             "topics": [
               "canvas",
               "chart",
@@ -577,7 +577,7 @@
             "open_issues": 0,
             "owner": "naver",
             "repo": "fe-news",
-            "stars": 6288,
+            "stars": 6291,
             "topics": [
               "angular",
               "css",
@@ -1219,7 +1219,7 @@
             "open_issues": 14,
             "owner": "acekyd",
             "repo": "made-in-nigeria",
-            "stars": 1157,
+            "stars": 1158,
             "topics": [
               "africa",
               "made-in-naija",
@@ -1344,7 +1344,7 @@
             "open_issues": 9,
             "owner": "made-in-bangladesh",
             "repo": "made-in-bangladesh",
-            "stars": 181,
+            "stars": 180,
             "topics": [
               "bangladesh",
               "frameworks",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T18:53:44.768Z",
+    "last_updated": "2026-11-05T19:03:36.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
