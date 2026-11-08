@@ -19,7 +19,7 @@
             "open_issues": 333,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 84055,
+            "stars": 84078,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 88,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35789,
+            "stars": 35779,
             "topics": [
               "vim"
             ]
@@ -71,7 +71,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-07T06:05:18Z",
-            "open_issues": 396,
+            "open_issues": 398,
             "owner": "swc-project",
             "repo": "swc",
             "stars": 34209,
@@ -104,10 +104,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2023-08-15T10:17:50Z",
-            "open_issues": 89,
+            "open_issues": 88,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32525,
+            "stars": 32524,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -139,7 +139,7 @@
             "open_issues": 94,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28892,
+            "stars": 28897,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 4,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21790,
+            "stars": 21792,
             "topics": [
               "awesome",
               "beginner",
@@ -197,7 +197,7 @@
             "open_issues": 643,
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 17986,
+            "stars": 17985,
             "topics": [
               "chart",
               "commonmark",
@@ -280,7 +280,7 @@
             "open_issues": 131,
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11843,
+            "stars": 11842,
             "topics": [
               "javascript",
               "summernote",
@@ -312,7 +312,7 @@
             "open_issues": 22,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17667,
+            "stars": 17671,
             "topics": [
               "algorithm",
               "computer-science",
@@ -381,7 +381,7 @@
             "open_issues": 47,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11192,
+            "stars": 11191,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -428,7 +428,7 @@
             "open_issues": 4,
             "owner": "kjw0612",
             "repo": "awesome-rnn",
-            "stars": 6212,
+            "stars": 6210,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -577,7 +577,7 @@
             "open_issues": 0,
             "owner": "naver",
             "repo": "fe-news",
-            "stars": 6290,
+            "stars": 6289,
             "topics": [
               "angular",
               "css",
@@ -798,7 +798,7 @@
             "open_issues": 270,
             "owner": "javascript-tutorial",
             "repo": "ko.javascript.info",
-            "stars": 1980,
+            "stars": 1981,
             "topics": [
               "javascript",
               "korean",
@@ -851,7 +851,7 @@
             "id": 88146394,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-07T16:13:48Z",
+            "last_commit": "2026-11-07T18:22:44Z",
             "open_issues": 2,
             "owner": "JiHong88",
             "repo": "suneditor",
@@ -891,7 +891,7 @@
             "open_issues": 2,
             "owner": "dineug",
             "repo": "erd-editor",
-            "stars": 1742,
+            "stars": 1744,
             "topics": [
               "code-generation",
               "data-modeling",
@@ -1395,7 +1395,7 @@
             "open_issues": 4,
             "owner": "IonicaBizau",
             "repo": "made-in-romania",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "hacktoberfest"
             ]
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T17:00:00.406Z",
+    "last_updated": "2026-11-08T17:15:24.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
