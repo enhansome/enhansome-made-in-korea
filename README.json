@@ -19,7 +19,7 @@
             "open_issues": 333,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 84179,
+            "stars": 84184,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 89,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35778,
+            "stars": 35781,
             "topics": [
               "vim"
             ]
@@ -70,11 +70,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T03:38:05Z",
-            "open_issues": 409,
+            "last_commit": "2026-11-13T16:17:00Z",
+            "open_issues": 411,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34214,
+            "stars": 34215,
             "topics": [
               "babel",
               "compiler",
@@ -139,7 +139,7 @@
             "open_issues": 94,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28933,
+            "stars": 28940,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 4,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21800,
+            "stars": 21803,
             "topics": [
               "awesome",
               "beginner",
@@ -197,7 +197,7 @@
             "open_issues": 643,
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 17986,
+            "stars": 17985,
             "topics": [
               "chart",
               "commonmark",
@@ -231,7 +231,7 @@
             "open_issues": 238,
             "owner": "davidshimjs",
             "repo": "qrcodejs",
-            "stars": 14320,
+            "stars": 14319,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -248,11 +248,11 @@
             "id": 25459400,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T07:34:40Z",
-            "open_issues": 511,
+            "last_commit": "2026-11-13T11:04:59Z",
+            "open_issues": 507,
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
-            "stars": 13877,
+            "stars": 13878,
             "topics": [
               "agent",
               "apm",
@@ -280,7 +280,7 @@
             "open_issues": 131,
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11842,
+            "stars": 11841,
             "topics": [
               "javascript",
               "summernote",
@@ -312,7 +312,7 @@
             "open_issues": 22,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17677,
+            "stars": 17681,
             "topics": [
               "algorithm",
               "computer-science",
@@ -349,7 +349,7 @@
             "open_issues": 208,
             "owner": "nhn",
             "repo": "tui.calendar",
-            "stars": 12687,
+            "stars": 12684,
             "topics": [
               "calendar",
               "daily",
@@ -449,7 +449,7 @@
             "open_issues": 77,
             "owner": "naver",
             "repo": "billboard.js",
-            "stars": 6027,
+            "stars": 6028,
             "topics": [
               "canvas",
               "charting-library",
@@ -508,11 +508,11 @@
             "id": 39979936,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2023-10-05T00:37:48Z",
+            "last_commit": "2026-11-13T16:33:55Z",
             "open_issues": 24,
             "owner": "nhn",
             "repo": "tui.chart",
-            "stars": 5393,
+            "stars": 5392,
             "topics": [
               "canvas",
               "chart",
@@ -547,7 +547,7 @@
             "open_issues": 289,
             "owner": "nhn",
             "repo": "tui.image-editor",
-            "stars": 7663,
+            "stars": 7664,
             "topics": [
               "canvas",
               "drawing",
@@ -577,7 +577,7 @@
             "open_issues": 0,
             "owner": "naver",
             "repo": "fe-news",
-            "stars": 6288,
+            "stars": 6289,
             "topics": [
               "angular",
               "css",
@@ -613,7 +613,7 @@
             "open_issues": 25,
             "owner": "yeun",
             "repo": "open-color",
-            "stars": 5584,
+            "stars": 5583,
             "topics": [
               "adobe-library",
               "color",
@@ -641,7 +641,7 @@
             "open_issues": 5,
             "owner": "hyochan",
             "repo": "react-native-iap",
-            "stars": 3222,
+            "stars": 3221,
             "topics": [
               "amazon",
               "android",
@@ -671,7 +671,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-29T05:27:51Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "naver",
             "repo": "egjs-flicking",
             "stars": 2921,
@@ -743,7 +743,7 @@
             "open_issues": 3,
             "owner": "naver",
             "repo": "egjs-infinitegrid",
-            "stars": 2365,
+            "stars": 2366,
             "topics": [
               "angluar",
               "dom-recycle",
@@ -824,7 +824,7 @@
             "open_issues": 34,
             "owner": "hahnlee",
             "repo": "hwp.js",
-            "stars": 1307,
+            "stars": 1306,
             "topics": [
               "hacktoberfest",
               "hwp",
@@ -855,7 +855,7 @@
             "open_issues": 4,
             "owner": "JiHong88",
             "repo": "suneditor",
-            "stars": 2033,
+            "stars": 2032,
             "topics": [
               "cms",
               "contenteditable",
@@ -891,7 +891,7 @@
             "open_issues": 2,
             "owner": "dineug",
             "repo": "erd-editor",
-            "stars": 1749,
+            "stars": 1751,
             "topics": [
               "code-generation",
               "data-modeling",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T19:12:21.462Z",
+    "last_updated": "2026-11-13T18:48:30.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
