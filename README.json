@@ -19,7 +19,7 @@
             "open_issues": 333,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 84195,
+            "stars": 84212,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 89,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35784,
+            "stars": 35788,
             "topics": [
               "vim"
             ]
@@ -70,11 +70,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T14:16:49Z",
-            "open_issues": 398,
+            "last_commit": "2026-11-15T10:03:37Z",
+            "open_issues": 396,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34217,
+            "stars": 34219,
             "topics": [
               "babel",
               "compiler",
@@ -107,7 +107,7 @@
             "open_issues": 88,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32520,
+            "stars": 32522,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -139,7 +139,7 @@
             "open_issues": 94,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28943,
+            "stars": 28952,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 4,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21805,
+            "stars": 21810,
             "topics": [
               "awesome",
               "beginner",
@@ -193,11 +193,11 @@
             "id": 39759882,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2024-08-01T15:38:05Z",
+            "last_commit": "2026-11-15T05:10:31Z",
             "open_issues": 643,
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 17985,
+            "stars": 17984,
             "topics": [
               "chart",
               "commonmark",
@@ -280,7 +280,7 @@
             "open_issues": 131,
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11841,
+            "stars": 11838,
             "topics": [
               "javascript",
               "summernote",
@@ -312,7 +312,7 @@
             "open_issues": 22,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17681,
+            "stars": 17683,
             "topics": [
               "algorithm",
               "computer-science",
@@ -477,7 +477,7 @@
             "open_issues": 207,
             "owner": "black7375",
             "repo": "Firefox-UI-Fix",
-            "stars": 5924,
+            "stars": 5925,
             "topics": [
               "firefox",
               "firefox-css",
@@ -547,7 +547,7 @@
             "open_issues": 289,
             "owner": "nhn",
             "repo": "tui.image-editor",
-            "stars": 7664,
+            "stars": 7665,
             "topics": [
               "canvas",
               "drawing",
@@ -705,7 +705,7 @@
             "id": 36346787,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2024-01-10T23:41:36Z",
+            "last_commit": "2026-11-15T11:00:22Z",
             "open_issues": 404,
             "owner": "nhn",
             "repo": "tui.grid",
@@ -851,7 +851,7 @@
             "id": 88146394,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T22:13:57Z",
+            "last_commit": "2026-11-15T15:56:17Z",
             "open_issues": 4,
             "owner": "JiHong88",
             "repo": "suneditor",
@@ -1130,7 +1130,7 @@
             "open_issues": 16,
             "owner": "developer-1px",
             "repo": "adorable-css",
-            "stars": 303,
+            "stars": 302,
             "topics": [
               "atomic-css",
               "css",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T17:19:44.420Z",
+    "last_updated": "2026-11-15T18:00:15.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",

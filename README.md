@@ -17,24 +17,24 @@
 
 ## > 20K ⭐️
 
-* **[fzf](https://github.com/junegunn/fzf) ⭐ 84,195 | 🐛 333 | 🌐 Go | 📅 2026-11-12** by [junegunn](https://github.com/junegunn)<br>
+* **[fzf](https://github.com/junegunn/fzf) ⭐ 84,212 | 🐛 333 | 🌐 Go | 📅 2026-11-12** by [junegunn](https://github.com/junegunn)<br>
   fzf is a general-purpose command-line fuzzy finder.
 
-* **[vim-plug](https://github.com/junegunn/vim-plug) ⭐ 35,784 | 🐛 89 | 🌐 Vim Script | 📅 2026-11-07** by [junegunn](https://github.com/junegunn)<br>
+* **[vim-plug](https://github.com/junegunn/vim-plug) ⭐ 35,788 | 🐛 89 | 🌐 Vim Script | 📅 2026-11-07** by [junegunn](https://github.com/junegunn)<br>
   A minimalist Vim plugin manager.
 
-* **[swc](https://github.com/swc-project/swc) ⭐ 34,217 | 🐛 398 | 🌐 Rust | 📅 2026-11-14** by [kdy1](https://github.com/kdy1)<br>
+* **[swc](https://github.com/swc-project/swc) ⭐ 34,219 | 🐛 396 | 🌐 Rust | 📅 2026-11-15** by [kdy1](https://github.com/kdy1)<br>
   SWC (stands for `Speedy Web Compiler`) is a super-fast TypeScript / JavaScript compiler written in Rust.
 
-* **[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,520 | 🐛 88 | 🌐 Python | 📅 2023-08-15** by [yunjey](https://github.com/yunjey)<br>
+* **[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,522 | 🐛 88 | 🌐 Python | 📅 2023-08-15** by [yunjey](https://github.com/yunjey)<br>
   This repository provides tutorial code for deep learning researchers to learn PyTorch. In the tutorial, most of the models were implemented with less than 30 lines of code. Before starting this tutorial, it is recommended to finish Official Pytorch Tutorial.
 
 ## > 10K ⭐️
 
-* **[Awesome-CV](https://github.com/posquit0/Awesome-CV) ⭐ 28,943 | 🐛 94 | 🌐 TeX | 📅 2026-10-30** by [posquit0](https://github.com/posquit0)<br>
+* **[Awesome-CV](https://github.com/posquit0/Awesome-CV) ⭐ 28,952 | 🐛 94 | 🌐 TeX | 📅 2026-10-30** by [posquit0](https://github.com/posquit0)<br>
   Awesome CV is LaTeX template for a CV(Curriculum Vitae), Résumé or Cover Letter inspired by Fancy CV. It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
 
-* **[Interview\_Question\_for\_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) ⭐ 21,805 | 🐛 4 | 📅 2024-08-09** by [JaeYeopHan](https://github.com/JaeYeopHan)<br>
+* **[Interview\_Question\_for\_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) ⭐ 21,810 | 🐛 4 | 📅 2024-08-09** by [JaeYeopHan](https://github.com/JaeYeopHan)<br>
   👦 👧 Technical-Interview guidelines written for those who started studying programming. I wish you all the best. 👾
 
 * **[tui.editor](https://github.com/nhn/tui.editor) ⚠️ Archived** by [nhn](https://github.com/nhn)<br>
@@ -46,12 +46,12 @@
 * **[pinpoint](https://github.com/pinpoint-apm/pinpoint) ⭐ 13,878 | 🐛 507 | 🌐 Java | 📅 2026-11-13** by [naver](https://github.com/naver)<br>
   APM, (Application Performance Management) tool for large-scale distributed systems.
 
-* **[summernote](https://github.com/summernote/summernote) ⭐ 11,841 | 🐛 131 | 🌐 JavaScript | 📅 2026-04-15** by [hackerwins](https://github.com/hackerwins)<br>
+* **[summernote](https://github.com/summernote/summernote) ⭐ 11,838 | 🐛 131 | 🌐 JavaScript | 📅 2026-04-15** by [hackerwins](https://github.com/hackerwins)<br>
   Summernote is a JavaScript library that helps you create WYSIWYG editors online.
 
 ## > 5K ⭐️
 
-* **[tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) ⭐ 17,681 | 🐛 22 | 🌐 Java | 📅 2025-06-04** by [gyoogle](https://github.com/gyoogle)<br>
+* **[tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) ⭐ 17,683 | 🐛 22 | 🌐 Java | 📅 2025-06-04** by [gyoogle](https://github.com/gyoogle)<br>
   👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 
 * **[tui.calendar](https://github.com/nhn/tui.calendar) ⚠️ Archived** by [nhn](https://github.com/nhn)<br>
@@ -69,7 +69,7 @@
 * **[billboard.js](https://github.com/naver/billboard.js) ⭐ 6,028 | 🐛 77 | 🌐 TypeScript | 📅 2026-11-12** by [naver](https://github.com/naver)<br>
   📊 Re-usable, easy interface JavaScript chart library based on D3.js
 
-* **[Lepton(Firefox-UI-Fix)](https://github.com/black7375/Firefox-UI-Fix) ⭐ 5,924 | 🐛 207 | 🌐 SCSS | 📅 2026-10-18** by [black7375](https://github.com/black7375)<br>
+* **[Lepton(Firefox-UI-Fix)](https://github.com/black7375/Firefox-UI-Fix) ⭐ 5,925 | 🐛 207 | 🌐 SCSS | 📅 2026-10-18** by [black7375](https://github.com/black7375)<br>
   🦊 I respect proton UI and aim to improve it.
 
 * **[tui.chart](https://github.com/nhn/tui.chart) ⚠️ Archived** by [nhn](https://github.com/nhn)<br>
@@ -109,7 +109,7 @@
 
 ## > 500 ⭐️
 
-* **[SunEditor](https://github.com/JiHong88/SunEditor) ⭐ 2,032 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-11** by [JiHong88](https://github.com/JiHong88)<br>
+* **[SunEditor](https://github.com/JiHong88/SunEditor) ⭐ 2,032 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-15** by [JiHong88](https://github.com/JiHong88)<br>
   Pure javascript based WYSIWYG html editor, with no dependencies.
 
 * **[vuerd](https://github.com/vuerd/vuerd) ⭐ 1,750 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-03** by [dineug](https://github.com/dineug)<br>
@@ -133,7 +133,7 @@
 
 ## > 0 ⭐️
 
-* **[adorable-css](https://github.com/developer-1px/adorable-css) ⭐ 303 | 🐛 16 | 🌐 TypeScript | 📅 2025-06-30** by [developer-1px](https://github.com/developer-1px)<br>
+* **[adorable-css](https://github.com/developer-1px/adorable-css) ⭐ 302 | 🐛 16 | 🌐 TypeScript | 📅 2025-06-30** by [developer-1px](https://github.com/developer-1px)<br>
   Rapid On-Demand Atomic CSS Framework
 
 * **[zsh-hangul](https://github.com/gomjellie/zsh-hangul) ⭐ 273 | 🐛 3 | 🌐 Shell | 📅 2025-07-31** by [gomjellie](https://github.com/gomjellie)<br>
@@ -175,4 +175,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
