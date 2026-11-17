@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-12T01:51:46Z",
-            "open_issues": 334,
+            "open_issues": 335,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 84225,
+            "stars": 84244,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 89,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35787,
+            "stars": 35789,
             "topics": [
               "vim"
             ]
@@ -70,8 +70,8 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T11:43:22Z",
-            "open_issues": 391,
+            "last_commit": "2026-11-17T07:02:20Z",
+            "open_issues": 386,
             "owner": "swc-project",
             "repo": "swc",
             "stars": 34220,
@@ -139,7 +139,7 @@
             "open_issues": 94,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 28964,
+            "stars": 28975,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 4,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21813,
+            "stars": 21818,
             "topics": [
               "awesome",
               "beginner",
@@ -197,7 +197,7 @@
             "open_issues": 643,
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 17984,
+            "stars": 17985,
             "topics": [
               "chart",
               "commonmark",
@@ -248,7 +248,7 @@
             "id": 25459400,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T12:28:10Z",
+            "last_commit": "2026-11-17T07:56:58Z",
             "open_issues": 501,
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
@@ -280,7 +280,7 @@
             "open_issues": 131,
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11836,
+            "stars": 11837,
             "topics": [
               "javascript",
               "summernote",
@@ -312,7 +312,7 @@
             "open_issues": 22,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17682,
+            "stars": 17684,
             "topics": [
               "algorithm",
               "computer-science",
@@ -381,7 +381,7 @@
             "open_issues": 47,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11197,
+            "stars": 11196,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -402,7 +402,7 @@
             "open_issues": 211,
             "owner": "ipkn",
             "repo": "crow",
-            "stars": 7626,
+            "stars": 7625,
             "topics": [
               "c-plus-plus",
               "crow",
@@ -428,7 +428,7 @@
             "open_issues": 4,
             "owner": "kjw0612",
             "repo": "awesome-rnn",
-            "stars": 6209,
+            "stars": 6208,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -445,8 +445,8 @@
             "id": 93701214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T19:24:45Z",
-            "open_issues": 83,
+            "last_commit": "2026-11-17T07:53:16Z",
+            "open_issues": 78,
             "owner": "naver",
             "repo": "billboard.js",
             "stars": 6028,
@@ -477,7 +477,7 @@
             "open_issues": 207,
             "owner": "black7375",
             "repo": "Firefox-UI-Fix",
-            "stars": 5925,
+            "stars": 5927,
             "topics": [
               "firefox",
               "firefox-css",
@@ -512,7 +512,7 @@
             "open_issues": 24,
             "owner": "nhn",
             "repo": "tui.chart",
-            "stars": 5392,
+            "stars": 5393,
             "topics": [
               "canvas",
               "chart",
@@ -613,7 +613,7 @@
             "open_issues": 25,
             "owner": "yeun",
             "repo": "open-color",
-            "stars": 5582,
+            "stars": 5583,
             "topics": [
               "adobe-library",
               "color",
@@ -891,7 +891,7 @@
             "open_issues": 2,
             "owner": "dineug",
             "repo": "erd-editor",
-            "stars": 1751,
+            "stars": 1753,
             "topics": [
               "code-generation",
               "data-modeling",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T21:16:10.159Z",
+    "last_updated": "2026-11-17T20:04:06.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
