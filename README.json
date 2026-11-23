@@ -15,11 +15,11 @@
             "id": 13807606,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-22T11:24:47Z",
-            "open_issues": 335,
+            "last_commit": "2026-11-23T13:42:40Z",
+            "open_issues": 339,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 84341,
+            "stars": 84374,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 89,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35793,
+            "stars": 35789,
             "topics": [
               "vim"
             ]
@@ -70,11 +70,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T12:56:38Z",
-            "open_issues": 382,
+            "last_commit": "2026-11-23T13:43:35Z",
+            "open_issues": 386,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34222,
+            "stars": 34220,
             "topics": [
               "babel",
               "compiler",
@@ -139,7 +139,7 @@
             "open_issues": 94,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 29003,
+            "stars": 29009,
             "topics": [
               "awesome",
               "coverletter",
@@ -171,7 +171,7 @@
             "open_issues": 4,
             "owner": "jbee37142",
             "repo": "Interview_Question_for_Beginner",
-            "stars": 21832,
+            "stars": 21835,
             "topics": [
               "awesome",
               "beginner",
@@ -197,7 +197,7 @@
             "open_issues": 643,
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 17985,
+            "stars": 17983,
             "topics": [
               "chart",
               "commonmark",
@@ -248,11 +248,11 @@
             "id": 25459400,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T08:34:06Z",
-            "open_issues": 471,
+            "last_commit": "2026-11-23T09:43:19Z",
+            "open_issues": 467,
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
-            "stars": 13876,
+            "stars": 13875,
             "topics": [
               "agent",
               "apm",
@@ -312,7 +312,7 @@
             "open_issues": 22,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17695,
+            "stars": 17699,
             "topics": [
               "algorithm",
               "computer-science",
@@ -445,8 +445,8 @@
             "id": 93701214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T00:45:52Z",
-            "open_issues": 76,
+            "last_commit": "2026-11-23T19:25:02Z",
+            "open_issues": 81,
             "owner": "naver",
             "repo": "billboard.js",
             "stars": 6027,
@@ -477,7 +477,7 @@
             "open_issues": 207,
             "owner": "black7375",
             "repo": "Firefox-UI-Fix",
-            "stars": 5924,
+            "stars": 5923,
             "topics": [
               "firefox",
               "firefox-css",
@@ -512,7 +512,7 @@
             "open_issues": 24,
             "owner": "nhn",
             "repo": "tui.chart",
-            "stars": 5391,
+            "stars": 5392,
             "topics": [
               "canvas",
               "chart",
@@ -547,7 +547,7 @@
             "open_issues": 289,
             "owner": "nhn",
             "repo": "tui.image-editor",
-            "stars": 7665,
+            "stars": 7664,
             "topics": [
               "canvas",
               "drawing",
@@ -641,7 +641,7 @@
             "open_issues": 5,
             "owner": "hyochan",
             "repo": "react-native-iap",
-            "stars": 3219,
+            "stars": 3220,
             "topics": [
               "amazon",
               "android",
@@ -794,7 +794,7 @@
             "id": 159097215,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T05:04:32Z",
+            "last_commit": "2026-11-23T05:04:40Z",
             "open_issues": 270,
             "owner": "javascript-tutorial",
             "repo": "ko.javascript.info",
@@ -1215,7 +1215,7 @@
             "id": 85386965,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-11-21T00:40:05Z",
+            "last_commit": "2026-11-23T10:15:16Z",
             "open_issues": 14,
             "owner": "acekyd",
             "repo": "made-in-nigeria",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T18:40:56.944Z",
+    "last_updated": "2026-11-23T22:56:12.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
