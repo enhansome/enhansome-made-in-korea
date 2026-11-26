@@ -19,7 +19,7 @@
             "open_issues": 341,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 84480,
+            "stars": 84507,
             "topics": [
               "bash",
               "cli",
@@ -51,7 +51,7 @@
             "open_issues": 90,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35792,
+            "stars": 35793,
             "topics": [
               "vim"
             ]
@@ -70,11 +70,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T09:13:23Z",
-            "open_issues": 381,
+            "last_commit": "2026-11-26T06:00:57Z",
+            "open_issues": 382,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34220,
+            "stars": 34222,
             "topics": [
               "babel",
               "compiler",
@@ -107,7 +107,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32529,
+            "stars": 32531,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -136,10 +136,10 @@
             "language": "TeX",
             "license": "LPPL-1.3c",
             "last_commit": "2026-10-30T15:15:18Z",
-            "open_issues": 95,
+            "open_issues": 94,
             "owner": "posquit0",
             "repo": "Awesome-CV",
-            "stars": 29018,
+            "stars": 29025,
             "topics": [
               "awesome",
               "coverletter",
@@ -248,11 +248,11 @@
             "id": 25459400,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T08:35:09Z",
-            "open_issues": 473,
+            "last_commit": "2026-11-26T09:39:09Z",
+            "open_issues": 471,
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
-            "stars": 13875,
+            "stars": 13873,
             "topics": [
               "agent",
               "apm",
@@ -312,7 +312,7 @@
             "open_issues": 22,
             "owner": "gyoogle",
             "repo": "tech-interview-for-developer",
-            "stars": 17703,
+            "stars": 17705,
             "topics": [
               "algorithm",
               "computer-science",
@@ -349,7 +349,7 @@
             "open_issues": 208,
             "owner": "nhn",
             "repo": "tui.calendar",
-            "stars": 12677,
+            "stars": 12678,
             "topics": [
               "calendar",
               "daily",
@@ -402,7 +402,7 @@
             "open_issues": 211,
             "owner": "ipkn",
             "repo": "crow",
-            "stars": 7627,
+            "stars": 7628,
             "topics": [
               "c-plus-plus",
               "crow",
@@ -445,8 +445,8 @@
             "id": 93701214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T05:34:11Z",
-            "open_issues": 77,
+            "last_commit": "2026-11-26T03:53:43Z",
+            "open_issues": 76,
             "owner": "naver",
             "repo": "billboard.js",
             "stars": 6026,
@@ -477,7 +477,7 @@
             "open_issues": 207,
             "owner": "black7375",
             "repo": "Firefox-UI-Fix",
-            "stars": 5924,
+            "stars": 5927,
             "topics": [
               "firefox",
               "firefox-css",
@@ -547,7 +547,7 @@
             "open_issues": 289,
             "owner": "nhn",
             "repo": "tui.image-editor",
-            "stars": 7664,
+            "stars": 7663,
             "topics": [
               "canvas",
               "drawing",
@@ -641,7 +641,7 @@
             "open_issues": 5,
             "owner": "hyochan",
             "repo": "react-native-iap",
-            "stars": 3221,
+            "stars": 3220,
             "topics": [
               "amazon",
               "android",
@@ -674,7 +674,7 @@
             "open_issues": 8,
             "owner": "naver",
             "repo": "egjs-flicking",
-            "stars": 2919,
+            "stars": 2920,
             "topics": [
               "angular",
               "carousel",
@@ -777,7 +777,7 @@
             "open_issues": 123,
             "owner": "naver",
             "repo": "ngrinder",
-            "stars": 2097,
+            "stars": 2096,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:08.990Z"
@@ -798,7 +798,7 @@
             "open_issues": 270,
             "owner": "javascript-tutorial",
             "repo": "ko.javascript.info",
-            "stars": 1980,
+            "stars": 1981,
             "topics": [
               "javascript",
               "korean",
@@ -855,7 +855,7 @@
             "open_issues": 4,
             "owner": "JiHong88",
             "repo": "suneditor",
-            "stars": 2041,
+            "stars": 2042,
             "topics": [
               "cms",
               "contenteditable",
@@ -887,11 +887,11 @@
             "id": 205679046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T17:43:05Z",
+            "last_commit": "2026-11-26T01:46:54Z",
             "open_issues": 2,
             "owner": "dineug",
             "repo": "erd-editor",
-            "stars": 1758,
+            "stars": 1759,
             "topics": [
               "code-generation",
               "data-modeling",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T20:41:39.376Z",
+    "last_updated": "2026-11-26T20:34:20.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers",
